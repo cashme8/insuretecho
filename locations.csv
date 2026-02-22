@@ -1,0 +1,51 @@
+LocationID,Borough,Zone,service_zone
+1,EWR,Newark Airport,EWR
+2,Queens,Jamaica Bay,Boro Zone
+3,Bronx,Allerton/Pelham Gardens,Boro Zone
+4,Manhattan,Alphabet City,Yellow Zone
+5,Staten Island,Arden Heights,Boro Zone
+6,Staten Island,Arrochar/Fort Wadsworth,Boro Zone
+7,Queens,Astoria,Boro Zone
+8,Queens,Astoria Park,Boro Zone
+9,Queens,Auburndale,Boro Zone
+10,Queens,Baisley Park,Boro Zone
+11,Brooklyn,Bath Beach,Boro Zone
+12,Manhattan,Battery Park,Yellow Zone
+13,Manhattan,Battery Park City,Yellow Zone
+14,Brooklyn,Bay Ridge,Boro Zone
+15,Queens,Bay Terrace/Fort Totten,Boro Zone
+16,Queens,Bayside,Boro Zone
+17,Brooklyn,Bedford,Boro Zone
+18,Bronx,Bedford Park,Boro Zone
+19,Queens,Bellerose,Boro Zone
+20,Bronx,Belmont,Boro Zone
+21,Brooklyn,Bensonhurst East,Boro Zone
+22,Brooklyn,Bensonhurst West,Boro Zone
+23,Staten Island,Bloomfield/Emerson Hill,Boro Zone
+24,Manhattan,Bloomingdale,Yellow Zone
+25,Brooklyn,Boerum Hill,Boro Zone
+26,Brooklyn,Borough Park,Boro Zone
+27,Queens,Breezy Point/Fort Tilden/Riis Beach,Boro Zone
+28,Queens,Briarwood/Jamaica Hills,Boro Zone
+29,Brooklyn,Brighton Beach,Boro Zone
+30,Queens,Broad Channel,Boro Zone
+31,Bronx,Bronx Park,Boro Zone
+32,Bronx,Bronxdale,Boro Zone
+33,Brooklyn,Brooklyn Heights,Boro Zone
+34,Brooklyn,Brooklyn Navy Yard,Boro Zone
+35,Brooklyn,Brownsville,Boro Zone
+36,Brooklyn,Bushwick North,Boro Zone
+37,Brooklyn,Bushwick South,Boro Zone
+38,Queens,Cambria Heights,Boro Zone
+39,Brooklyn,Canarsie,Boro Zone
+40,Brooklyn,Carroll Gardens,Boro Zone
+41,Manhattan,Central Harlem,Boro Zone
+42,Manhattan,Central Harlem North,Boro Zone
+43,Manhattan,Central Park,Yellow Zone
+44,Staten Island,Charleston/Tottenville,Boro Zone
+45,Manhattan,Chinatown,Yellow Zone
+46,Bronx,City Island,Boro Zone
+47,Bronx,Claremont/Bathgate,Boro Zone
+48,Manhattan,Clinton East,Yellow Zone
+49,Brooklyn,Clinton Hill,Boro Zone
+50,Manhattan,Clinton West,Yellow Zone
