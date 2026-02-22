@@ -1,0 +1,1706 @@
+VendorID,tpep_pickup_datetime,tpep_dropoff_datetime,passenger_count,trip_distance,PULocationID,DOLocationID,fare_amount,total_amount,pickup_zone,pickup_borough,dropoff_zone
+2,2019-01-01 07:33:53,2019-01-01 07:57:26,1,3.71,36,40,17.50,18.80,Bushwick North,Brooklyn,Carroll Gardens
+2,2019-01-01 13:21:14,2019-01-01 13:32:45,1,2.31,49,37,10.00,13.00,Clinton Hill,Brooklyn,Bushwick South
+2,2019-01-01 14:44:08,2019-01-01 15:05:59,1,11.65,11,42,32.50,40.56,Bath Beach,Brooklyn,Central Harlem North
+1,2019-01-01 07:12:15,2019-01-01 07:21:10,1,2.20,49,38,9.00,11.30,Clinton Hill,Brooklyn,Cambria Heights
+1,2019-01-01 22:23:58,2019-01-01 22:36:30,1,3.50,38,46,13.00,18.55,Cambria Heights,Queens,City Island
+1,2019-01-01 22:50:20,2019-01-01 23:07:42,1,2.30,18,29,12.50,13.80,Bedford Park,Bronx,Brighton Beach
+2,2019-01-01 02:07:54,2019-01-01 02:15:40,1,1.01,13,31,6.50,11.80,Battery Park City,Manhattan,Bronx Park
+2,2019-01-01 12:19:31,2019-01-01 12:27:33,1,1.14,11,48,7.00,8.30,Bath Beach,Brooklyn,Clinton East
+2,2019-01-01 00:12:18,2019-01-01 00:19:03,1,2.26,7,32,9.00,10.30,Astoria,Queens,Bronxdale
+2,2019-01-01 00:27:47,2019-01-01 00:34:31,1,0.82,29,7,6.00,8.76,Brighton Beach,Brooklyn,Astoria
+2,2019-01-01 22:36:12,2019-01-01 22:44:40,1,0.90,7,49,7.00,9.96,Astoria,Queens,Clinton Hill
+2,2019-01-01 23:54:17,2019-01-02 00:07:16,1,1.14,18,48,9.00,12.36,Bedford Park,Bronx,Clinton East
+2,2019-01-01 09:19:24,2019-01-01 09:35:23,3,8.20,37,25,23.00,24.31,Bushwick South,Brooklyn,Boerum Hill
+2,2019-01-01 08:21:50,2019-01-01 08:28:25,3,0.71,11,29,6.00,7.30,Bath Beach,Brooklyn,Brighton Beach
+2,2019-01-01 01:38:11,2019-01-01 01:48:19,2,1.30,11,37,8.50,9.80,Bath Beach,Brooklyn,Bushwick South
+2,2019-01-01 02:49:42,2019-01-01 03:00:51,1,1.82,37,43,9.50,10.80,Bushwick South,Brooklyn,Central Park
+2,2019-01-01 19:10:58,2019-01-01 19:19:25,1,1.74,48,37,8.00,11.16,Clinton East,Manhattan,Bushwick South
+2,2019-01-01 03:33:54,2019-01-01 03:52:41,1,4.95,29,12,18.00,24.12,Brighton Beach,Brooklyn,Battery Park
+2,2019-01-01 15:56:14,2019-01-01 16:17:08,1,5.64,12,34,20.00,26.62,Battery Park,Manhattan,Brooklyn Navy Yard
+1,2019-01-01 13:13:42,2019-01-01 13:36:54,3,3.20,11,39,17.00,18.30,Bath Beach,Brooklyn,Canarsie
+1,2019-01-01 16:39:03,2019-01-01 16:53:40,3,2.40,39,41,11.50,17.80,Canarsie,Brooklyn,Central Harlem
+1,2019-01-01 14:29:46,2019-01-01 14:43:06,1,1.70,29,14,10.00,13.55,Brighton Beach,Brooklyn,Bay Ridge
+1,2019-01-01 01:48:41,2019-01-01 02:06:04,2,3.00,30,13,13.50,14.80,Broad Channel,Queens,Battery Park City
+1,2019-01-01 11:34:43,2019-01-01 11:55:05,4,3.20,34,11,15.00,19.55,Brooklyn Navy Yard,Brooklyn,Bath Beach
+1,2019-01-01 04:59:13,2019-01-01 05:21:35,1,3.50,11,46,17.00,20.30,Bath Beach,Brooklyn,City Island
+1,2019-01-01 09:29:07,2019-01-01 10:04:13,1,1.70,40,48,20.50,26.16,Carroll Gardens,Brooklyn,Clinton East
+2,2019-01-01 01:22:36,2019-01-01 01:48:14,1,4.60,29,13,18.50,20.79,Brighton Beach,Brooklyn,Battery Park City
+2,2019-01-01 03:49:09,2019-01-01 03:52:18,1,0.46,13,12,4.00,6.36,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 22:57:08,2019-01-01 23:01:50,1,1.16,41,36,6.00,8.76,Central Harlem,Manhattan,Bushwick North
+1,2019-01-01 23:36:06,2019-01-01 23:44:06,1,1.40,38,43,7.50,10.55,Cambria Heights,Queens,Central Park
+2,2019-01-01 02:10:52,2019-01-01 02:26:10,1,1.72,25,40,11.50,12.80,Boerum Hill,Brooklyn,Carroll Gardens
+2,2019-01-01 02:50:04,2019-01-01 02:56:47,1,1.16,50,42,6.50,9.36,Clinton West,Manhattan,Central Harlem North
+2,2019-01-01 09:09:06,2019-01-01 09:20:54,1,1.55,29,49,9.00,12.88,Brighton Beach,Brooklyn,Clinton Hill
+2,2019-01-01 22:40:33,2019-01-01 22:52:15,1,1.12,7,20,8.50,12.74,Astoria,Queens,Belmont
+2,2019-01-01 03:54:06,2019-01-01 04:04:03,1,3.02,20,4,10.50,11.80,Belmont,Bronx,Alphabet City
+2,2019-01-01 01:03:37,2019-01-01 01:09:42,5,2.07,37,40,8.00,9.30,Bushwick South,Brooklyn,Carroll Gardens
+2,2019-01-01 16:21:50,2019-01-01 16:41:19,5,1.66,37,43,13.50,14.80,Bushwick South,Brooklyn,Central Park
+2,2019-01-01 08:45:03,2019-01-01 08:53:10,5,1.61,42,38,8.00,11.16,Central Harlem North,Manhattan,Cambria Heights
+2,2019-01-01 06:14:11,2019-01-01 06:30:49,1,1.59,50,36,11.50,12.80,Clinton West,Manhattan,Bushwick North
+2,2019-01-01 03:36:39,2019-01-01 03:45:14,1,1.36,34,29,7.50,10.56,Brooklyn Navy Yard,Brooklyn,Brighton Beach
+2,2019-01-01 07:46:29,2019-01-01 08:11:13,1,4.01,29,42,17.50,19.80,Brighton Beach,Brooklyn,Central Harlem North
+2,2019-01-01 17:30:22,2019-01-01 17:34:31,1,0.93,29,29,5.00,8.19,Brighton Beach,Brooklyn,Brighton Beach
+2,2019-01-01 23:43:58,2019-01-01 23:50:28,1,1.76,29,29,7.50,10.56,Brighton Beach,Brooklyn,Brighton Beach
+2,2019-01-01 16:51:06,2019-01-01 16:56:45,1,1.26,29,29,6.50,7.80,Brighton Beach,Brooklyn,Brighton Beach
+1,2019-01-01 07:21:09,2019-01-01 07:28:14,1,1.30,33,7,7.00,10.35,Brooklyn Heights,Brooklyn,Astoria
+1,2019-01-01 03:48:28,2019-01-01 04:13:54,1,7.50,37,13,25.50,32.16,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 01:02:44,2019-01-01 01:08:42,3,0.91,29,48,5.50,6.80,Brighton Beach,Brooklyn,Clinton East
+2,2019-01-01 00:10:26,2019-01-01 00:25:07,2,3.38,48,9,13.50,17.76,Clinton East,Manhattan,Auburndale
+2,2019-01-01 09:32:54,2019-01-01 09:47:39,4,5.63,38,33,18.00,23.16,Cambria Heights,Queens,Brooklyn Heights
+2,2019-01-01 03:52:11,2019-01-01 04:08:40,3,1.69,12,48,11.00,15.38,Battery Park,Manhattan,Clinton East
+2,2019-01-01 09:44:35,2019-01-01 09:57:55,1,2.04,44,37,10.50,16.11,Charleston/Tottenville,Staten Island,Bushwick South
+2,2019-01-01 03:58:40,2019-01-01 04:02:52,1,0.59,37,37,5.00,6.30,Bushwick South,Brooklyn,Bushwick South
+1,2019-01-01 10:23:09,2019-01-01 10:50:06,1,3.40,37,49,17.50,22.55,Bushwick South,Brooklyn,Clinton Hill
+1,2019-01-01 01:51:24,2019-01-01 02:11:30,1,4.30,49,2,16.50,17.80,Clinton Hill,Brooklyn,Jamaica Bay
+2,2019-01-01 14:10:58,2019-01-01 14:34:17,6,2.00,29,14,15.00,18.30,Brighton Beach,Brooklyn,Bay Ridge
+2,2019-01-01 03:38:02,2019-01-01 03:43:07,1,0.44,14,20,5.00,7.56,Bay Ridge,Brooklyn,Belmont
+2,2019-01-01 16:51:44,2019-01-01 16:56:08,6,0.52,20,33,4.50,5.80,Belmont,Bronx,Brooklyn Heights
+2,2019-01-01 08:26:02,2019-01-01 08:32:59,6,0.98,37,29,6.50,7.80,Bushwick South,Brooklyn,Brighton Beach
+2,2019-01-01 23:34:59,2019-01-01 23:45:38,6,1.65,29,31,9.00,10.30,Brighton Beach,Brooklyn,Bronx Park
+2,2019-01-01 22:49:24,2019-01-01 23:05:44,6,3.07,31,6,13.50,17.76,Bronx Park,Bronx,Arrochar/Fort Wadsworth
+2,2019-01-01 14:18:26,2019-01-01 14:38:13,1,6.17,23,12,20.50,26.16,Bloomfield/Emerson Hill,Staten Island,Battery Park
+2,2019-01-01 01:39:55,2019-01-01 01:48:13,1,1.71,12,38,8.50,12.74,Battery Park,Manhattan,Cambria Heights
+2,2019-01-01 17:51:36,2019-01-01 17:55:27,1,0.99,39,43,5.00,6.30,Canarsie,Brooklyn,Central Park
+2,2019-01-01 18:56:58,2019-01-01 19:01:02,1,0.80,43,38,5.00,7.56,Central Park,Manhattan,Cambria Heights
+2,2019-01-01 17:28:27,2019-01-01 17:39:35,2,1.17,41,25,9.00,10.30,Central Harlem,Manhattan,Boerum Hill
+2,2019-01-01 22:42:30,2019-01-01 22:57:14,2,3.85,25,20,14.00,15.30,Boerum Hill,Brooklyn,Belmont
+2,2019-01-01 16:04:28,2019-01-01 16:10:57,1,1.50,50,18,7.00,8.30,Clinton West,Manhattan,Bedford Park
+2,2019-01-01 08:49:24,2019-01-01 08:51:37,1,0.50,50,48,4.00,5.80,Clinton West,Manhattan,Clinton East
+2,2019-01-01 23:54:03,2019-01-02 00:00:14,1,1.00,48,50,6.00,8.76,Clinton East,Manhattan,Clinton West
+4,2019-01-01 17:15:05,2019-01-01 17:27:32,1,2.71,13,37,11.00,14.76,Battery Park City,Manhattan,Bushwick South
+4,2019-01-01 01:33:18,2019-01-01 02:00:47,1,4.59,38,50,20.50,21.80,Cambria Heights,Queens,Clinton West
+2,2019-01-01 08:42:07,2019-01-01 09:11:36,1,3.23,14,31,18.50,23.76,Bay Ridge,Brooklyn,Bronx Park
+2,2019-01-01 00:19:09,2019-01-01 00:36:36,2,4.07,11,49,15.50,20.16,Bath Beach,Brooklyn,Clinton Hill
+2,2019-01-01 00:48:51,2019-01-01 01:07:02,1,5.86,44,26,19.00,20.30,Charleston/Tottenville,Staten Island,Borough Park
+2,2019-01-01 02:10:18,2019-01-01 02:16:01,1,2.19,13,12,8.00,9.30,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 23:27:20,2019-01-01 23:30:42,1,0.68,37,37,4.50,6.38,Bushwick South,Brooklyn,Bushwick South
+2,2019-01-01 23:32:10,2019-01-01 23:49:32,1,5.98,7,41,19.50,20.80,Astoria,Queens,Central Harlem
+2,2019-01-01 03:54:55,2019-01-01 04:01:45,1,2.05,36,40,8.50,11.76,Bushwick North,Brooklyn,Carroll Gardens
+2,2019-01-01 22:16:48,2019-01-01 22:19:00,1,0.36,7,7,3.50,4.80,Astoria,Queens,Astoria
+2,2019-01-01 00:49:02,2019-01-01 01:04:45,1,1.88,20,48,11.50,15.36,Belmont,Bronx,Clinton East
+2,2019-01-01 00:16:17,2019-01-01 00:26:35,1,1.43,49,29,8.50,12.25,Clinton Hill,Brooklyn,Brighton Beach
+2,2019-01-01 17:35:06,2019-01-01 17:50:22,1,2.71,29,6,13.00,17.88,Brighton Beach,Brooklyn,Arrochar/Fort Wadsworth
+2,2019-01-01 01:51:32,2019-01-01 02:40:24,1,11.10,6,2,41.00,50.76,Arrochar/Fort Wadsworth,Staten Island,Jamaica Bay
+2,2019-01-01 00:30:12,2019-01-01 01:05:38,1,4.55,20,39,24.00,27.30,Belmont,Bronx,Canarsie
+2,2018-12-31 01:56:26,2018-12-31 02:07:20,3,2.08,13,43,9.50,10.80,Battery Park City,Manhattan,Central Park
+2,2019-01-01 07:13:05,2019-01-01 07:38:51,4,3.55,42,7,17.50,22.56,Central Harlem North,Manhattan,Astoria
+2,2019-01-01 02:51:05,2019-01-01 03:04:29,2,1.15,7,13,9.00,12.36,Astoria,Queens,Battery Park City
+1,2019-01-01 18:23:12,2019-01-01 18:38:18,2,2.00,11,40,11.50,12.80,Bath Beach,Brooklyn,Carroll Gardens
+1,2019-01-01 02:46:33,2019-01-01 03:07:24,4,3.20,29,8,15.00,17.30,Brighton Beach,Brooklyn,Astoria Park
+2,2019-01-01 23:10:59,2019-01-01 23:21:21,4,1.58,13,14,8.50,9.80,Battery Park City,Manhattan,Bay Ridge
+2,2019-01-01 02:27:10,2019-01-01 02:33:22,2,0.78,34,20,6.00,7.30,Brooklyn Navy Yard,Brooklyn,Belmont
+2,2019-01-01 00:44:45,2019-01-01 00:50:54,3,0.87,11,43,6.00,7.30,Bath Beach,Brooklyn,Central Park
+2,2019-01-01 17:53:36,2019-01-01 18:02:28,2,2.73,42,16,10.00,11.30,Central Harlem North,Manhattan,Bayside
+2,2019-01-01 02:21:14,2019-01-01 02:29:40,1,1.98,34,31,8.50,12.00,Brooklyn Navy Yard,Brooklyn,Bronx Park
+2,2019-01-01 03:34:36,2019-01-01 03:39:29,1,1.46,31,49,6.50,9.36,Bronx Park,Bronx,Clinton Hill
+2,2019-01-01 07:46:10,2019-01-01 07:52:38,1,0.76,34,29,6.00,8.76,Brooklyn Navy Yard,Brooklyn,Brighton Beach
+2,2019-01-01 07:28:59,2019-01-01 07:52:39,1,0.93,11,50,14.00,18.36,Bath Beach,Brooklyn,Clinton West
+2,2019-01-01 09:56:19,2019-01-01 10:12:12,1,1.86,14,7,11.50,12.80,Bay Ridge,Brooklyn,Astoria
+1,2019-01-01 03:28:47,2019-01-01 03:58:13,1,4.90,46,13,22.00,23.30,City Island,Bronx,Battery Park City
+2,2019-01-01 08:35:26,2019-01-01 08:39:13,1,1.08,50,43,5.50,8.16,Clinton West,Manhattan,Central Park
+2,2019-01-01 01:42:03,2019-01-01 01:53:01,1,2.61,39,36,10.50,14.75,Canarsie,Brooklyn,Bushwick North
+2,2019-01-01 16:56:16,2019-01-01 17:00:20,1,0.57,13,36,4.50,5.80,Battery Park City,Manhattan,Bushwick North
+2,2019-01-01 07:27:16,2019-01-01 07:38:37,6,2.16,16,24,10.50,11.80,Bayside,Queens,Bloomingdale
+2,2019-01-01 03:47:26,2019-01-01 03:58:52,6,2.64,36,1,11.00,14.76,Bushwick North,Brooklyn,Newark Airport
+1,2019-01-01 17:46:55,2019-01-01 18:06:48,2,2.80,7,31,13.50,17.30,Astoria,Queens,Bronx Park
+2,2019-01-01 07:09:46,2019-01-01 07:15:31,6,2.04,37,32,8.00,11.16,Bushwick South,Brooklyn,Bronxdale
+2,2019-01-01 00:17:57,2019-01-01 00:24:42,6,2.66,32,33,9.50,10.80,Bronxdale,Bronx,Brooklyn Heights
+2,2019-01-01 23:30:47,2019-01-01 23:47:11,6,2.94,12,39,13.50,19.80,Battery Park,Manhattan,Canarsie
+2,2019-01-01 00:49:18,2019-01-01 01:17:26,6,5.28,39,13,20.50,25.55,Canarsie,Brooklyn,Battery Park City
+1,2019-01-01 22:30:07,2019-01-01 22:54:25,1,3.80,50,31,17.50,22.55,Clinton West,Manhattan,Bronx Park
+1,2019-01-01 03:56:20,2019-01-01 03:59:24,1,0.60,11,31,4.50,5.80,Bath Beach,Brooklyn,Bronx Park
+2,2019-01-01 00:34:03,2019-01-01 00:51:42,1,5.60,26,46,20.00,21.30,Borough Park,Brooklyn,City Island
+2,2019-01-01 17:21:17,2019-01-01 17:25:27,3,0.30,36,36,4.50,9.75,Bushwick North,Brooklyn,Bushwick North
+2,2019-01-01 17:40:37,2019-01-01 17:56:02,2,0.48,18,48,10.00,11.30,Bedford Park,Bronx,Clinton East
+2,2019-01-01 00:57:25,2019-01-01 01:24:12,2,4.54,48,31,19.50,26.00,Clinton East,Manhattan,Bronx Park
+2,2019-01-01 04:16:05,2019-01-01 04:19:57,1,0.58,50,50,4.50,6.67,Clinton West,Manhattan,Clinton West
+2,2019-01-01 17:25:05,2019-01-01 17:43:28,1,4.52,39,26,16.50,21.36,Canarsie,Brooklyn,Borough Park
+2,2019-01-01 16:55:10,2019-01-01 17:05:43,1,1.71,12,24,9.00,10.30,Battery Park,Manhattan,Bloomingdale
+2,2019-01-01 02:18:36,2019-01-01 02:24:40,1,1.95,37,25,7.50,8.80,Bushwick South,Brooklyn,Boerum Hill
+2,2019-01-01 07:26:59,2019-01-01 07:34:46,2,1.82,25,1,8.00,11.16,Boerum Hill,Brooklyn,Newark Airport
+2,2019-01-01 22:38:21,2019-01-01 22:58:36,1,7.74,1,28,23.50,24.80,Newark Airport,EWR,Briarwood/Jamaica Hills
+1,2019-01-01 12:38:55,2019-01-01 12:46:47,2,1.30,40,36,7.00,8.30,Carroll Gardens,Brooklyn,Bushwick North
+1,2019-01-01 22:49:08,2019-01-01 22:55:07,2,0.90,36,25,6.00,8.75,Bushwick North,Brooklyn,Boerum Hill
+2,2019-01-01 23:27:18,2019-01-01 23:37:43,6,1.04,34,20,8.00,9.30,Brooklyn Navy Yard,Brooklyn,Belmont
+2,2019-01-01 18:40:27,2019-01-01 18:52:02,6,1.64,20,7,9.00,12.30,Belmont,Bronx,Astoria
+2,2019-01-01 07:53:41,2019-01-01 08:08:02,6,1.66,7,46,10.50,14.16,Astoria,Queens,City Island
+2,2019-01-01 18:10:00,2019-01-01 18:36:43,2,14.37,32,15,40.00,49.56,Bronxdale,Bronx,Bay Terrace/Fort Totten
+2,2019-01-01 01:51:01,2019-01-01 02:25:44,3,9.37,11,20,30.50,38.16,Bath Beach,Brooklyn,Belmont
+2,2019-01-01 03:07:52,2019-01-01 03:15:46,1,1.54,20,34,7.50,9.68,Belmont,Bronx,Brooklyn Navy Yard
+2,2019-01-01 03:40:02,2019-01-01 03:57:19,2,4.06,29,31,16.00,22.49,Brighton Beach,Brooklyn,Bronx Park
+1,2019-01-01 03:18:17,2019-01-01 03:45:31,3,2.10,48,18,17.00,21.95,Clinton East,Manhattan,Bedford Park
+1,2019-01-01 22:48:24,2019-01-01 22:52:52,1,0.10,18,18,4.50,5.80,Bedford Park,Bronx,Bedford Park
+1,2019-01-01 22:51:57,2019-01-01 22:55:22,2,0.60,13,12,4.50,7.50,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 23:16:39,2019-01-01 23:22:55,1,0.75,13,11,6.00,8.76,Battery Park City,Manhattan,Bath Beach
+2,2019-01-01 02:41:52,2019-01-01 02:59:53,1,4.31,14,45,17.00,21.96,Bay Ridge,Brooklyn,Chinatown
+2,2019-01-01 23:03:37,2019-01-01 23:16:28,1,1.63,45,29,9.50,12.96,Chinatown,Manhattan,Brighton Beach
+2,2019-01-01 22:30:32,2019-01-01 22:34:50,2,0.84,39,38,5.50,6.80,Canarsie,Brooklyn,Cambria Heights
+2,2019-01-01 03:37:00,2019-01-01 03:51:17,2,2.29,38,50,11.50,16.00,Cambria Heights,Queens,Clinton West
+2,2019-01-01 11:52:26,2019-01-01 12:02:25,2,1.11,50,48,8.00,12.09,Clinton West,Manhattan,Clinton East
+2,2019-01-01 01:16:30,2019-01-01 01:32:14,2,2.54,42,12,12.50,13.80,Central Harlem North,Manhattan,Battery Park
+2,2019-01-01 08:35:46,2019-01-01 08:47:51,2,2.79,12,1,11.00,15.38,Battery Park,Manhattan,Newark Airport
+2,2019-01-01 22:51:11,2019-01-01 22:55:36,2,0.97,1,41,5.50,8.84,Newark Airport,EWR,Central Harlem
+1,2019-01-01 22:52:36,2019-01-01 22:54:35,1,0.70,37,36,4.00,5.30,Bushwick South,Brooklyn,Bushwick North
+1,2019-01-01 02:19:23,2019-01-01 02:28:51,1,1.50,37,12,8.50,11.56,Bushwick South,Brooklyn,Battery Park
+1,2019-01-01 03:29:48,2019-01-01 03:31:13,1,0.00,12,12,3.00,4.30,Battery Park,Manhattan,Battery Park
+1,2019-01-01 00:40:22,2019-01-01 00:48:12,1,1.20,37,36,7.50,10.55,Bushwick South,Brooklyn,Bushwick North
+1,2019-01-01 09:53:28,2019-01-01 10:01:28,1,2.50,37,25,9.50,12.95,Bushwick South,Brooklyn,Boerum Hill
+2,2019-01-01 03:25:35,2019-01-01 03:47:10,5,2.94,49,33,15.00,21.19,Clinton Hill,Brooklyn,Brooklyn Heights
+2,2019-01-01 02:55:05,2019-01-01 03:07:44,5,0.61,11,14,8.50,9.80,Bath Beach,Brooklyn,Bay Ridge
+1,2019-01-01 00:11:45,2019-01-01 00:34:13,2,2.10,29,20,14.50,18.96,Brighton Beach,Brooklyn,Belmont
+1,2019-01-01 23:47:59,2019-01-02 00:10:19,1,3.30,12,8,15.50,26.80,Battery Park,Manhattan,Astoria Park
+1,2019-01-01 00:22:33,2019-01-01 00:36:35,1,0.90,48,50,9.50,12.95,Clinton East,Manhattan,Clinton West
+1,2019-01-01 01:40:30,2019-01-01 02:06:54,1,4.30,50,11,19.00,24.35,Clinton West,Manhattan,Bath Beach
+2,2019-01-01 01:12:18,2019-01-01 01:53:25,5,8.33,46,37,31.50,39.36,City Island,Bronx,Bushwick South
+2,2019-01-01 01:16:33,2019-01-01 01:23:25,2,0.79,20,12,5.50,6.80,Belmont,Bronx,Battery Park
+2,2019-01-01 17:35:44,2019-01-01 17:37:57,2,0.37,37,29,3.50,4.80,Bushwick South,Brooklyn,Brighton Beach
+2,2019-01-01 16:45:16,2019-01-01 17:06:25,2,2.56,11,29,14.50,15.80,Bath Beach,Brooklyn,Brighton Beach
+2,2019-01-01 00:04:38,2019-01-01 00:18:26,1,1.92,14,4,10.00,11.30,Bay Ridge,Brooklyn,Alphabet City
+2,2019-01-01 23:20:48,2019-01-01 23:50:10,2,5.39,29,37,22.00,27.96,Brighton Beach,Brooklyn,Bushwick South
+2,2019-01-01 09:56:36,2019-01-01 10:13:11,2,2.35,37,6,12.00,13.30,Bushwick South,Brooklyn,Arrochar/Fort Wadsworth
+2,2019-01-01 01:09:14,2019-01-01 01:16:39,1,2.08,42,36,8.00,11.16,Central Harlem North,Manhattan,Bushwick North
+2,2019-01-01 16:22:04,2019-01-01 16:55:03,1,2.72,43,40,20.00,21.30,Central Park,Manhattan,Carroll Gardens
+2,2019-01-01 23:56:29,2019-01-02 00:07:44,1,1.38,40,24,8.50,9.80,Carroll Gardens,Brooklyn,Bloomingdale
+1,2019-01-01 21:00:35,2019-01-01 22:04:14,1,15.70,26,29,54.00,55.30,Borough Park,Brooklyn,Brighton Beach
+2,2019-01-01 23:27:59,2019-01-01 23:29:38,1,0.49,37,7,3.50,5.76,Bushwick South,Brooklyn,Astoria
+2,2019-01-01 08:15:42,2019-01-01 08:30:32,2,1.79,20,49,10.50,11.80,Belmont,Bronx,Clinton Hill
+2,2019-01-01 09:17:27,2019-01-01 09:40:16,2,4.94,46,37,19.00,20.30,City Island,Bronx,Bushwick South
+2,2019-01-01 11:47:26,2019-01-01 11:57:47,3,3.09,11,36,11.00,15.99,Bath Beach,Brooklyn,Bushwick North
+2,2019-01-01 23:58:50,2019-01-02 00:08:26,4,1.67,36,13,8.50,11.76,Bushwick North,Brooklyn,Battery Park City
+2,2019-01-01 07:04:12,2019-01-01 07:30:17,2,1.31,13,14,15.50,20.16,Battery Park City,Manhattan,Bay Ridge
+2,2019-01-01 09:36:10,2019-01-01 09:46:45,1,1.21,20,7,8.00,11.16,Belmont,Bronx,Astoria
+2,2019-01-01 07:55:52,2019-01-01 07:59:40,1,0.72,37,12,4.50,6.96,Bushwick South,Brooklyn,Battery Park
+2,2019-01-01 02:08:20,2019-01-01 02:13:00,1,0.84,36,12,5.00,6.30,Bushwick North,Brooklyn,Battery Park
+2,2019-01-01 08:16:37,2019-01-01 08:21:19,1,1.52,13,29,6.00,8.76,Battery Park City,Manhattan,Brighton Beach
+2,2019-01-01 09:26:54,2019-01-01 09:29:50,1,0.48,13,12,4.00,5.30,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 02:32:07,2019-01-01 02:48:44,1,2.87,12,42,13.50,14.80,Battery Park,Manhattan,Central Harlem North
+2,2019-01-01 19:50:26,2019-01-01 20:05:39,1,2.86,42,12,12.00,13.30,Central Harlem North,Manhattan,Battery Park
+2,2019-01-01 19:03:54,2019-01-01 19:17:45,1,2.79,37,40,12.00,17.29,Bushwick South,Brooklyn,Carroll Gardens
+2,2019-01-01 14:12:58,2019-01-01 14:45:20,2,11.11,50,39,34.50,54.03,Clinton West,Manhattan,Canarsie
+2,2019-01-01 23:55:27,2019-01-02 00:11:29,2,7.16,7,8,22.00,34.87,Astoria,Queens,Astoria Park
+2,2019-01-01 22:01:20,2019-01-01 22:09:17,3,1.67,41,42,8.00,9.30,Central Harlem,Manhattan,Central Harlem North
+2,2019-01-01 00:13:25,2019-01-01 00:24:07,2,1.61,42,41,9.00,10.30,Central Harlem North,Manhattan,Central Harlem
+2,2019-01-01 17:27:33,2019-01-01 17:32:55,2,0.91,41,41,5.50,8.16,Central Harlem,Manhattan,Central Harlem
+2,2019-01-01 17:38:03,2019-01-01 18:04:41,3,9.88,41,37,30.00,37.56,Central Harlem,Manhattan,Bushwick South
+2,2019-01-01 07:12:41,2019-01-01 07:15:52,4,0.80,41,37,4.50,6.96,Central Harlem,Manhattan,Bushwick South
+2,2019-01-01 03:24:09,2019-01-01 03:34:35,2,2.97,37,1,11.00,13.53,Bushwick South,Brooklyn,Newark Airport
+2,2019-01-01 22:40:02,2019-01-01 22:46:03,2,0.99,1,38,6.50,7.80,Newark Airport,EWR,Cambria Heights
+2,2019-01-01 03:53:14,2019-01-01 03:54:50,1,0.40,38,38,3.50,5.76,Cambria Heights,Queens,Cambria Heights
+1,2019-01-01 07:19:51,2019-01-01 07:48:39,2,17.60,15,44,47.50,54.56,Bay Terrace/Fort Totten,Queens,Charleston/Tottenville
+1,2019-01-01 00:16:03,2019-01-01 00:20:31,3,0.60,29,14,5.00,7.55,Brighton Beach,Brooklyn,Bay Ridge
+1,2019-01-01 02:27:48,2019-01-01 02:40:17,4,1.00,13,18,9.50,10.80,Battery Park City,Manhattan,Bedford Park
+1,2019-01-01 22:50:38,2019-01-01 23:15:13,3,4.10,18,38,19.50,20.80,Bedford Park,Bronx,Cambria Heights
+2,2019-01-01 07:05:49,2019-01-01 07:28:40,2,1.78,42,11,14.50,18.96,Central Harlem North,Manhattan,Bath Beach
+2,2019-01-01 22:30:35,2019-01-01 22:53:10,2,3.19,11,36,16.50,21.36,Bath Beach,Brooklyn,Bushwick North
+2,2019-01-01 12:56:19,2019-01-01 13:04:05,3,1.56,37,29,7.50,8.80,Bushwick South,Brooklyn,Brighton Beach
+2,2019-01-01 01:28:22,2019-01-01 01:49:43,2,2.00,42,40,14.00,19.89,Central Harlem North,Manhattan,Carroll Gardens
+2,2019-01-01 01:50:31,2019-01-01 02:05:33,2,1.62,40,48,10.50,14.16,Carroll Gardens,Brooklyn,Clinton East
+2,2019-01-01 17:13:48,2019-01-01 17:39:00,5,1.34,13,40,15.00,21.19,Battery Park City,Manhattan,Carroll Gardens
+2,2019-01-01 00:49:01,2019-01-01 01:16:54,5,6.19,49,13,22.50,26.80,Clinton Hill,Brooklyn,Battery Park City
+4,2019-01-01 03:14:03,2019-01-01 03:31:22,1,2.78,41,38,13.00,16.30,Central Harlem,Manhattan,Cambria Heights
+4,2019-01-01 01:36:26,2019-01-01 02:02:05,1,4.05,38,38,18.00,22.30,Cambria Heights,Queens,Cambria Heights
+2,2019-01-01 08:00:52,2019-01-01 08:14:02,6,2.67,14,12,11.00,14.76,Bay Ridge,Brooklyn,Battery Park
+2,2019-01-01 17:31:40,2019-01-01 17:40:26,6,1.57,11,36,8.00,11.16,Bath Beach,Brooklyn,Bushwick North
+2,2019-01-01 09:55:07,2019-01-01 09:57:08,6,0.66,43,13,4.00,6.36,Central Park,Manhattan,Battery Park City
+1,2019-01-01 09:01:34,2019-01-01 09:15:53,2,7.30,32,45,22.50,23.80,Bronxdale,Bronx,Chinatown
+2,2019-01-01 02:06:09,2019-01-01 02:23:00,2,3.40,13,43,14.00,18.36,Battery Park City,Manhattan,Central Park
+2,2019-01-01 02:36:42,2019-01-01 03:07:13,3,4.29,48,44,21.00,22.30,Clinton East,Manhattan,Charleston/Tottenville
+2,2019-01-01 18:27:28,2019-01-01 18:51:33,1,13.05,38,20,36.00,55.98,Cambria Heights,Queens,Belmont
+1,2019-01-01 08:43:23,2019-01-01 08:56:42,1,3.60,41,1,13.00,14.30,Central Harlem,Manhattan,Newark Airport
+1,2019-01-01 23:58:02,2019-01-02 00:26:25,2,6.40,1,49,24.00,31.60,Newark Airport,EWR,Clinton Hill
+2,2019-01-01 00:24:15,2019-01-01 00:28:42,2,1.05,25,41,5.50,6.80,Boerum Hill,Brooklyn,Central Harlem
+2,2019-01-01 23:31:31,2019-01-01 23:43:34,1,2.16,41,16,10.00,11.30,Central Harlem,Manhattan,Bayside
+1,2019-01-01 08:38:48,2019-01-01 08:43:38,1,0.70,38,38,5.50,6.80,Cambria Heights,Queens,Cambria Heights
+1,2019-01-01 00:47:44,2019-01-01 00:59:06,1,2.30,39,29,10.00,12.30,Canarsie,Brooklyn,Brighton Beach
+2,2019-01-01 00:14:16,2019-01-01 00:25:16,1,1.87,11,40,9.50,12.96,Bath Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 00:32:07,2019-01-01 00:57:22,1,8.99,11,44,28.50,38.74,Bath Beach,Brooklyn,Charleston/Tottenville
+2,2019-01-01 00:10:43,2019-01-01 01:23:59,1,33.06,43,42,92.00,99.06,Central Park,Manhattan,Central Harlem North
+1,2019-01-01 04:05:18,2019-01-01 04:22:11,1,1.70,8,36,12.00,13.30,Astoria Park,Queens,Bushwick North
+1,2019-01-01 17:26:54,2019-01-01 17:45:37,1,3.20,36,45,15.00,25.06,Bushwick North,Brooklyn,Chinatown
+1,2019-01-01 02:48:39,2019-01-01 03:21:15,2,8.80,45,44,29.00,30.30,Chinatown,Manhattan,Charleston/Tottenville
+2,2019-01-01 14:05:02,2019-01-01 14:12:41,4,2.12,26,12,9.00,10.30,Borough Park,Brooklyn,Battery Park
+2,2019-01-01 22:32:05,2019-01-01 22:35:53,3,0.81,25,25,5.00,7.80,Boerum Hill,Brooklyn,Boerum Hill
+2,2019-01-01 07:49:11,2019-01-01 08:39:31,4,13.40,29,15,46.00,56.76,Brighton Beach,Brooklyn,Bay Terrace/Fort Totten
+2,2019-01-01 08:13:43,2019-01-01 08:33:04,3,4.96,39,26,17.50,22.56,Canarsie,Brooklyn,Borough Park
+2,2019-01-01 21:45:27,2019-01-01 21:51:33,2,1.26,29,37,6.00,8.40,Brighton Beach,Brooklyn,Bushwick South
+2,2019-01-01 07:59:12,2019-01-01 08:25:06,2,5.65,20,6,22.50,25.80,Belmont,Bronx,Arrochar/Fort Wadsworth
+2,2019-01-01 03:35:22,2019-01-01 03:47:16,1,0.96,36,20,8.00,12.09,Bushwick North,Brooklyn,Belmont
+2,2019-01-01 16:48:15,2019-01-01 17:10:35,1,3.21,11,31,15.00,18.30,Bath Beach,Brooklyn,Bronx Park
+1,2019-01-01 16:52:24,2019-01-01 17:24:58,1,3.40,34,42,20.50,21.80,Brooklyn Navy Yard,Brooklyn,Central Harlem North
+2,2019-01-01 08:08:53,2019-01-01 08:17:34,1,1.79,20,13,8.00,9.30,Belmont,Bronx,Battery Park City
+2,2019-01-01 01:19:12,2019-01-01 01:40:42,1,3.59,13,13,16.50,17.80,Battery Park City,Manhattan,Battery Park City
+2,2019-01-01 18:49:47,2019-01-01 19:18:59,1,12.28,13,35,36.00,37.30,Battery Park City,Manhattan,Brownsville
+2,2019-01-01 01:42:26,2019-01-01 01:49:56,1,1.50,24,41,7.50,10.80,Bloomingdale,Manhattan,Central Harlem
+2,2019-01-01 23:53:41,2019-01-01 23:58:48,1,0.81,41,42,5.50,6.80,Central Harlem,Manhattan,Central Harlem North
+2,2019-01-01 03:02:19,2019-01-01 03:08:11,1,1.04,42,16,6.00,7.30,Central Harlem North,Manhattan,Bayside
+2,2019-01-01 09:24:08,2019-01-01 09:33:28,1,1.55,20,18,8.00,11.16,Belmont,Bronx,Bedford Park
+2,2019-01-01 08:50:40,2019-01-01 09:02:53,1,1.58,18,29,9.50,10.80,Bedford Park,Bronx,Brighton Beach
+1,2019-01-01 23:16:32,2019-01-01 23:26:30,1,1.40,34,33,8.00,12.05,Brooklyn Navy Yard,Brooklyn,Brooklyn Heights
+1,2019-01-01 01:59:34,2019-01-01 02:07:07,2,1.80,14,29,8.00,11.15,Bay Ridge,Brooklyn,Brighton Beach
+1,2019-01-01 22:18:54,2019-01-01 22:37:30,1,1.20,37,11,12.50,13.80,Bushwick South,Brooklyn,Bath Beach
+1,2019-01-01 01:44:58,2019-01-01 02:04:36,2,2.50,12,18,13.50,17.75,Battery Park,Manhattan,Bedford Park
+1,2019-01-01 23:09:45,2019-01-01 23:16:24,1,0.60,20,37,6.00,8.75,Belmont,Bronx,Bushwick South
+1,2019-01-01 18:23:35,2019-01-01 18:33:02,3,0.80,7,20,7.50,9.91,Astoria,Queens,Belmont
+1,2019-01-01 22:49:39,2019-01-01 22:59:32,2,1.20,37,29,7.50,8.80,Bushwick South,Brooklyn,Brighton Beach
+1,2019-01-01 07:29:52,2019-01-01 07:40:19,1,2.40,41,38,10.50,14.16,Central Harlem,Manhattan,Cambria Heights
+1,2019-01-01 22:42:52,2019-01-01 23:10:01,2,6.40,39,13,23.50,29.75,Canarsie,Brooklyn,Battery Park City
+1,2019-01-01 18:49:02,2019-01-01 19:03:10,1,2.00,31,4,10.50,12.80,Bronx Park,Bronx,Alphabet City
+1,2019-01-01 07:45:02,2019-01-01 08:06:36,2,2.90,34,48,15.00,16.30,Brooklyn Navy Yard,Brooklyn,Clinton East
+2,2019-01-01 02:41:07,2019-01-01 03:02:09,6,7.90,50,43,25.00,26.30,Clinton West,Manhattan,Central Park
+2,2019-01-01 22:10:58,2019-01-01 22:26:52,5,3.36,5,25,13.50,17.76,Arden Heights,Staten Island,Boerum Hill
+2,2019-01-01 22:30:51,2019-01-01 22:59:22,5,5.62,49,6,23.00,29.16,Clinton Hill,Brooklyn,Arrochar/Fort Wadsworth
+2,2019-01-01 01:15:04,2019-01-01 01:23:47,1,1.28,12,20,7.50,11.00,Battery Park,Manhattan,Belmont
+2,2019-01-01 00:27:25,2019-01-01 01:00:00,1,16.86,33,1,46.50,59.75,Brooklyn Heights,Brooklyn,Newark Airport
+1,2019-01-01 23:06:40,2019-01-01 23:16:55,3,1.10,29,34,8.00,11.60,Brighton Beach,Brooklyn,Brooklyn Navy Yard
+1,2019-01-01 18:55:25,2019-01-01 19:07:27,2,2.10,25,36,10.00,13.55,Boerum Hill,Brooklyn,Bushwick North
+2,2019-01-01 01:36:53,2019-01-01 01:58:20,1,11.12,41,21,31.00,32.30,Central Harlem,Manhattan,Bensonhurst East
+1,2019-01-01 23:54:43,2019-01-02 00:06:33,2,2.60,32,33,10.50,12.80,Bronxdale,Bronx,Brooklyn Heights
+2,2019-01-01 02:36:21,2019-01-01 03:24:54,2,9.52,29,27,36.50,37.80,Brighton Beach,Brooklyn,Breezy Point/Fort Tilden/Riis Beach
+2,2019-01-01 03:13:10,2019-01-01 03:20:37,1,1.28,37,20,7.00,8.30,Bushwick South,Brooklyn,Belmont
+2,2019-01-01 01:32:09,2019-01-01 01:49:04,1,2.80,14,31,12.50,13.80,Bay Ridge,Brooklyn,Bronx Park
+2,2019-01-01 07:51:57,2019-01-01 08:01:57,1,2.72,31,46,10.00,13.56,Bronx Park,Bronx,City Island
+1,2019-01-01 09:00:40,2019-01-01 09:16:07,1,4.70,42,10,16.00,17.30,Central Harlem North,Manhattan,Baisley Park
+1,2019-01-01 02:27:09,2019-01-01 02:34:35,1,1.20,7,7,7.00,8.30,Astoria,Queens,Astoria
+1,2019-01-01 07:48:19,2019-01-01 07:53:15,1,1.20,41,13,6.00,8.75,Central Harlem,Manhattan,Battery Park City
+1,2019-01-01 09:54:37,2019-01-01 10:11:27,1,3.30,13,24,13.50,14.80,Battery Park City,Manhattan,Bloomingdale
+2,2019-01-01 09:20:13,2019-01-01 09:50:37,1,17.93,32,49,48.50,54.80,Bronxdale,Bronx,Clinton Hill
+2,2019-01-01 01:24:09,2019-01-01 01:34:43,1,2.02,25,32,10.00,14.69,Boerum Hill,Brooklyn,Bronxdale
+2,2019-01-01 09:43:43,2019-01-01 09:51:21,1,1.22,29,13,7.00,9.30,Brighton Beach,Brooklyn,Battery Park City
+2,2019-01-01 03:56:23,2019-01-01 03:59:50,1,0.78,34,13,4.50,6.80,Brooklyn Navy Yard,Brooklyn,Battery Park City
+2,2019-01-01 02:09:04,2019-01-01 02:11:52,2,1.23,40,12,5.50,6.80,Carroll Gardens,Brooklyn,Battery Park
+2,2019-01-01 17:26:00,2019-01-01 17:29:58,2,0.91,41,36,5.00,7.24,Central Harlem,Manhattan,Bushwick North
+2,2019-01-01 22:31:32,2019-01-01 22:41:56,1,2.61,13,41,10.50,11.80,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 00:46:25,2019-01-01 00:55:45,2,1.61,16,25,9.00,12.36,Bayside,Queens,Boerum Hill
+2,2019-01-01 16:07:08,2019-01-01 16:35:15,1,9.20,49,29,29.50,36.96,Clinton Hill,Brooklyn,Brighton Beach
+2,2019-01-01 16:50:42,2019-01-01 16:54:59,1,0.69,29,10,5.00,6.30,Brighton Beach,Brooklyn,Baisley Park
+1,2019-01-01 18:35:26,2019-01-01 19:15:29,1,8.10,11,40,31.50,32.80,Bath Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 07:14:34,2019-01-01 07:17:39,1,0.34,20,20,4.00,6.36,Belmont,Bronx,Belmont
+2,2019-01-01 07:25:12,2019-01-01 07:35:00,1,1.61,7,29,8.00,11.16,Astoria,Queens,Brighton Beach
+2,2019-01-01 03:36:09,2019-01-01 03:45:58,1,3.01,29,7,11.00,12.30,Brighton Beach,Brooklyn,Astoria
+2,2019-01-01 02:02:57,2019-01-01 02:07:17,1,0.53,45,31,4.50,5.80,Chinatown,Manhattan,Bronx Park
+2,2019-01-01 19:24:54,2019-01-01 19:36:29,1,1.98,31,18,10.00,14.12,Bronx Park,Bronx,Bedford Park
+2,2019-01-01 07:38:21,2019-01-01 08:00:48,1,2.06,18,48,15.00,19.56,Bedford Park,Bronx,Clinton East
+2,2019-01-01 00:28:42,2019-01-01 00:37:46,6,0.66,48,29,7.00,8.30,Clinton East,Manhattan,Brighton Beach
+2,2019-01-01 01:39:29,2019-01-01 02:05:32,6,8.51,29,42,27.50,31.68,Brighton Beach,Brooklyn,Central Harlem North
+2,2019-01-01 08:07:03,2019-01-01 08:34:59,1,16.78,32,29,52.00,68.64,Bronxdale,Bronx,Brighton Beach
+2,2019-01-01 02:38:14,2019-01-01 02:43:50,1,0.96,29,41,5.50,6.80,Brighton Beach,Brooklyn,Central Harlem
+2,2019-01-01 09:44:58,2019-01-01 09:54:49,1,2.21,41,37,9.00,12.36,Central Harlem,Manhattan,Bushwick South
+2,2019-01-01 01:02:31,2019-01-01 01:24:01,1,5.48,39,31,19.50,24.96,Canarsie,Brooklyn,Bronx Park
+2,2019-01-01 08:25:31,2019-01-01 08:45:43,1,3.36,31,12,15.00,19.56,Bronx Park,Bronx,Battery Park
+2,2019-01-01 03:55:44,2019-01-01 04:06:17,1,2.59,30,13,10.00,11.30,Broad Channel,Queens,Battery Park City
+1,2019-01-01 00:25:30,2019-01-01 00:33:17,1,1.70,31,29,8.00,11.15,Bronx Park,Bronx,Brighton Beach
+1,2019-01-01 22:34:54,2019-01-01 22:37:33,1,0.40,29,13,4.00,5.30,Brighton Beach,Brooklyn,Battery Park City
+1,2019-01-01 03:40:07,2019-01-01 03:57:13,2,4.50,7,38,17.50,19.80,Astoria,Queens,Cambria Heights
+1,2019-01-01 21:59:14,2019-01-01 22:36:20,1,6.60,38,13,30.50,38.15,Cambria Heights,Queens,Battery Park City
+2,2019-01-01 03:16:33,2019-01-01 03:34:51,1,3.39,39,12,14.50,18.96,Canarsie,Brooklyn,Battery Park
+2,2019-01-01 23:39:27,2019-01-01 23:41:45,1,0.40,13,13,3.50,4.80,Battery Park City,Manhattan,Battery Park City
+2,2019-01-01 09:43:25,2019-01-01 09:50:02,1,1.89,13,29,7.50,10.56,Battery Park City,Manhattan,Brighton Beach
+2,2019-01-01 00:52:39,2019-01-01 01:08:08,1,3.93,29,7,14.00,15.30,Brighton Beach,Brooklyn,Astoria
+2,2019-01-01 16:06:47,2019-01-01 16:11:55,2,1.14,31,11,6.00,7.30,Bronx Park,Bronx,Bath Beach
+2,2019-01-01 16:22:47,2019-01-01 16:32:10,2,1.27,49,40,8.00,12.09,Clinton Hill,Brooklyn,Carroll Gardens
+2,2019-01-01 15:45:02,2019-01-01 16:04:05,2,1.89,13,36,13.00,17.88,Battery Park City,Manhattan,Bushwick North
+1,2019-01-01 23:15:51,2019-01-01 23:31:19,1,0.90,18,46,8.50,9.80,Bedford Park,Bronx,City Island
+1,2019-01-01 18:47:20,2019-01-01 19:06:21,1,4.10,46,11,16.50,17.80,City Island,Bronx,Bath Beach
+2,2019-01-01 23:37:24,2019-01-02 00:01:44,2,10.11,48,42,31.00,38.76,Clinton East,Manhattan,Central Harlem North
+1,2019-01-01 16:31:27,2019-01-01 16:36:12,2,0.70,29,24,5.50,6.80,Brighton Beach,Brooklyn,Bloomingdale
+1,2019-01-01 02:40:36,2019-01-01 03:05:23,1,5.60,7,1,21.00,28.95,Astoria,Queens,Newark Airport
+2,2019-01-01 22:40:24,2019-01-01 22:58:03,1,5.91,20,33,19.50,24.96,Belmont,Bronx,Brooklyn Heights
+1,2019-01-01 16:00:46,2019-01-01 16:23:58,1,12.40,41,33,34.50,40.00,Central Harlem,Manhattan,Brooklyn Heights
+1,2019-01-01 22:38:10,2019-01-01 22:46:52,1,1.30,45,48,7.50,11.00,Chinatown,Manhattan,Clinton East
+1,2019-01-01 01:47:46,2019-01-01 01:54:17,1,0.60,48,48,6.00,9.10,Clinton East,Manhattan,Clinton East
+1,2019-01-01 17:56:35,2019-01-01 18:12:14,1,4.00,48,48,15.50,16.80,Clinton East,Manhattan,Clinton East
+2,2019-01-01 17:21:18,2019-01-01 17:29:46,1,1.71,38,42,8.00,9.30,Cambria Heights,Queens,Central Harlem North
+2,2019-01-01 09:55:41,2019-01-01 10:01:09,1,0.91,39,42,5.50,8.84,Canarsie,Brooklyn,Central Harlem North
+2,2019-01-01 17:21:13,2019-01-01 17:34:28,2,3.67,37,45,13.00,17.16,Bushwick South,Brooklyn,Chinatown
+2,2019-01-01 00:49:23,2019-01-01 01:00:02,3,2.08,48,40,9.50,10.80,Clinton East,Manhattan,Carroll Gardens
+2,2019-01-01 07:39:17,2019-01-01 07:49:35,1,1.63,49,29,8.50,11.30,Clinton Hill,Brooklyn,Brighton Beach
+2,2019-01-01 23:50:45,2019-01-02 00:06:36,1,1.86,29,8,11.50,12.80,Brighton Beach,Brooklyn,Astoria Park
+2,2019-01-01 07:17:02,2019-01-01 07:34:01,1,1.75,40,50,11.50,15.36,Carroll Gardens,Brooklyn,Clinton West
+2,2019-01-01 16:41:28,2019-01-01 16:53:25,1,1.92,50,37,10.00,14.12,Clinton West,Manhattan,Bushwick South
+1,2019-01-01 17:06:32,2019-01-01 17:19:07,1,1.50,7,48,9.50,13.50,Astoria,Queens,Clinton East
+1,2019-01-01 22:25:43,2019-01-01 22:35:57,1,2.70,7,40,10.50,14.15,Astoria,Queens,Carroll Gardens
+1,2019-01-01 09:36:52,2019-01-01 09:55:17,1,5.60,40,19,19.50,20.80,Carroll Gardens,Brooklyn,Bellerose
+2,2019-01-01 17:07:53,2019-01-01 17:20:38,1,4.67,24,12,15.50,16.80,Bloomingdale,Manhattan,Battery Park
+2,2019-01-01 22:47:45,2019-01-01 22:49:47,1,0.51,37,13,3.50,5.76,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 18:38:02,2019-01-01 18:51:08,1,2.22,41,43,11.00,14.76,Central Harlem,Manhattan,Central Park
+2,2019-01-01 17:53:22,2019-01-01 18:37:34,1,13.34,43,22,43.00,50.06,Central Park,Manhattan,Bensonhurst West
+2,2019-01-01 07:12:36,2019-01-01 07:19:48,1,0.96,7,37,6.50,9.36,Astoria,Queens,Bushwick South
+2,2019-01-01 18:21:24,2019-01-01 18:32:12,2,3.17,37,12,11.00,14.30,Bushwick South,Brooklyn,Battery Park
+2,2019-01-01 18:36:46,2019-01-01 18:58:17,1,4.66,12,7,18.00,19.30,Battery Park,Manhattan,Astoria
+2,2019-01-01 17:47:45,2019-01-01 18:03:53,5,2.82,42,24,13.00,14.30,Central Harlem North,Manhattan,Bloomingdale
+2,2019-01-01 00:14:18,2019-01-01 00:40:55,1,4.13,20,38,19.00,20.30,Belmont,Bronx,Cambria Heights
+2,2019-01-01 02:46:00,2019-01-01 02:51:55,1,1.52,39,43,6.50,9.36,Canarsie,Brooklyn,Central Park
+2,2019-01-01 18:59:07,2019-01-01 19:05:04,1,0.47,39,43,5.50,8.16,Canarsie,Brooklyn,Central Park
+2,2019-01-01 03:22:02,2019-01-01 03:27:24,1,0.54,49,13,5.00,6.30,Clinton Hill,Brooklyn,Battery Park City
+2,2019-01-01 03:32:28,2019-01-01 03:44:14,1,1.90,34,44,9.50,12.96,Brooklyn Navy Yard,Brooklyn,Charleston/Tottenville
+2,2019-01-01 16:46:28,2019-01-01 16:53:43,1,1.33,44,29,7.00,9.96,Charleston/Tottenville,Staten Island,Brighton Beach
+2,2019-01-01 16:56:58,2019-01-01 17:09:31,1,4.17,4,13,15.00,19.56,Alphabet City,Manhattan,Battery Park City
+2,2019-01-01 18:05:21,2019-01-01 18:08:38,6,0.75,16,1,5.00,6.30,Bayside,Queens,Newark Airport
+2,2019-01-01 17:12:25,2019-01-01 17:29:00,6,3.73,24,50,14.50,15.80,Bloomingdale,Manhattan,Clinton West
+2,2019-01-01 17:31:46,2019-01-01 17:46:42,6,1.88,50,18,11.00,12.30,Clinton West,Manhattan,Bedford Park
+2,2019-01-01 08:48:43,2019-01-01 09:09:19,6,2.76,18,44,14.50,15.80,Bedford Park,Bronx,Charleston/Tottenville
+2,2019-01-01 08:20:00,2019-01-01 08:30:34,3,1.29,11,7,8.00,11.62,Bath Beach,Brooklyn,Astoria
+2,2019-01-01 07:34:56,2019-01-01 07:53:34,3,1.91,34,11,12.50,16.56,Brooklyn Navy Yard,Brooklyn,Bath Beach
+2,2019-01-01 09:57:15,2019-01-01 10:16:39,2,7.14,13,16,23.00,24.30,Battery Park City,Manhattan,Bayside
+2,2019-01-01 01:18:16,2019-01-01 01:34:46,1,4.23,50,31,15.50,18.80,Clinton West,Manhattan,Bronx Park
+2,2019-01-01 00:40:57,2019-01-01 01:04:45,1,3.36,31,14,17.00,21.96,Bronx Park,Bronx,Bay Ridge
+1,2019-01-01 23:20:55,2019-01-01 23:28:28,2,2.00,37,25,8.00,11.60,Bushwick South,Brooklyn,Boerum Hill
+1,2019-01-01 17:34:45,2019-01-01 17:41:46,4,1.40,13,37,7.00,10.35,Battery Park City,Manhattan,Bushwick South
+1,2019-01-01 17:55:16,2019-01-01 18:02:05,2,1.40,37,36,7.00,8.30,Bushwick South,Brooklyn,Bushwick North
+1,2019-01-01 18:24:31,2019-01-01 18:40:24,2,5.90,39,43,19.00,24.35,Canarsie,Brooklyn,Central Park
+1,2019-01-01 13:42:06,2019-01-01 13:45:30,2,0.50,43,44,4.50,6.95,Central Park,Manhattan,Charleston/Tottenville
+1,2019-01-01 07:50:41,2019-01-01 07:57:07,2,1.00,44,16,6.50,7.80,Charleston/Tottenville,Staten Island,Bayside
+2,2019-01-01 07:24:34,2019-01-01 07:42:13,1,2.01,40,29,12.00,17.29,Carroll Gardens,Brooklyn,Brighton Beach
+2,2019-01-01 09:49:25,2019-01-01 09:58:55,1,1.91,7,29,8.50,11.76,Astoria,Queens,Brighton Beach
+1,2019-01-01 18:12:36,2019-01-01 18:31:36,1,8.70,29,42,25.50,32.15,Brighton Beach,Brooklyn,Central Harlem North
+1,2019-01-01 17:41:29,2019-01-01 17:53:20,3,2.00,2,44,10.00,11.30,Jamaica Bay,Queens,Charleston/Tottenville
+1,2019-01-01 09:15:34,2019-01-01 09:24:37,1,2.30,43,36,9.50,12.95,Central Park,Manhattan,Bushwick North
+1,2019-01-01 02:29:47,2019-01-01 02:37:30,1,1.70,13,39,8.00,11.15,Battery Park City,Manhattan,Canarsie
+1,2019-01-01 09:39:17,2019-01-01 09:41:52,1,0.70,39,38,4.50,6.38,Canarsie,Brooklyn,Cambria Heights
+1,2019-01-01 08:43:17,2019-01-01 08:54:22,1,2.30,38,24,10.50,11.80,Cambria Heights,Queens,Bloomingdale
+2,2019-01-01 00:05:49,2019-01-01 00:05:53,2,0.02,39,39,2.50,3.80,Canarsie,Brooklyn,Canarsie
+2,2019-01-01 08:45:37,2019-01-01 08:56:45,2,2.34,38,37,10.50,11.80,Cambria Heights,Queens,Bushwick South
+2,2019-01-01 15:58:13,2019-01-01 16:03:18,2,0.65,37,41,5.50,6.80,Bushwick South,Brooklyn,Central Harlem
+1,2019-01-01 01:34:10,2019-01-01 01:41:36,1,1.10,31,14,7.00,9.96,Bronx Park,Bronx,Bay Ridge
+1,2019-01-01 18:43:27,2019-01-01 19:02:42,2,2.90,14,12,14.50,18.95,Bay Ridge,Brooklyn,Battery Park
+2,2019-01-01 07:32:32,2019-01-01 07:45:57,5,1.52,25,40,10.50,11.80,Boerum Hill,Brooklyn,Carroll Gardens
+2,2019-01-01 02:54:38,2019-01-01 03:10:44,5,1.32,7,34,10.50,11.80,Astoria,Queens,Brooklyn Navy Yard
+2,2019-01-01 22:21:53,2019-01-01 22:33:24,2,1.96,7,29,9.50,13.50,Astoria,Queens,Brighton Beach
+2,2019-01-01 18:36:37,2019-01-01 18:39:49,1,0.89,29,20,4.50,6.67,Brighton Beach,Brooklyn,Belmont
+2,2019-01-01 23:42:20,2019-01-01 23:51:53,1,2.66,20,13,10.00,11.30,Belmont,Bronx,Battery Park City
+2,2019-01-01 09:57:01,2019-01-01 10:03:08,2,1.00,41,41,6.00,7.30,Central Harlem,Manhattan,Central Harlem
+2,2019-01-01 17:53:03,2019-01-01 18:17:05,1,15.74,32,23,43.00,48.30,Bronxdale,Bronx,Bloomfield/Emerson Hill
+1,2019-01-01 01:05:40,2019-01-01 01:11:43,1,1.90,31,16,7.50,11.40,Bronx Park,Bronx,Bayside
+1,2019-01-01 22:19:01,2019-01-01 22:26:50,4,1.10,31,13,7.00,9.95,Bronx Park,Bronx,Battery Park City
+1,2019-01-01 23:29:36,2019-01-01 23:57:24,1,4.50,13,48,21.00,22.30,Battery Park City,Manhattan,Clinton East
+1,2019-01-01 03:59:05,2019-01-01 04:34:31,2,4.00,48,44,23.00,24.30,Clinton East,Manhattan,Charleston/Tottenville
+2,2019-01-01 01:51:20,2019-01-01 01:57:38,1,0.86,20,37,6.00,9.49,Belmont,Bronx,Bushwick South
+2,2018-12-31 01:59:57,2018-12-31 02:22:00,1,8.37,39,35,26.00,27.30,Canarsie,Brooklyn,Brownsville
+2,2019-01-01 05:23:54,2019-01-01 05:29:59,1,0.74,35,19,6.00,7.30,Brownsville,Brooklyn,Bellerose
+1,2019-01-01 08:06:09,2019-01-01 08:29:46,2,11.70,38,20,34.00,41.06,Cambria Heights,Queens,Belmont
+1,2019-01-01 22:34:13,2019-01-01 22:44:22,2,1.30,14,33,8.00,11.15,Bay Ridge,Brooklyn,Brooklyn Heights
+1,2019-01-01 17:53:56,2019-01-01 18:22:20,2,2.30,29,41,18.50,25.80,Brighton Beach,Brooklyn,Central Harlem
+2,2019-01-01 01:27:35,2019-01-01 01:49:28,1,3.51,14,50,16.00,17.30,Bay Ridge,Brooklyn,Clinton West
+2,2019-01-01 23:51:03,2019-01-01 23:57:14,1,0.29,50,48,5.50,6.80,Clinton West,Manhattan,Clinton East
+2,2019-01-01 08:59:22,2019-01-01 09:28:41,1,1.85,48,20,17.50,22.56,Clinton East,Manhattan,Belmont
+1,2019-01-01 18:22:28,2019-01-01 18:27:54,2,0.60,48,29,5.50,8.15,Clinton East,Manhattan,Brighton Beach
+1,2019-01-01 18:32:52,2019-01-01 18:47:33,3,1.90,29,14,10.50,14.15,Brighton Beach,Brooklyn,Bay Ridge
+1,2019-01-01 08:51:08,2019-01-01 09:01:58,3,1.60,14,12,9.00,10.30,Bay Ridge,Brooklyn,Battery Park
+2,2019-01-01 23:22:27,2019-01-02 23:01:31,1,8.80,29,16,28.00,32.23,Brighton Beach,Brooklyn,Bayside
+1,2019-01-01 16:36:59,2019-01-01 16:59:11,1,4.70,14,7,18.00,23.15,Bay Ridge,Brooklyn,Astoria
+2,2018-12-31 19:56:50,2018-12-31 20:02:19,2,0.95,37,33,5.50,8.16,Bushwick South,Brooklyn,Brooklyn Heights
+2,2019-01-01 00:11:09,2019-01-01 00:13:49,1,1.10,37,13,5.00,8.80,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 22:25:10,2019-01-01 22:29:45,1,0.94,37,40,5.50,6.80,Bushwick South,Brooklyn,Carroll Gardens
+2,2019-01-01 00:37:01,2019-01-01 00:48:31,1,2.02,36,43,10.00,13.56,Bushwick North,Brooklyn,Central Park
+2,2019-01-01 16:52:55,2019-01-01 17:24:56,2,5.52,42,11,23.00,24.30,Central Harlem North,Manhattan,Bath Beach
+1,2019-01-01 15:12:01,2019-01-01 15:36:54,2,4.50,11,13,19.00,20.30,Bath Beach,Brooklyn,Battery Park City
+1,2019-01-01 03:39:10,2019-01-01 03:49:42,3,0.90,37,11,7.50,8.80,Bushwick South,Brooklyn,Bath Beach
+1,2019-01-01 23:59:21,2019-01-02 00:06:22,2,1.30,13,41,7.00,9.95,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 03:08:52,2019-01-01 03:08:56,4,0.01,11,11,2.50,3.80,Bath Beach,Brooklyn,Bath Beach
+2,2019-01-01 08:41:10,2019-01-01 08:52:14,4,1.99,48,49,9.50,13.50,Clinton East,Manhattan,Clinton Hill
+2,2019-01-01 23:55:26,2019-01-02 00:08:29,5,2.36,40,48,11.00,14.76,Carroll Gardens,Brooklyn,Clinton East
+1,2019-01-01 16:19:49,2019-01-01 16:23:37,1,0.90,39,38,5.50,6.80,Canarsie,Brooklyn,Cambria Heights
+1,2019-01-01 08:25:36,2019-01-01 08:43:57,2,6.10,38,49,20.00,21.30,Cambria Heights,Queens,Clinton Hill
+1,2019-01-01 07:53:21,2019-01-01 08:02:06,3,1.50,8,40,8.00,9.30,Astoria Park,Queens,Carroll Gardens
+1,2019-01-01 01:12:36,2019-01-01 01:19:44,1,0.50,29,13,5.00,6.62,Brighton Beach,Brooklyn,Battery Park City
+1,2019-01-01 08:27:59,2019-01-01 09:02:14,1,4.40,14,42,23.00,27.95,Bay Ridge,Brooklyn,Central Harlem North
+1,2019-01-01 16:16:47,2019-01-01 16:34:26,2,1.50,42,11,12.00,13.30,Central Harlem North,Manhattan,Bath Beach
+1,2019-01-01 08:37:01,2019-01-01 09:02:01,3,6.00,11,37,23.00,29.15,Bath Beach,Brooklyn,Bushwick South
+2,2019-01-01 22:22:33,2019-01-01 22:30:08,3,1.77,39,36,8.00,11.16,Canarsie,Brooklyn,Bushwick North
+2,2019-01-01 21:35:41,2019-01-01 22:03:41,2,3.79,43,34,19.50,26.00,Central Park,Manhattan,Brooklyn Navy Yard
+2,2019-01-01 00:25:05,2019-01-01 00:27:41,1,0.84,40,13,4.50,6.96,Carroll Gardens,Brooklyn,Battery Park City
+2,2019-01-01 00:30:23,2019-01-01 00:34:41,1,1.00,41,41,5.50,8.16,Central Harlem,Manhattan,Central Harlem
+2,2019-01-01 02:35:46,2019-01-01 02:41:12,1,1.23,41,12,6.00,8.30,Central Harlem,Manhattan,Battery Park
+2,2019-01-01 09:43:38,2019-01-01 09:46:56,1,0.68,12,40,4.50,7.25,Battery Park,Manhattan,Carroll Gardens
+2,2019-01-01 15:48:55,2019-01-01 16:07:05,1,3.58,41,46,14.50,18.96,Central Harlem,Manhattan,City Island
+2,2019-01-01 18:47:16,2019-01-01 19:08:49,1,1.61,18,46,13.00,14.30,Bedford Park,Bronx,City Island
+2,2019-01-01 17:02:06,2019-01-01 17:06:20,3,0.40,14,44,4.50,5.80,Bay Ridge,Brooklyn,Charleston/Tottenville
+2,2019-01-01 16:15:36,2019-01-01 16:44:59,2,7.95,14,16,27.50,34.56,Bay Ridge,Brooklyn,Bayside
+2,2019-01-01 16:51:59,2019-01-01 16:54:36,2,0.38,1,1,4.00,6.30,Newark Airport,EWR,Newark Airport
+1,2019-01-01 07:20:42,2019-01-01 07:33:45,2,3.30,37,12,12.50,16.55,Bushwick South,Brooklyn,Battery Park
+1,2019-01-01 05:36:14,2019-01-01 05:41:18,1,1.10,12,37,5.50,8.15,Battery Park,Manhattan,Bushwick South
+1,2019-01-01 17:51:35,2019-01-01 18:02:24,2,0.70,43,11,8.00,9.30,Central Park,Manhattan,Bath Beach
+1,2019-01-01 09:22:18,2019-01-01 09:33:15,2,3.10,42,16,11.50,19.80,Central Harlem North,Manhattan,Bayside
+1,2019-01-01 04:38:50,2019-01-01 04:52:19,1,2.80,1,50,12.00,13.30,Newark Airport,EWR,Clinton West
+1,2019-01-01 11:57:26,2019-01-01 12:17:07,4,1.60,48,36,13.00,14.30,Clinton East,Manhattan,Bushwick North
+2,2019-01-01 08:29:51,2019-01-01 08:52:23,1,5.73,44,12,21.00,26.76,Charleston/Tottenville,Staten Island,Battery Park
+1,2019-01-01 03:13:16,2019-01-01 03:31:50,2,8.00,42,35,24.00,25.30,Central Harlem North,Manhattan,Brownsville
+1,2019-01-01 16:49:48,2019-01-01 16:57:39,1,2.50,50,1,9.00,12.35,Clinton West,Manhattan,Newark Airport
+2,2019-01-01 07:23:33,2019-01-01 07:29:42,1,0.65,42,42,5.50,6.80,Central Harlem North,Manhattan,Central Harlem North
+2,2019-01-01 17:35:15,2019-01-01 17:39:14,1,1.01,24,25,5.00,6.30,Bloomingdale,Manhattan,Boerum Hill
+2,2019-01-01 00:48:25,2019-01-01 00:53:37,1,0.97,25,41,5.50,6.80,Boerum Hill,Brooklyn,Central Harlem
+2,2019-01-01 09:55:53,2019-01-01 10:09:38,1,2.45,41,38,11.00,14.30,Central Harlem,Manhattan,Cambria Heights
+2,2019-01-01 03:28:00,2019-01-01 03:28:46,1,0.07,13,13,2.50,3.80,Battery Park City,Manhattan,Battery Park City
+2,2019-01-01 02:30:35,2019-01-01 02:41:57,1,1.89,41,42,9.50,12.96,Central Harlem,Manhattan,Central Harlem North
+2,2019-01-01 18:44:04,2019-01-01 18:52:54,1,2.15,43,13,9.00,12.36,Central Park,Manhattan,Battery Park City
+2,2019-01-01 07:02:47,2019-01-01 07:29:27,1,4.38,34,36,19.00,20.30,Brooklyn Navy Yard,Brooklyn,Bushwick North
+2,2019-01-01 02:36:26,2019-01-01 03:01:46,1,4.57,36,49,19.00,23.34,Bushwick North,Brooklyn,Clinton Hill
+2,2019-01-01 01:28:49,2019-01-01 01:49:20,3,1.90,37,46,13.50,14.80,Bushwick South,Brooklyn,City Island
+2,2019-01-01 11:50:49,2019-01-01 12:16:19,4,1.86,50,14,16.00,17.30,Clinton West,Manhattan,Bay Ridge
+2,2019-01-01 23:05:23,2019-01-01 23:09:45,1,1.02,11,37,5.50,9.00,Bath Beach,Brooklyn,Bushwick South
+2,2019-01-01 00:15:23,2019-01-01 00:18:09,1,0.73,36,13,4.50,5.80,Bushwick North,Brooklyn,Battery Park City
+2,2019-01-01 18:22:34,2019-01-01 18:32:16,1,2.10,13,41,9.00,12.88,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 01:47:39,2019-01-01 01:53:51,1,0.73,37,37,6.00,9.12,Bushwick South,Brooklyn,Bushwick South
+2,2019-01-01 08:56:31,2019-01-01 08:59:45,1,0.65,37,37,4.50,7.25,Bushwick South,Brooklyn,Bushwick South
+1,2019-01-01 00:33:30,2019-01-01 00:37:21,1,0.80,38,16,5.00,7.56,Cambria Heights,Queens,Bayside
+1,2019-01-01 23:38:27,2019-01-02 00:23:18,1,5.10,16,18,29.00,39.35,Bayside,Queens,Bedford Park
+2,2019-01-01 22:09:47,2019-01-01 22:14:55,3,1.02,18,46,5.50,6.80,Bedford Park,Bronx,City Island
+2,2019-01-01 10:31:54,2019-01-01 10:54:32,2,4.58,42,49,18.50,24.75,Central Harlem North,Manhattan,Clinton Hill
+2,2019-01-01 23:56:56,2019-01-02 00:11:22,2,2.18,49,37,11.50,12.80,Clinton Hill,Brooklyn,Bushwick South
+2,2019-01-01 03:08:45,2019-01-01 03:33:12,1,3.68,34,43,17.50,22.56,Brooklyn Navy Yard,Brooklyn,Central Park
+2,2019-01-01 02:36:10,2019-01-01 02:49:27,1,2.72,43,13,11.50,15.36,Central Park,Manhattan,Battery Park City
+2,2019-01-01 01:51:14,2019-01-01 02:07:11,1,2.65,13,48,12.50,16.56,Battery Park City,Manhattan,Clinton East
+2,2019-01-01 01:09:11,2019-01-01 01:10:50,1,0.48,37,36,3.50,6.00,Bushwick South,Brooklyn,Bushwick North
+2,2019-01-01 00:29:56,2019-01-01 00:46:09,1,2.73,14,41,12.50,16.56,Bay Ridge,Brooklyn,Central Harlem
+2,2019-01-01 12:57:46,2019-01-01 13:25:51,1,2.87,43,40,18.50,22.80,Central Park,Manhattan,Carroll Gardens
+1,2019-01-01 08:24:28,2019-01-01 08:41:58,1,3.80,42,12,15.50,19.32,Central Harlem North,Manhattan,Battery Park
+1,2019-01-01 09:47:11,2019-01-01 10:12:11,1,6.50,36,29,23.00,24.30,Bushwick North,Brooklyn,Brighton Beach
+2,2019-01-01 18:16:09,2019-01-01 18:23:50,3,1.79,42,38,8.00,9.30,Central Harlem North,Manhattan,Cambria Heights
+2,2019-01-01 03:25:50,2019-01-01 03:29:10,3,0.56,39,39,4.50,6.80,Canarsie,Brooklyn,Canarsie
+2,2019-01-01 07:32:56,2019-01-01 07:39:23,2,1.23,39,38,6.50,9.80,Canarsie,Brooklyn,Cambria Heights
+2,2019-01-01 09:41:52,2019-01-01 09:43:59,3,0.46,39,38,3.50,6.24,Canarsie,Brooklyn,Cambria Heights
+2,2019-01-01 18:45:20,2019-01-01 18:56:11,3,3.25,38,16,11.50,15.36,Cambria Heights,Queens,Bayside
+2,2019-01-01 16:12:21,2019-01-01 16:29:56,1,3.52,38,12,14.50,18.96,Cambria Heights,Queens,Battery Park
+2,2019-01-01 03:31:27,2019-01-01 03:42:39,1,1.35,12,34,8.50,9.80,Battery Park,Manhattan,Brooklyn Navy Yard
+2,2019-01-01 18:44:26,2019-01-01 18:44:33,1,0.00,34,34,2.50,3.80,Brooklyn Navy Yard,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 06:45:57,2019-01-01 06:46:07,1,0.00,34,34,2.50,3.80,Brooklyn Navy Yard,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 08:47:00,2019-01-01 08:47:11,1,0.00,34,34,2.50,9.80,Brooklyn Navy Yard,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 18:48:35,2019-01-01 18:49:59,1,0.16,34,34,3.00,4.30,Brooklyn Navy Yard,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 06:13:09,2019-01-01 06:26:59,2,0.83,14,40,9.50,11.80,Bay Ridge,Brooklyn,Carroll Gardens
+2,2019-01-01 22:47:59,2019-01-01 23:12:29,1,5.84,7,1,22.00,27.96,Astoria,Queens,Newark Airport
+1,2019-01-01 15:26:16,2019-01-01 16:13:55,2,12.50,48,7,41.50,42.80,Clinton East,Manhattan,Astoria
+1,2019-01-01 01:17:46,2019-01-01 01:26:35,2,1.70,20,41,8.00,11.15,Belmont,Bronx,Central Harlem
+1,2019-01-01 00:29:46,2019-01-01 00:40:11,3,2.00,41,41,9.00,10.30,Central Harlem,Manhattan,Central Harlem
+1,2019-01-01 03:41:23,2019-01-01 03:52:23,2,1.60,41,36,9.50,14.00,Central Harlem,Manhattan,Bushwick North
+1,2019-01-01 01:18:57,2019-01-01 01:27:34,1,2.40,13,12,9.50,10.80,Battery Park City,Manhattan,Battery Park
+1,2019-01-01 02:29:35,2019-01-01 02:34:38,2,1.80,12,40,7.50,10.55,Battery Park,Manhattan,Carroll Gardens
+1,2019-01-01 07:37:35,2019-01-01 07:40:59,1,0.60,41,13,4.50,5.80,Central Harlem,Manhattan,Battery Park City
+1,2019-01-01 22:42:36,2019-01-01 22:47:34,4,0.70,13,12,5.50,7.80,Battery Park City,Manhattan,Battery Park
+1,2019-01-01 00:54:00,2019-01-01 01:00:47,1,2.10,41,24,8.00,9.30,Central Harlem,Manhattan,Bloomingdale
+1,2019-01-01 08:37:55,2019-01-01 08:51:25,2,2.00,50,12,10.00,13.30,Clinton West,Manhattan,Battery Park
+2,2019-01-01 02:41:31,2019-01-01 02:49:17,2,0.89,13,8,6.50,9.36,Battery Park City,Manhattan,Astoria Park
+2,2019-01-01 22:51:29,2019-01-01 23:05:41,2,2.51,8,11,11.50,15.36,Astoria Park,Queens,Bath Beach
+1,2019-01-01 23:39:53,2019-01-01 23:47:10,1,1.50,37,38,7.00,8.30,Bushwick South,Brooklyn,Cambria Heights
+1,2019-01-01 23:52:47,2019-01-02 00:20:59,1,9.10,39,19,28.50,29.80,Canarsie,Brooklyn,Bellerose
+1,2019-01-01 01:06:03,2019-01-01 01:11:09,1,1.40,13,41,6.00,7.30,Battery Park City,Manhattan,Central Harlem
+1,2019-01-01 03:12:25,2019-01-01 03:20:28,2,1.70,41,36,8.00,11.16,Central Harlem,Manhattan,Bushwick North
+1,2019-01-01 01:35:08,2019-01-01 01:42:41,1,1.30,12,40,7.00,8.30,Battery Park,Manhattan,Carroll Gardens
+1,2019-01-01 17:44:57,2019-01-01 17:52:01,4,1.30,41,36,7.00,10.35,Central Harlem,Manhattan,Bushwick North
+1,2019-01-01 17:53:46,2019-01-01 18:00:50,2,1.10,36,25,6.50,9.05,Bushwick North,Brooklyn,Boerum Hill
+2,2019-01-01 01:20:10,2019-01-01 01:52:44,3,6.95,7,36,26.00,32.30,Astoria,Queens,Bushwick North
+1,2019-01-01 22:27:54,2019-01-01 22:42:21,2,4.60,29,41,16.00,20.75,Brighton Beach,Brooklyn,Central Harlem
+1,2019-01-01 17:43:47,2019-01-01 17:55:02,1,2.90,40,41,11.00,14.75,Carroll Gardens,Brooklyn,Central Harlem
+2,2019-01-01 07:03:49,2019-01-01 07:07:07,1,0.74,41,36,4.50,6.38,Central Harlem,Manhattan,Bushwick North
+2,2019-01-01 23:08:43,2019-01-01 23:13:23,2,1.06,36,37,6.00,8.61,Bushwick North,Brooklyn,Bushwick South
+2,2019-01-01 22:16:42,2019-01-01 22:29:40,2,2.70,11,39,12.00,17.29,Bath Beach,Brooklyn,Canarsie
+2,2019-01-01 00:31:32,2019-01-01 00:40:50,3,1.75,39,13,8.50,9.80,Canarsie,Brooklyn,Battery Park City
+2,2019-01-01 01:41:55,2019-01-01 01:46:34,3,1.04,13,12,5.50,6.80,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 23:53:23,2019-01-02 00:07:06,3,1.93,11,34,10.50,14.16,Bath Beach,Brooklyn,Brooklyn Navy Yard
+1,2019-01-01 22:45:23,2019-01-01 23:03:29,1,3.70,12,1,15.00,16.30,Battery Park,Manhattan,Newark Airport
+1,2019-01-01 00:06:22,2019-01-01 00:33:48,2,9.60,39,20,31.00,38.06,Canarsie,Brooklyn,Belmont
+1,2019-01-01 16:34:22,2019-01-01 16:44:12,1,1.30,20,20,8.00,9.30,Belmont,Bronx,Belmont
+2,2019-01-01 18:42:55,2019-01-01 19:38:08,2,29.38,28,23,82.00,83.30,Briarwood/Jamaica Hills,Queens,Bloomfield/Emerson Hill
+4,2019-01-01 09:22:32,2019-01-01 09:25:12,1,0.63,36,36,4.50,5.80,Bushwick North,Brooklyn,Bushwick North
+4,2019-01-01 16:30:26,2019-01-01 16:36:08,1,1.52,36,42,6.50,7.80,Bushwick North,Brooklyn,Central Harlem North
+4,2019-01-01 08:37:07,2019-01-01 08:45:04,1,1.05,42,48,7.00,8.30,Central Harlem North,Manhattan,Clinton East
+4,2019-01-01 22:47:52,2019-01-01 22:59:49,1,1.83,48,18,9.50,12.96,Clinton East,Manhattan,Bedford Park
+1,2019-01-01 03:49:32,2019-01-01 04:01:39,1,2.00,42,40,10.00,13.55,Central Harlem North,Manhattan,Carroll Gardens
+4,2019-01-01 16:12:15,2019-01-01 16:23:48,1,0.69,40,7,8.50,11.76,Carroll Gardens,Brooklyn,Astoria
+4,2019-01-01 01:27:14,2019-01-01 01:47:10,1,2.40,7,11,13.50,14.80,Astoria,Queens,Bath Beach
+4,2019-01-01 17:52:43,2019-01-01 18:12:11,1,5.38,11,37,19.00,25.30,Bath Beach,Brooklyn,Bushwick South
+2,2019-01-01 18:34:28,2019-01-01 18:39:18,1,0.53,49,25,5.00,7.88,Clinton Hill,Brooklyn,Boerum Hill
+2,2019-01-01 03:41:28,2019-01-01 03:50:58,1,2.96,25,33,10.50,14.75,Boerum Hill,Brooklyn,Brooklyn Heights
+2,2019-01-01 13:01:22,2019-01-01 13:17:43,5,1.09,36,20,11.00,14.30,Bushwick North,Brooklyn,Belmont
+2,2019-01-01 23:41:25,2019-01-02 00:11:23,4,6.88,11,5,25.50,33.50,Bath Beach,Brooklyn,Arden Heights
+1,2019-01-01 02:29:26,2019-01-01 02:51:36,1,2.30,34,31,15.00,19.55,Brooklyn Navy Yard,Brooklyn,Bronx Park
+1,2019-01-01 16:53:32,2019-01-01 17:00:22,2,1.10,31,9,6.00,8.75,Bronx Park,Bronx,Auburndale
+2,2019-01-01 08:18:20,2019-01-01 08:27:19,1,0.42,40,34,7.00,9.10,Carroll Gardens,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 17:31:20,2019-01-01 17:53:25,1,2.20,34,33,14.50,15.80,Brooklyn Navy Yard,Brooklyn,Brooklyn Heights
+2,2019-01-01 23:56:25,2019-01-01 23:56:30,1,0.00,33,33,15.00,18.36,Brooklyn Heights,Brooklyn,Brooklyn Heights
+2,2019-01-01 00:59:49,2019-01-01 01:21:06,1,1.55,37,29,14.00,19.89,Bushwick South,Brooklyn,Brighton Beach
+1,2019-01-01 12:50:52,2019-01-01 13:05:55,1,4.30,25,13,15.50,19.80,Boerum Hill,Brooklyn,Battery Park City
+2,2019-01-01 17:17:39,2019-01-01 17:40:38,2,4.32,48,44,18.50,19.80,Clinton East,Manhattan,Charleston/Tottenville
+2,2019-01-01 01:41:52,2019-01-01 01:49:26,2,1.16,44,49,6.50,10.14,Charleston/Tottenville,Staten Island,Clinton Hill
+2,2019-01-01 00:51:42,2019-01-01 01:03:06,4,1.87,49,46,9.50,12.96,Clinton Hill,Brooklyn,City Island
+1,2019-01-01 03:33:00,2019-01-01 03:46:53,1,3.40,50,41,13.00,17.15,Clinton West,Manhattan,Central Harlem
+1,2019-01-01 00:54:20,2019-01-01 01:13:00,2,4.60,16,43,17.50,22.55,Bayside,Queens,Central Park
+2,2019-01-01 22:16:41,2019-01-01 22:23:19,1,0.92,42,43,6.50,9.36,Central Harlem North,Manhattan,Central Park
+2,2019-01-01 09:30:40,2019-01-01 09:49:10,1,3.27,42,7,14.00,15.30,Central Harlem North,Manhattan,Astoria
+2,2019-01-01 23:58:08,2019-01-02 00:10:07,1,1.43,12,42,9.00,10.30,Battery Park,Manhattan,Central Harlem North
+2,2019-01-01 08:13:08,2019-01-01 08:24:50,1,1.22,13,20,8.50,9.80,Battery Park City,Manhattan,Belmont
+2,2019-01-01 23:41:58,2019-01-02 00:00:51,1,5.72,11,37,19.50,23.30,Bath Beach,Brooklyn,Bushwick South
+1,2019-01-01 03:29:04,2019-01-01 03:40:49,3,1.50,34,29,9.00,12.35,Brooklyn Navy Yard,Brooklyn,Brighton Beach
+1,2019-01-01 16:43:55,2019-01-01 16:54:14,2,2.30,29,29,9.50,12.95,Brighton Beach,Brooklyn,Brighton Beach
+2,2019-01-01 22:58:42,2019-01-01 23:01:07,2,0.35,34,14,3.50,4.80,Brooklyn Navy Yard,Brooklyn,Bay Ridge
+2,2019-01-01 01:06:47,2019-01-01 01:17:26,1,1.62,39,48,9.00,11.64,Canarsie,Brooklyn,Clinton East
+2,2019-01-01 03:20:27,2019-01-01 03:27:10,1,1.51,48,46,7.00,8.30,Clinton East,Manhattan,City Island
+2,2019-01-01 16:31:13,2019-01-01 16:46:03,1,2.48,46,13,11.50,14.80,City Island,Bronx,Battery Park City
+2,2019-01-01 09:48:55,2019-01-01 09:55:59,1,1.07,13,49,6.50,9.36,Battery Park City,Manhattan,Clinton Hill
+2,2019-01-01 09:09:55,2019-01-01 09:25:08,3,3.45,29,41,13.00,17.16,Brighton Beach,Brooklyn,Central Harlem
+2,2019-01-01 10:27:44,2019-01-01 10:37:04,3,1.75,13,43,8.50,9.80,Battery Park City,Manhattan,Central Park
+2,2019-01-01 17:38:39,2019-01-01 18:06:36,4,3.71,43,11,18.50,23.76,Central Park,Manhattan,Bath Beach
+2,2019-01-01 09:47:00,2019-01-01 09:52:19,3,1.07,20,12,5.50,6.80,Belmont,Bronx,Battery Park
+2,2019-01-01 09:27:37,2019-01-01 09:47:46,6,1.40,11,34,13.00,14.30,Bath Beach,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 02:52:08,2019-01-01 03:08:30,6,1.36,40,29,11.00,14.76,Carroll Gardens,Brooklyn,Brighton Beach
+2,2019-01-01 13:02:31,2019-01-01 13:19:55,2,3.34,36,36,14.00,15.30,Bushwick North,Brooklyn,Bushwick North
+2,2019-01-01 16:25:13,2019-01-01 16:26:45,2,0.49,13,41,3.50,4.80,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 09:27:46,2019-01-01 09:40:45,2,2.17,41,43,10.00,16.30,Central Harlem,Manhattan,Central Park
+2,2019-01-01 23:42:15,2019-01-01 23:56:54,2,2.21,43,41,11.50,12.80,Central Park,Manhattan,Central Harlem
+2,2019-01-01 03:27:31,2019-01-01 03:39:17,4,1.90,12,24,9.00,10.30,Battery Park,Manhattan,Bloomingdale
+2,2019-01-01 00:58:45,2019-01-01 01:01:12,2,0.36,20,20,3.50,5.76,Belmont,Bronx,Belmont
+2,2018-12-31 17:44:31,2018-12-31 17:58:19,1,4.07,11,46,14.00,15.30,Bath Beach,Brooklyn,City Island
+2,2018-12-31 02:29:15,2019-01-01 01:37:46,1,1.45,20,41,7.50,8.80,Belmont,Bronx,Central Harlem
+2,2019-01-01 18:13:42,2019-01-01 18:22:49,2,1.01,40,37,7.50,11.44,Carroll Gardens,Brooklyn,Bushwick South
+2,2019-01-01 23:25:32,2019-01-01 23:30:46,2,1.25,37,29,6.00,8.76,Bushwick South,Brooklyn,Brighton Beach
+2,2019-01-01 12:48:53,2019-01-01 13:04:37,2,1.65,20,18,11.00,14.76,Belmont,Bronx,Bedford Park
+2,2019-01-01 23:13:50,2019-01-01 23:23:05,2,1.67,31,40,8.50,12.25,Bronx Park,Bronx,Carroll Gardens
+2,2019-01-01 00:35:04,2019-01-01 00:40:55,1,0.10,18,18,5.00,6.30,Bedford Park,Bronx,Bedford Park
+2,2019-01-01 09:42:36,2019-01-01 10:09:36,1,4.92,18,13,20.00,26.62,Bedford Park,Bronx,Battery Park City
+2,2019-01-01 01:07:54,2019-01-01 01:12:10,1,1.48,37,36,6.00,7.30,Bushwick South,Brooklyn,Bushwick North
+2,2019-01-01 09:18:30,2019-01-01 09:21:05,1,0.67,13,12,4.00,6.36,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 18:21:46,2019-01-01 18:28:08,1,1.29,12,37,7.00,9.96,Battery Park,Manhattan,Bushwick South
+2,2019-01-01 01:32:08,2019-01-01 01:39:25,1,1.29,37,12,7.00,9.30,Bushwick South,Brooklyn,Battery Park
+2,2019-01-01 18:41:13,2019-01-01 18:44:06,1,0.42,13,13,4.00,5.30,Battery Park City,Manhattan,Battery Park City
+2,2019-01-01 03:46:07,2019-01-01 03:51:21,1,0.66,13,12,5.50,7.80,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 01:55:17,2019-01-01 02:08:52,1,2.68,12,13,11.50,12.80,Battery Park,Manhattan,Battery Park City
+1,2019-01-01 16:20:07,2019-01-01 16:33:53,4,1.40,29,20,9.50,12.95,Brighton Beach,Brooklyn,Belmont
+1,2019-01-01 07:41:48,2019-01-01 07:49:58,3,1.20,20,29,7.00,9.30,Belmont,Bronx,Brighton Beach
+1,2019-01-01 17:58:39,2019-01-01 18:25:57,3,5.00,14,39,20.00,24.50,Bay Ridge,Brooklyn,Canarsie
+2,2019-01-01 22:17:22,2019-01-01 22:24:19,3,0.70,49,18,6.00,7.30,Clinton Hill,Brooklyn,Bedford Park
+2,2019-01-01 06:45:29,2019-01-01 07:04:05,5,2.52,48,49,13.00,14.30,Clinton East,Manhattan,Clinton Hill
+1,2019-01-01 03:22:23,2019-01-01 03:38:08,3,1.60,36,37,11.00,14.30,Bushwick North,Brooklyn,Bushwick South
+1,2019-01-01 03:47:42,2019-01-01 03:53:32,2,0.70,29,48,5.50,6.80,Brighton Beach,Brooklyn,Clinton East
+1,2019-01-01 07:56:01,2019-01-01 08:09:30,1,3.20,48,31,13.00,14.30,Clinton East,Manhattan,Bronx Park
+2,2019-01-01 03:23:37,2019-01-01 03:26:11,1,0.77,37,24,4.50,6.96,Bushwick South,Brooklyn,Bloomingdale
+2,2019-01-01 22:28:48,2019-01-01 22:35:38,1,1.10,24,29,6.50,9.36,Bloomingdale,Manhattan,Brighton Beach
+2,2019-01-01 16:37:19,2019-01-01 17:04:30,1,6.40,29,24,22.50,23.80,Brighton Beach,Brooklyn,Bloomingdale
+1,2019-01-01 02:18:22,2019-01-01 02:27:56,1,2.10,36,24,9.50,13.30,Bushwick North,Brooklyn,Bloomingdale
+1,2019-01-01 17:31:03,2019-01-01 17:38:43,2,1.20,1,39,7.50,11.40,Newark Airport,EWR,Canarsie
+1,2019-01-01 22:40:16,2019-01-01 22:50:03,1,2.20,39,25,10.00,11.30,Canarsie,Brooklyn,Boerum Hill
+1,2019-01-01 03:53:30,2019-01-01 04:10:03,1,2.40,36,48,12.50,16.80,Bushwick North,Brooklyn,Clinton East
+2,2019-01-01 16:16:21,2019-01-01 16:29:47,1,4.49,37,24,15.00,16.30,Bushwick South,Brooklyn,Bloomingdale
+2,2019-01-01 00:34:15,2019-01-01 00:57:40,1,7.31,29,11,24.00,30.36,Brighton Beach,Brooklyn,Bath Beach
+1,2019-01-01 17:44:51,2019-01-01 18:00:02,1,2.80,38,42,13.00,14.30,Cambria Heights,Queens,Central Harlem North
+2,2019-01-01 03:09:53,2019-01-01 03:23:16,1,2.69,42,40,11.50,12.80,Central Harlem North,Manhattan,Carroll Gardens
+2,2019-01-01 08:28:03,2019-01-01 08:36:20,1,1.75,12,37,8.00,11.16,Battery Park,Manhattan,Bushwick South
+2,2019-01-01 23:37:12,2019-01-01 23:49:43,1,1.48,37,43,9.50,14.04,Bushwick South,Brooklyn,Central Park
+2,2019-01-01 02:51:43,2019-01-01 02:57:19,1,1.57,39,1,6.50,9.36,Canarsie,Brooklyn,Newark Airport
+2,2019-01-01 03:00:01,2019-01-01 03:27:36,1,7.73,1,32,26.00,32.76,Newark Airport,EWR,Bronxdale
+1,2019-01-01 22:16:06,2019-01-01 22:24:05,1,1.30,14,32,7.00,9.13,Bay Ridge,Brooklyn,Bronxdale
+1,2019-01-01 07:30:56,2019-01-01 07:45:50,1,2.10,29,37,11.00,12.30,Brighton Beach,Brooklyn,Bushwick South
+1,2019-01-01 09:49:27,2019-01-01 10:18:07,1,4.70,37,11,21.00,22.30,Bushwick South,Brooklyn,Bath Beach
+2,2019-01-01 04:16:49,2019-01-01 04:26:03,1,2.76,7,41,10.00,11.30,Astoria,Queens,Central Harlem
+2,2019-01-01 01:28:52,2019-01-01 01:33:10,2,1.33,41,36,6.00,8.76,Central Harlem,Manhattan,Bushwick North
+2,2019-01-01 08:37:30,2019-01-01 08:40:14,2,0.61,13,12,4.50,7.80,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 01:43:18,2019-01-01 01:54:18,2,2.35,13,43,10.50,14.75,Battery Park City,Manhattan,Central Park
+2,2019-01-01 21:55:59,2019-01-01 21:58:10,2,0.31,43,42,3.50,5.76,Central Park,Manhattan,Central Harlem North
+2,2019-01-01 01:01:53,2019-01-01 01:15:22,3,2.27,42,38,11.00,12.30,Central Harlem North,Manhattan,Cambria Heights
+1,2019-01-01 17:12:08,2019-01-01 17:28:08,1,5.30,41,33,17.50,18.80,Central Harlem,Manhattan,Brooklyn Heights
+1,2019-01-01 02:55:32,2019-01-01 03:18:48,4,2.40,37,48,16.00,20.75,Bushwick South,Brooklyn,Clinton East
+2,2019-01-01 08:40:06,2019-01-01 09:01:44,2,4.17,50,14,17.50,23.50,Clinton West,Manhattan,Bay Ridge
+2,2019-01-01 17:17:41,2019-01-01 17:24:57,2,1.45,37,29,7.00,9.96,Bushwick South,Brooklyn,Brighton Beach
+2,2019-01-01 23:27:35,2019-01-01 23:47:07,1,3.76,29,49,16.00,20.30,Brighton Beach,Brooklyn,Clinton Hill
+2,2019-01-01 18:14:37,2019-01-01 18:18:37,1,1.00,36,38,5.50,6.80,Bushwick North,Brooklyn,Cambria Heights
+2,2019-01-01 03:20:54,2019-01-01 03:47:02,1,6.15,38,25,23.00,29.16,Cambria Heights,Queens,Boerum Hill
+2,2019-01-01 23:49:17,2019-01-02 00:10:41,1,4.69,11,17,18.50,29.80,Bath Beach,Brooklyn,Bedford
+2,2019-01-01 03:42:44,2019-01-01 03:48:00,2,0.97,14,29,5.50,8.16,Bay Ridge,Brooklyn,Brighton Beach
+2,2019-01-01 07:49:19,2019-01-01 08:01:01,2,1.92,29,20,9.50,12.96,Brighton Beach,Brooklyn,Belmont
+2,2019-01-01 00:10:32,2019-01-01 00:19:03,1,2.48,36,24,9.50,10.80,Bushwick North,Brooklyn,Bloomingdale
+2,2019-01-01 12:22:04,2019-01-01 12:33:17,1,2.75,1,48,11.00,12.30,Newark Airport,EWR,Clinton East
+2,2019-01-01 17:35:39,2019-01-01 17:43:37,1,2.18,48,39,8.50,9.80,Clinton East,Manhattan,Canarsie
+2,2019-01-01 22:51:19,2019-01-01 23:14:51,2,4.77,38,34,19.50,24.96,Cambria Heights,Queens,Brooklyn Navy Yard
+2,2019-01-01 02:22:26,2019-01-01 02:31:32,1,0.81,13,40,7.00,10.79,Battery Park City,Manhattan,Carroll Gardens
+2,2019-01-01 08:42:52,2019-01-01 09:00:15,1,2.31,49,20,12.50,15.80,Clinton Hill,Brooklyn,Belmont
+2,2019-01-01 17:04:17,2019-01-01 17:11:06,2,2.45,29,29,8.50,11.76,Brighton Beach,Brooklyn,Brighton Beach
+2,2019-01-01 22:15:20,2019-01-01 22:22:40,2,1.64,41,39,8.00,9.30,Central Harlem,Manhattan,Canarsie
+2,2019-01-01 22:33:03,2019-01-01 22:40:03,1,1.90,42,38,8.00,11.16,Central Harlem North,Manhattan,Cambria Heights
+2,2019-01-01 02:44:18,2019-01-01 02:53:46,1,2.55,38,24,10.00,11.30,Cambria Heights,Queens,Bloomingdale
+1,2019-01-01 07:31:31,2019-01-01 07:33:52,1,0.40,14,49,3.50,5.76,Bay Ridge,Brooklyn,Clinton Hill
+1,2019-01-01 03:38:22,2019-01-01 03:55:16,1,1.90,18,4,12.00,13.30,Bedford Park,Bronx,Alphabet City
+2,2019-01-01 07:18:09,2019-01-01 07:27:05,1,1.36,43,41,8.00,9.30,Central Park,Manhattan,Central Harlem
+2,2019-01-01 00:32:18,2019-01-01 00:34:13,1,0.32,12,12,3.50,4.80,Battery Park,Manhattan,Battery Park
+2,2019-01-01 13:49:39,2019-01-01 13:54:39,1,0.53,11,12,5.00,7.56,Bath Beach,Brooklyn,Battery Park
+2,2019-01-01 09:56:32,2019-01-01 10:33:10,1,6.62,12,30,27.50,28.80,Battery Park,Manhattan,Broad Channel
+2,2019-01-01 01:25:52,2019-01-01 01:29:26,1,1.46,37,36,6.00,7.30,Bushwick South,Brooklyn,Bushwick North
+2,2019-01-01 02:34:25,2019-01-01 02:38:13,1,0.27,36,36,4.50,5.80,Bushwick North,Brooklyn,Bushwick North
+2,2019-01-01 22:42:35,2019-01-01 22:47:35,1,1.12,36,38,6.00,7.30,Bushwick North,Brooklyn,Cambria Heights
+2,2019-01-01 09:52:15,2019-01-01 10:05:07,1,6.18,39,43,18.50,21.30,Canarsie,Brooklyn,Central Park
+1,2019-01-01 23:13:16,2019-01-01 23:22:56,2,1.00,48,36,7.50,8.80,Clinton East,Manhattan,Bushwick North
+1,2019-01-01 07:31:17,2019-01-01 07:43:37,1,0.60,14,37,8.50,11.76,Bay Ridge,Brooklyn,Bushwick South
+1,2019-01-01 13:56:54,2019-01-01 14:07:10,3,1.50,49,44,8.50,11.75,Clinton Hill,Brooklyn,Charleston/Tottenville
+2,2019-01-01 02:10:25,2019-01-01 02:13:38,2,0.40,42,41,4.00,5.30,Central Harlem North,Manhattan,Central Harlem
+2,2019-01-01 20:20:22,2019-01-01 20:25:19,2,0.94,41,25,5.50,6.80,Central Harlem,Manhattan,Boerum Hill
+2,2019-01-01 02:32:45,2019-01-01 02:44:09,2,2.42,36,29,10.00,11.30,Bushwick North,Brooklyn,Brighton Beach
+2,2019-01-01 02:46:29,2019-01-01 02:54:32,2,0.34,29,40,6.50,7.80,Brighton Beach,Brooklyn,Carroll Gardens
+1,2019-01-01 05:34:42,2019-01-01 05:42:05,2,1.00,34,8,6.50,10.80,Brooklyn Navy Yard,Brooklyn,Astoria Park
+1,2019-01-01 08:43:23,2019-01-01 08:54:44,2,1.70,8,18,9.50,12.95,Astoria Park,Queens,Bedford Park
+1,2019-01-01 22:58:20,2019-01-01 22:59:07,1,0.10,18,18,20.00,60.80,Bedford Park,Bronx,Bedford Park
+2,2019-01-01 03:11:20,2019-01-01 03:16:58,1,0.77,44,48,5.50,12.09,Charleston/Tottenville,Staten Island,Clinton East
+2,2019-01-01 01:20:03,2019-01-01 01:29:21,1,1.19,32,31,7.50,14.12,Bronxdale,Bronx,Bronx Park
+2,2019-01-01 01:35:06,2019-01-01 01:35:10,1,0.00,31,31,2.50,3.80,Bronx Park,Bronx,Bronx Park
+2,2019-01-01 03:45:32,2019-01-01 03:58:10,1,1.85,31,33,9.50,11.30,Bronx Park,Bronx,Brooklyn Heights
+2,2019-01-01 23:07:15,2019-01-01 23:10:36,2,1.36,36,37,5.50,8.16,Bushwick North,Brooklyn,Bushwick South
+2,2019-01-01 00:12:56,2019-01-01 00:14:02,2,0.44,41,37,3.50,4.80,Central Harlem,Manhattan,Bushwick South
+2,2019-01-01 18:19:44,2019-01-01 18:23:10,2,0.61,41,41,4.50,7.80,Central Harlem,Manhattan,Central Harlem
+2,2019-01-01 14:26:31,2019-01-01 14:32:46,2,0.98,41,40,6.00,7.30,Central Harlem,Manhattan,Carroll Gardens
+2,2019-01-01 00:33:42,2019-01-01 00:49:49,2,4.10,40,1,15.00,19.56,Carroll Gardens,Brooklyn,Newark Airport
+2,2019-01-01 16:54:04,2019-01-01 17:14:30,2,2.78,1,43,14.00,17.30,Newark Airport,EWR,Central Park
+2,2019-01-01 00:01:37,2019-01-01 00:12:01,1,1.28,50,14,8.50,11.76,Clinton West,Manhattan,Bay Ridge
+2,2019-01-01 23:13:18,2019-01-01 23:39:19,1,9.38,14,25,29.50,30.80,Bay Ridge,Brooklyn,Boerum Hill
+2,2019-01-01 00:40:41,2019-01-01 00:47:15,1,1.51,25,41,7.00,9.96,Boerum Hill,Brooklyn,Central Harlem
+2,2019-01-01 08:54:09,2019-01-01 08:58:08,1,1.28,1,38,6.00,8.76,Newark Airport,EWR,Cambria Heights
+1,2019-01-01 03:49:38,2019-01-01 04:10:30,1,2.80,46,45,15.00,16.30,City Island,Bronx,Chinatown
+2,2019-01-01 13:19:47,2019-01-01 13:34:57,3,4.61,24,44,16.00,17.30,Bloomingdale,Manhattan,Charleston/Tottenville
+2,2019-01-01 19:41:56,2019-01-01 19:51:31,3,1.89,44,42,9.00,10.30,Charleston/Tottenville,Staten Island,Central Harlem North
+2,2019-01-01 22:52:57,2019-01-01 23:08:19,3,3.03,42,13,13.50,21.62,Central Harlem North,Manhattan,Battery Park City
+1,2019-01-01 12:16:07,2019-01-01 12:22:24,2,1.20,39,38,7.00,9.55,Canarsie,Brooklyn,Cambria Heights
+1,2019-01-01 09:27:08,2019-01-01 09:37:41,3,2.00,38,37,9.50,12.96,Cambria Heights,Queens,Bushwick South
+1,2019-01-01 17:46:20,2019-01-01 17:57:08,2,3.70,40,29,12.50,16.55,Carroll Gardens,Brooklyn,Brighton Beach
+1,2019-01-01 02:58:20,2019-01-01 03:19:06,2,2.10,29,33,14.50,18.95,Brighton Beach,Brooklyn,Brooklyn Heights
+2,2019-01-01 23:22:35,2019-01-01 23:33:29,2,1.43,37,13,8.50,12.25,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 00:35:26,2019-01-01 00:41:31,1,1.34,13,33,6.50,9.36,Battery Park City,Manhattan,Brooklyn Heights
+2,2019-01-01 10:44:54,2019-01-01 10:51:00,1,0.62,12,20,5.50,8.16,Battery Park,Manhattan,Belmont
+1,2019-01-01 01:15:07,2019-01-01 01:34:17,3,9.70,38,41,28.00,43.81,Cambria Heights,Queens,Central Harlem
+1,2019-01-01 23:36:40,2019-01-01 23:48:09,1,2.80,41,7,11.00,14.00,Central Harlem,Manhattan,Astoria
+1,2019-01-01 09:50:52,2019-01-01 10:03:52,2,2.40,7,37,11.00,14.75,Astoria,Queens,Bushwick South
+2,2019-01-01 01:20:44,2019-01-01 01:29:49,5,1.36,29,49,8.00,11.16,Brighton Beach,Brooklyn,Clinton Hill
+2,2019-01-01 11:47:27,2019-01-01 12:12:35,5,4.09,18,41,18.50,22.77,Bedford Park,Bronx,Central Harlem
+2,2019-01-01 16:10:24,2019-01-01 16:22:29,1,1.68,42,46,9.50,14.04,Central Harlem North,Manhattan,City Island
+2,2019-01-01 09:29:26,2019-01-01 09:44:48,1,2.15,48,34,11.50,15.36,Clinton East,Manhattan,Brooklyn Navy Yard
+2,2019-01-01 03:51:29,2019-01-01 04:02:30,1,1.02,40,18,8.50,10.78,Carroll Gardens,Brooklyn,Bedford Park
+1,2019-01-01 08:27:02,2019-01-01 08:33:23,2,1.10,11,29,6.50,9.35,Bath Beach,Brooklyn,Brighton Beach
+1,2019-01-01 23:39:51,2019-01-01 23:52:44,2,1.40,7,14,9.50,12.95,Astoria,Queens,Bay Ridge
+2,2019-01-01 02:20:14,2019-01-01 02:45:04,6,5.14,44,43,19.50,20.80,Charleston/Tottenville,Staten Island,Central Park
+2,2019-01-01 00:48:44,2019-01-01 01:08:33,6,3.58,42,7,15.00,18.80,Central Harlem North,Manhattan,Astoria
+2,2019-01-01 23:15:57,2019-01-01 23:29:22,1,2.40,11,40,11.00,14.76,Bath Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 18:36:30,2019-01-01 18:44:33,1,2.33,41,24,9.00,10.30,Central Harlem,Manhattan,Bloomingdale
+2,2018-12-31 02:52:16,2018-12-31 02:54:55,1,0.60,29,4,4.00,5.30,Brighton Beach,Brooklyn,Alphabet City
+2,2019-01-01 17:19:26,2019-01-01 17:38:14,1,1.54,11,34,12.50,17.25,Bath Beach,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 17:30:17,2019-01-01 17:50:29,1,4.10,13,45,16.50,27.09,Battery Park City,Manhattan,Chinatown
+2,2019-01-01 06:38:08,2019-01-01 06:40:49,1,0.56,42,42,4.00,6.89,Central Harlem North,Manhattan,Central Harlem North
+2,2019-01-01 02:42:12,2019-01-01 02:48:28,1,0.77,42,13,6.00,7.30,Central Harlem North,Manhattan,Battery Park City
+2,2019-01-01 16:50:13,2019-01-01 17:41:35,1,3.88,13,46,29.50,30.80,Battery Park City,Manhattan,City Island
+2,2019-01-01 00:47:42,2019-01-01 01:02:27,6,2.64,18,39,12.50,17.25,Bedford Park,Bronx,Canarsie
+2,2019-01-01 16:29:04,2019-01-01 16:37:27,1,1.20,49,4,7.00,9.96,Clinton Hill,Brooklyn,Alphabet City
+2,2019-01-01 22:38:39,2019-01-01 22:40:53,1,0.29,4,4,3.50,6.00,Alphabet City,Manhattan,Alphabet City
+2,2019-01-01 16:28:20,2019-01-01 16:37:49,5,1.92,37,37,9.00,10.30,Bushwick South,Brooklyn,Bushwick South
+2,2019-01-01 03:47:00,2019-01-01 03:55:10,6,1.20,20,29,7.00,10.79,Belmont,Bronx,Brighton Beach
+2,2019-01-01 18:58:38,2019-01-01 19:05:38,5,0.84,33,29,6.00,8.76,Brooklyn Heights,Brooklyn,Brighton Beach
+2,2019-01-01 00:16:22,2019-01-01 00:24:47,1,1.46,1,43,8.00,9.30,Newark Airport,EWR,Central Park
+2,2019-01-01 03:27:42,2019-01-01 03:35:49,1,1.16,43,50,7.50,8.80,Central Park,Manhattan,Clinton West
+2,2019-01-01 09:39:31,2019-01-01 09:55:00,1,3.37,48,12,13.50,14.80,Clinton East,Manhattan,Battery Park
+2,2019-01-01 18:59:49,2019-01-01 19:10:22,1,2.08,12,1,9.50,10.80,Battery Park,Manhattan,Newark Airport
+2,2019-01-01 01:31:18,2019-01-01 01:55:33,1,2.39,49,20,15.50,21.00,Clinton Hill,Brooklyn,Belmont
+2,2019-01-01 07:33:36,2019-01-01 07:57:49,1,2.50,29,18,16.00,20.76,Brighton Beach,Brooklyn,Bedford Park
+1,2019-01-01 22:24:24,2019-01-01 22:25:38,1,0.50,37,7,3.50,4.80,Bushwick South,Brooklyn,Astoria
+1,2019-01-01 02:27:36,2019-01-01 02:38:54,1,1.50,7,18,9.00,12.35,Astoria,Queens,Bedford Park
+1,2019-01-01 17:49:07,2019-01-01 17:57:24,1,1.20,18,40,7.00,9.95,Bedford Park,Bronx,Carroll Gardens
+1,2019-01-01 08:59:32,2019-01-01 09:26:48,1,4.10,36,13,19.50,23.92,Bushwick North,Brooklyn,Battery Park City
+1,2019-01-01 02:34:27,2019-01-01 02:38:26,2,0.20,11,12,4.50,5.80,Bath Beach,Brooklyn,Battery Park
+1,2019-01-01 10:43:43,2019-01-01 10:44:27,1,0.20,12,12,3.00,4.30,Battery Park,Manhattan,Battery Park
+1,2019-01-01 00:49:39,2019-01-01 01:00:21,2,1.60,14,29,9.00,12.85,Bay Ridge,Brooklyn,Brighton Beach
+2,2019-01-01 02:37:12,2019-01-01 02:40:59,1,0.60,49,49,4.50,6.96,Clinton Hill,Brooklyn,Clinton Hill
+2,2019-01-01 07:43:05,2019-01-01 07:50:13,1,1.04,49,49,6.50,9.36,Clinton Hill,Brooklyn,Clinton Hill
+2,2019-01-01 03:52:12,2019-01-01 04:07:19,1,2.74,49,49,12.50,16.56,Clinton Hill,Brooklyn,Clinton Hill
+1,2019-01-01 23:47:35,2019-01-01 23:56:02,1,0.90,18,18,7.00,9.95,Bedford Park,Bronx,Bedford Park
+1,2019-01-01 13:57:00,2019-01-01 14:08:00,1,1.40,18,25,8.50,10.80,Bedford Park,Bronx,Boerum Hill
+2,2019-01-01 18:22:37,2019-01-01 18:33:03,1,3.70,37,24,12.00,13.30,Bushwick South,Brooklyn,Bloomingdale
+2,2019-01-01 01:36:31,2019-01-01 01:39:53,1,0.67,24,25,4.50,5.80,Bloomingdale,Manhattan,Boerum Hill
+2,2019-01-01 08:45:01,2019-01-01 08:48:10,1,0.73,13,13,4.50,5.80,Battery Park City,Manhattan,Battery Park City
+2,2019-01-01 17:52:08,2019-01-01 17:58:53,1,1.61,37,13,7.50,10.56,Bushwick South,Brooklyn,Battery Park City
+1,2019-01-01 16:04:16,2019-01-01 16:30:50,1,5.80,48,26,22.00,23.30,Clinton East,Manhattan,Borough Park
+1,2019-01-01 19:58:24,2019-01-01 20:06:24,1,1.40,29,20,7.00,10.35,Brighton Beach,Brooklyn,Belmont
+2,2019-01-01 22:15:10,2019-01-01 22:23:58,1,1.85,36,1,9.00,13.39,Bushwick North,Brooklyn,Newark Airport
+2,2019-01-01 09:27:58,2019-01-01 09:34:09,2,2.11,1,43,8.00,11.30,Newark Airport,EWR,Central Park
+1,2019-01-01 23:29:38,2019-01-01 23:42:33,1,2.50,42,36,11.00,13.80,Central Harlem North,Manhattan,Bushwick North
+1,2019-01-01 22:46:07,2019-01-01 22:47:30,1,0.30,36,36,3.50,5.80,Bushwick North,Brooklyn,Bushwick North
+1,2019-01-01 23:50:39,2019-01-01 23:55:57,2,0.80,37,37,5.50,6.80,Bushwick South,Brooklyn,Bushwick South
+1,2019-01-01 07:57:54,2019-01-01 08:25:27,2,1.20,37,30,16.50,17.80,Bushwick South,Brooklyn,Broad Channel
+1,2019-01-01 07:23:04,2019-01-01 07:36:04,1,3.40,48,24,12.50,17.25,Clinton East,Manhattan,Bloomingdale
+1,2019-01-01 01:40:47,2019-01-01 01:45:23,1,1.00,41,16,5.50,6.80,Central Harlem,Manhattan,Bayside
+1,2019-01-01 18:47:28,2019-01-01 18:55:23,3,1.20,16,38,7.50,10.12,Bayside,Queens,Cambria Heights
+2,2019-01-01 01:28:53,2019-01-01 01:31:04,2,0.42,13,13,3.50,5.76,Battery Park City,Manhattan,Battery Park City
+2,2019-01-01 07:33:29,2019-01-01 07:38:00,2,1.30,13,40,6.00,7.30,Battery Park City,Manhattan,Carroll Gardens
+2,2019-01-01 06:39:17,2019-01-01 06:51:45,2,3.41,40,41,12.50,16.56,Carroll Gardens,Brooklyn,Central Harlem
+2,2019-01-01 17:35:19,2019-01-01 17:39:39,2,0.74,29,29,5.00,7.56,Brighton Beach,Brooklyn,Brighton Beach
+2,2019-01-01 03:40:48,2019-01-01 03:50:47,2,1.28,7,20,8.00,11.16,Astoria,Queens,Belmont
+2,2019-01-01 07:17:57,2019-01-01 07:31:58,1,1.98,25,7,10.50,14.16,Boerum Hill,Brooklyn,Astoria
+2,2019-01-01 09:42:30,2019-01-01 09:54:50,1,1.89,7,11,10.00,11.30,Astoria,Queens,Bath Beach
+2,2019-01-01 22:57:05,2019-01-01 23:08:52,1,2.31,11,8,9.50,12.96,Bath Beach,Brooklyn,Astoria Park
+1,2019-01-01 07:17:45,2019-01-01 07:23:42,2,0.50,40,18,5.50,6.80,Carroll Gardens,Brooklyn,Bedford Park
+1,2019-01-01 23:28:08,2019-01-01 23:31:43,1,0.00,18,40,4.00,5.30,Bedford Park,Bronx,Carroll Gardens
+1,2019-01-01 22:36:36,2019-01-01 22:59:43,2,4.20,40,43,18.50,24.75,Carroll Gardens,Brooklyn,Central Park
+2,2019-01-01 18:19:44,2019-01-01 18:35:51,5,4.30,13,13,15.00,18.75,Battery Park City,Manhattan,Battery Park City
+2,2019-01-01 07:38:19,2019-01-01 08:07:02,5,7.34,13,6,25.50,26.80,Battery Park City,Manhattan,Arrochar/Fort Wadsworth
+1,2019-01-01 07:43:24,2019-01-01 08:04:44,1,8.00,7,45,25.00,26.30,Astoria,Queens,Chinatown
+1,2019-01-01 03:24:14,2019-01-01 03:41:33,1,5.50,13,7,18.00,24.10,Battery Park City,Manhattan,Astoria
+1,2019-01-01 17:21:28,2019-01-01 17:34:59,2,1.10,18,7,9.50,10.80,Bedford Park,Bronx,Astoria
+1,2019-01-01 08:52:43,2019-01-01 08:57:58,1,1.10,7,37,5.50,8.15,Astoria,Queens,Bushwick South
+2,2019-01-01 09:32:42,2019-01-01 09:42:06,1,1.94,31,40,9.00,10.30,Bronx Park,Bronx,Carroll Gardens
+2,2019-01-01 18:46:00,2019-01-01 18:49:52,1,0.60,49,49,4.50,5.80,Clinton Hill,Brooklyn,Clinton Hill
+2,2019-01-01 01:51:10,2019-01-01 02:17:30,1,4.54,49,6,20.00,21.30,Clinton Hill,Brooklyn,Arrochar/Fort Wadsworth
+1,2019-01-01 07:06:38,2019-01-01 07:20:09,2,3.90,39,42,14.00,19.85,Canarsie,Brooklyn,Central Harlem North
+1,2019-01-01 18:35:42,2019-01-01 18:42:52,1,1.40,38,39,7.50,8.80,Cambria Heights,Queens,Canarsie
+1,2019-01-01 08:45:26,2019-01-01 08:48:44,2,0.50,39,43,4.50,7.20,Canarsie,Brooklyn,Central Park
+1,2019-01-01 17:57:11,2019-01-01 18:04:28,2,1.70,43,36,8.00,10.70,Central Park,Manhattan,Bushwick North
+2,2019-01-01 02:19:33,2019-01-01 02:31:34,2,1.52,34,33,9.50,10.80,Brooklyn Navy Yard,Brooklyn,Brooklyn Heights
+2,2019-01-01 18:32:48,2019-01-01 18:43:35,2,2.75,33,12,10.50,11.80,Brooklyn Heights,Brooklyn,Battery Park
+2,2019-01-01 09:46:26,2019-01-01 09:48:50,2,0.57,12,12,4.00,5.30,Battery Park,Manhattan,Battery Park
+2,2019-01-01 07:56:18,2019-01-01 08:12:06,2,2.37,41,39,12.00,13.30,Central Harlem,Manhattan,Canarsie
+1,2019-01-01 22:01:19,2019-01-01 22:25:44,1,9.10,36,2,28.00,36.60,Bushwick North,Brooklyn,Jamaica Bay
+1,2019-01-01 02:31:22,2019-01-01 02:39:00,2,0.50,33,16,6.50,9.35,Brooklyn Heights,Brooklyn,Bayside
+1,2019-01-01 18:39:57,2019-01-01 19:00:14,2,6.00,16,14,20.50,21.80,Bayside,Queens,Bay Ridge
+1,2019-01-01 03:36:23,2019-01-01 03:59:21,2,3.10,15,39,16.00,20.75,Bay Terrace/Fort Totten,Queens,Canarsie
+2,2019-01-01 08:12:27,2019-01-01 08:20:45,1,0.79,7,20,6.50,7.80,Astoria,Queens,Belmont
+2,2019-01-01 02:06:14,2019-01-01 02:13:52,1,2.59,29,41,9.50,11.80,Brighton Beach,Brooklyn,Central Harlem
+2,2019-01-01 10:29:03,2019-01-01 10:35:42,1,1.17,12,7,6.50,9.60,Battery Park,Manhattan,Astoria
+2,2019-01-01 05:49:23,2019-01-01 05:55:44,1,0.64,11,48,6.00,8.76,Bath Beach,Brooklyn,Clinton East
+2,2019-01-01 22:56:38,2019-01-01 23:11:20,1,2.61,48,20,12.00,15.96,Clinton East,Manhattan,Belmont
+2,2019-01-01 18:09:48,2019-01-01 18:19:03,1,3.40,8,48,11.50,12.80,Astoria Park,Queens,Clinton East
+2,2019-01-01 01:32:52,2019-01-01 01:50:52,1,8.02,10,1,24.50,25.80,Baisley Park,Queens,Newark Airport
+2,2019-01-01 01:22:15,2019-01-01 01:39:44,2,2.24,44,20,12.50,15.18,Charleston/Tottenville,Staten Island,Belmont
+2,2019-01-01 20:49:39,2019-01-01 20:56:54,2,1.22,37,12,6.50,9.36,Bushwick South,Brooklyn,Battery Park
+1,2019-01-01 22:12:10,2019-01-01 22:18:23,1,1.30,20,12,6.50,9.35,Belmont,Bronx,Battery Park
+1,2019-01-01 09:26:07,2019-01-01 09:57:48,1,3.30,11,8,19.50,26.00,Bath Beach,Brooklyn,Astoria Park
+1,2019-01-01 18:59:02,2019-01-01 19:07:24,1,1.30,8,13,7.00,9.30,Astoria Park,Queens,Battery Park City
+2,2019-01-01 07:16:25,2019-01-01 07:27:12,1,1.62,42,40,9.00,10.30,Central Harlem North,Manhattan,Carroll Gardens
+2,2019-01-01 08:31:24,2019-01-01 08:42:25,1,1.58,41,20,8.00,11.00,Central Harlem,Manhattan,Belmont
+2,2019-01-01 16:50:52,2019-01-01 17:01:40,1,1.44,20,13,8.00,10.70,Belmont,Bronx,Battery Park City
+2,2019-01-01 09:11:19,2019-01-01 09:21:32,1,1.47,24,38,8.50,12.25,Bloomingdale,Manhattan,Cambria Heights
+2,2019-01-01 08:23:38,2019-01-01 08:28:40,1,1.11,38,42,6.00,9.12,Cambria Heights,Queens,Central Harlem North
+2,2019-01-01 22:31:14,2019-01-01 22:34:38,1,0.88,42,39,5.00,8.19,Central Harlem North,Manhattan,Canarsie
+2,2019-01-01 17:38:22,2019-01-01 17:43:49,1,1.69,43,36,7.00,8.30,Central Park,Manhattan,Bushwick North
+2,2019-01-01 22:48:40,2019-01-01 22:51:33,1,0.44,36,36,4.00,6.89,Bushwick North,Brooklyn,Bushwick North
+2,2019-01-01 01:56:50,2019-01-01 02:14:55,1,4.75,37,46,17.00,20.30,Bushwick South,Brooklyn,City Island
+2,2019-01-01 09:11:20,2019-01-01 09:26:57,5,5.52,48,40,18.00,28.11,Clinton East,Manhattan,Carroll Gardens
+2,2019-01-01 05:28:35,2019-01-01 05:32:45,5,1.34,40,13,6.00,8.76,Carroll Gardens,Brooklyn,Battery Park City
+2,2019-01-01 08:37:10,2019-01-01 08:53:28,5,8.18,25,41,24.00,25.30,Boerum Hill,Brooklyn,Central Harlem
+2,2019-01-01 07:05:35,2019-01-01 07:13:25,1,1.77,37,36,8.00,12.09,Bushwick South,Brooklyn,Bushwick North
+2,2019-01-01 17:18:42,2019-01-01 17:20:45,1,0.52,13,36,3.50,4.80,Battery Park City,Manhattan,Bushwick North
+2,2019-01-01 01:29:51,2019-01-01 01:42:45,1,2.69,13,42,11.50,15.36,Battery Park City,Manhattan,Central Harlem North
+2,2019-01-01 00:35:37,2019-01-01 00:53:09,2,2.77,36,45,13.50,20.56,Bushwick North,Brooklyn,Chinatown
+2,2019-01-01 08:58:00,2019-01-01 09:17:11,1,13.33,45,16,36.00,37.30,Chinatown,Manhattan,Bayside
+2,2019-01-01 18:22:51,2019-01-01 18:27:09,1,0.52,7,7,4.50,5.80,Astoria,Queens,Astoria
+2,2019-01-01 07:47:03,2019-01-01 08:13:28,1,10.63,38,24,31.00,43.77,Cambria Heights,Queens,Bloomingdale
+2,2019-01-01 17:10:03,2019-01-01 17:22:18,1,0.93,7,14,8.00,9.30,Astoria,Queens,Bay Ridge
+2,2019-01-01 01:27:54,2019-01-02 01:22:18,1,3.18,14,31,15.00,16.30,Bay Ridge,Brooklyn,Bronx Park
+2,2019-01-01 08:13:44,2019-01-01 08:30:24,3,0.85,11,14,10.50,11.80,Bath Beach,Brooklyn,Bay Ridge
+2,2019-01-01 03:33:55,2019-01-01 03:46:15,2,0.71,14,20,8.50,11.76,Bay Ridge,Brooklyn,Belmont
+2,2019-01-01 07:51:00,2019-01-01 08:06:25,2,1.69,12,34,10.50,14.16,Battery Park,Manhattan,Brooklyn Navy Yard
+1,2019-01-01 18:27:40,2019-01-01 18:30:08,2,0.60,29,29,4.00,5.30,Brighton Beach,Brooklyn,Brighton Beach
+1,2019-01-01 02:37:18,2019-01-01 02:47:15,1,1.10,29,44,8.00,11.00,Brighton Beach,Brooklyn,Charleston/Tottenville
+1,2019-01-01 08:48:43,2019-01-01 08:55:40,2,1.30,44,37,7.00,9.96,Charleston/Tottenville,Staten Island,Bushwick South
+1,2019-01-01 22:59:07,2019-01-01 23:26:02,3,4.90,37,33,23.00,29.15,Bushwick South,Brooklyn,Brooklyn Heights
+1,2019-01-01 02:07:41,2019-01-01 02:09:14,1,0.30,44,44,3.50,4.80,Charleston/Tottenville,Staten Island,Charleston/Tottenville
+1,2019-01-01 04:17:18,2019-01-01 04:20:37,1,0.70,44,44,4.50,5.80,Charleston/Tottenville,Staten Island,Charleston/Tottenville
+1,2019-01-01 02:46:16,2019-01-01 02:58:34,2,3.80,24,48,14.00,15.30,Bloomingdale,Manhattan,Clinton East
+2,2019-01-01 02:09:20,2019-01-01 02:15:50,3,1.13,13,41,6.50,11.75,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 01:41:05,2019-01-01 01:51:55,1,2.66,12,38,10.50,14.16,Battery Park,Manhattan,Cambria Heights
+2,2019-01-01 03:54:50,2019-01-01 03:58:47,1,1.33,38,1,5.50,6.80,Cambria Heights,Queens,Newark Airport
+1,2019-01-01 08:22:25,2019-01-01 09:14:55,1,6.20,13,48,32.50,33.80,Battery Park City,Manhattan,Clinton East
+2,2019-01-01 03:27:17,2019-01-01 03:31:34,2,0.64,29,13,5.00,8.30,Brighton Beach,Brooklyn,Battery Park City
+2,2019-01-01 03:39:01,2019-01-01 04:09:35,2,4.73,13,43,22.00,29.91,Battery Park City,Manhattan,Central Park
+2,2019-01-01 23:31:30,2019-01-01 23:42:58,6,2.94,41,29,11.00,14.76,Central Harlem,Manhattan,Brighton Beach
+2,2019-01-01 00:59:03,2019-01-01 01:14:47,6,1.06,14,36,10.50,14.16,Bay Ridge,Brooklyn,Bushwick North
+2,2019-01-01 03:28:03,2019-01-01 03:35:35,2,0.62,13,34,6.00,8.76,Battery Park City,Manhattan,Brooklyn Navy Yard
+2,2019-01-01 16:14:57,2019-01-01 16:30:56,1,2.34,48,39,12.50,16.56,Clinton East,Manhattan,Canarsie
+2,2019-01-01 22:33:12,2019-01-01 22:38:50,1,1.31,39,43,6.50,9.80,Canarsie,Brooklyn,Central Park
+2,2019-01-01 23:43:12,2019-01-01 23:49:16,1,1.15,38,41,6.50,9.36,Cambria Heights,Queens,Central Harlem
+1,2019-01-01 14:58:12,2019-01-01 15:13:44,1,2.10,18,31,11.50,12.80,Bedford Park,Bronx,Bronx Park
+1,2019-01-01 16:25:46,2019-01-01 16:33:29,2,0.10,40,40,6.00,8.75,Carroll Gardens,Brooklyn,Carroll Gardens
+1,2019-01-01 09:45:10,2019-01-01 10:06:24,2,2.80,40,33,15.50,16.80,Carroll Gardens,Brooklyn,Brooklyn Heights
+2,2019-01-01 19:09:04,2019-01-01 19:16:14,1,1.69,13,37,8.00,9.30,Battery Park City,Manhattan,Bushwick South
+2,2019-01-01 03:23:30,2019-01-01 03:37:08,1,5.39,11,20,17.50,24.44,Bath Beach,Brooklyn,Belmont
+2,2019-01-01 01:55:18,2019-01-01 02:11:29,1,1.93,34,4,11.50,12.80,Brooklyn Navy Yard,Brooklyn,Alphabet City
+2,2019-01-01 06:28:10,2019-01-01 07:00:16,2,5.58,36,12,23.50,31.00,Bushwick North,Brooklyn,Battery Park
+1,2019-01-01 09:24:24,2019-01-01 09:29:00,1,0.70,13,11,5.00,6.30,Battery Park City,Manhattan,Bath Beach
+1,2019-01-01 16:35:40,2019-01-01 17:04:12,2,9.70,31,41,31.00,32.30,Bronx Park,Bronx,Central Harlem
+1,2019-01-01 08:51:45,2019-01-01 09:05:37,2,2.70,29,5,12.50,17.25,Brighton Beach,Brooklyn,Arden Heights
+2,2019-01-01 01:18:42,2019-01-01 01:29:55,5,2.03,39,13,10.00,13.56,Canarsie,Brooklyn,Battery Park City
+2,2019-01-01 16:32:36,2019-01-01 16:58:10,5,7.29,12,29,25.00,34.19,Battery Park,Manhattan,Brighton Beach
+1,2019-01-01 02:39:33,2019-01-01 03:04:44,1,3.20,49,50,17.50,23.50,Clinton Hill,Brooklyn,Clinton West
+1,2019-01-01 18:34:44,2019-01-01 18:37:03,2,0.80,37,37,4.50,5.80,Bushwick South,Brooklyn,Bushwick South
+1,2019-01-01 00:43:07,2019-01-01 01:05:28,2,2.50,37,13,15.50,20.15,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 23:10:53,2019-01-01 23:24:44,2,5.25,16,28,17.00,21.96,Bayside,Queens,Briarwood/Jamaica Hills
+2,2019-01-01 08:30:30,2019-01-01 08:53:44,2,6.79,31,29,23.00,30.38,Bronx Park,Bronx,Brighton Beach
+2,2019-01-01 23:55:38,2019-01-02 00:01:03,2,1.41,7,33,6.50,7.80,Astoria,Queens,Brooklyn Heights
+1,2019-01-01 23:24:04,2019-01-01 23:46:19,2,2.10,18,12,14.50,19.80,Bedford Park,Bronx,Battery Park
+1,2019-01-01 18:58:23,2019-01-01 19:15:59,2,3.20,11,12,14.00,19.85,Bath Beach,Brooklyn,Battery Park
+1,2019-01-01 00:57:46,2019-01-01 01:22:47,4,2.90,36,14,17.00,23.75,Bushwick North,Brooklyn,Bay Ridge
+2,2019-01-01 02:31:55,2019-01-01 02:36:06,4,1.32,37,36,6.00,7.30,Bushwick South,Brooklyn,Bushwick North
+1,2019-01-01 00:22:37,2019-01-01 00:26:24,1,1.50,24,13,6.00,7.88,Bloomingdale,Manhattan,Battery Park City
+1,2019-01-01 16:27:14,2019-01-01 16:33:06,2,1.50,13,29,7.00,8.30,Battery Park City,Manhattan,Brighton Beach
+1,2019-01-01 00:35:03,2019-01-01 00:56:02,1,4.60,29,24,17.50,18.80,Brighton Beach,Brooklyn,Bloomingdale
+1,2019-01-01 23:58:47,2019-01-02 00:21:44,1,4.30,24,19,18.50,19.80,Bloomingdale,Manhattan,Bellerose
+1,2019-01-01 01:21:48,2019-01-01 01:49:07,1,10.90,42,26,32.50,33.80,Central Harlem North,Manhattan,Borough Park
+2,2019-01-01 01:13:50,2019-01-01 01:26:46,1,2.25,38,13,11.00,15.38,Cambria Heights,Queens,Battery Park City
+2,2019-01-01 22:29:31,2019-01-01 22:53:34,2,9.92,13,46,30.00,40.00,Battery Park City,Manhattan,City Island
+2,2019-01-01 16:54:25,2019-01-01 16:59:44,2,1.15,46,45,6.00,7.30,City Island,Bronx,Chinatown
+1,2019-01-01 16:47:30,2019-01-01 17:14:13,1,3.90,50,48,18.00,19.30,Clinton West,Manhattan,Clinton East
+2,2019-01-01 07:15:51,2019-01-01 07:27:35,4,1.22,11,33,8.50,12.74,Bath Beach,Brooklyn,Brooklyn Heights
+2,2019-01-01 18:33:31,2019-01-01 18:53:01,3,3.53,11,38,15.50,16.80,Bath Beach,Brooklyn,Cambria Heights
+2,2019-01-01 16:35:24,2019-01-01 16:46:48,1,2.50,11,13,10.50,11.80,Bath Beach,Brooklyn,Battery Park City
+2,2019-01-01 17:56:44,2019-01-01 18:08:12,4,2.40,43,14,10.50,11.80,Central Park,Manhattan,Bay Ridge
+1,2019-01-01 21:23:38,2019-01-01 21:39:59,4,2.00,11,29,11.50,12.80,Bath Beach,Brooklyn,Brighton Beach
+1,2019-01-01 18:42:57,2019-01-01 18:54:08,1,1.50,29,40,8.50,11.76,Brighton Beach,Brooklyn,Carroll Gardens
+1,2019-01-01 21:54:58,2019-01-01 22:08:20,1,1.10,34,18,9.00,13.35,Brooklyn Navy Yard,Brooklyn,Bedford Park
+2,2019-01-01 02:00:42,2019-01-01 02:03:42,6,0.62,50,43,4.50,5.80,Clinton West,Manhattan,Central Park
+1,2019-01-01 03:48:32,2019-01-01 03:56:40,1,2.40,41,36,9.50,12.95,Central Harlem,Manhattan,Bushwick North
+1,2019-01-01 22:59:52,2019-01-01 23:05:53,1,1.30,36,41,6.50,9.00,Bushwick North,Brooklyn,Central Harlem
+2,2018-12-31 18:32:33,2018-12-31 19:45:54,2,1.82,40,8,9.50,10.80,Carroll Gardens,Brooklyn,Astoria Park
+2,2019-01-01 03:48:41,2019-01-01 04:10:46,1,2.11,8,48,14.50,15.80,Astoria Park,Queens,Clinton East
+1,2019-01-01 07:41:12,2019-01-01 07:44:30,1,0.90,46,7,5.00,7.55,City Island,Bronx,Astoria
+1,2019-01-01 01:04:55,2019-01-01 01:16:13,1,1.70,48,7,9.00,12.35,Clinton East,Manhattan,Astoria
+1,2019-01-01 17:40:38,2019-01-01 17:56:31,1,1.50,49,18,11.00,14.75,Clinton Hill,Brooklyn,Bedford Park
+1,2019-01-01 20:57:58,2019-01-01 21:28:32,1,4.80,18,20,21.50,25.08,Bedford Park,Bronx,Belmont
+2,2018-12-31 16:55:22,2018-12-31 17:03:11,3,1.54,37,38,8.00,9.30,Bushwick South,Brooklyn,Cambria Heights
+2,2019-01-01 11:18:57,2019-01-01 11:25:39,3,1.20,43,50,6.50,7.80,Central Park,Manhattan,Clinton West
+2,2019-01-01 03:26:30,2019-01-01 03:41:32,3,2.45,50,49,11.50,15.36,Clinton West,Manhattan,Clinton Hill
+2,2019-01-01 03:42:51,2019-01-01 03:50:10,3,0.87,49,11,6.50,9.75,Clinton Hill,Brooklyn,Bath Beach
+2,2019-01-01 03:51:47,2019-01-01 03:54:33,3,0.41,11,14,4.00,5.30,Bath Beach,Brooklyn,Bay Ridge
+1,2019-01-01 17:52:02,2019-01-01 18:08:36,1,2.00,18,37,11.50,16.60,Bedford Park,Bronx,Bushwick South
+2,2019-01-01 00:23:56,2019-01-01 00:36:39,5,2.72,43,29,11.00,12.30,Central Park,Manhattan,Brighton Beach
+2,2019-01-01 02:44:18,2019-01-01 03:09:19,5,1.80,13,14,15.50,16.80,Battery Park City,Manhattan,Bay Ridge
+2,2019-01-01 23:09:26,2019-01-01 23:16:39,1,1.87,39,1,8.00,12.09,Canarsie,Brooklyn,Newark Airport
+2,2019-01-01 22:18:22,2019-01-01 22:21:28,1,0.45,1,16,4.00,6.62,Newark Airport,EWR,Bayside
+2,2019-01-01 09:23:19,2019-01-01 09:30:04,1,1.32,16,25,7.00,10.38,Bayside,Queens,Boerum Hill
+2,2019-01-01 00:38:42,2019-01-01 00:46:21,1,1.52,43,41,7.50,8.80,Central Park,Manhattan,Central Harlem
+2,2019-01-01 08:51:46,2019-01-01 08:55:16,1,0.93,37,36,5.00,6.30,Bushwick South,Brooklyn,Bushwick North
+2,2019-01-01 17:12:59,2019-01-01 17:36:11,1,5.16,14,39,19.50,24.96,Bay Ridge,Brooklyn,Canarsie
+2,2019-01-01 23:37:13,2019-01-01 23:44:16,1,1.62,39,16,7.50,8.80,Canarsie,Brooklyn,Bayside
+2,2019-01-01 22:48:17,2019-01-01 22:50:55,1,0.74,24,38,4.50,5.80,Bloomingdale,Manhattan,Cambria Heights
+2,2019-01-01 11:52:16,2019-01-01 11:56:24,1,0.60,38,38,5.00,7.56,Cambria Heights,Queens,Cambria Heights
+2,2019-01-01 22:58:09,2019-01-01 23:24:05,1,6.62,38,10,22.50,29.75,Cambria Heights,Queens,Baisley Park
+1,2019-01-01 07:11:06,2019-01-01 07:24:57,1,3.10,50,12,12.00,15.95,Clinton West,Manhattan,Battery Park
+1,2019-01-01 17:36:14,2019-01-01 17:42:02,1,0.90,37,20,5.50,6.80,Bushwick South,Brooklyn,Belmont
+1,2019-01-01 00:48:44,2019-01-01 00:57:36,1,0.50,14,30,7.00,9.95,Bay Ridge,Brooklyn,Broad Channel
+1,2019-01-01 22:59:00,2019-01-01 23:12:52,1,1.50,30,42,10.00,11.30,Broad Channel,Queens,Central Harlem North
+2,2019-01-01 04:17:14,2019-01-01 04:48:42,3,2.09,42,14,19.00,26.39,Central Harlem North,Manhattan,Bay Ridge
+2,2019-01-01 09:55:07,2019-01-01 10:37:33,3,9.67,50,15,36.50,43.56,Clinton West,Manhattan,Bay Terrace/Fort Totten
+2,2019-01-01 15:26:53,2019-01-01 16:01:03,1,3.40,7,43,21.00,27.88,Astoria,Queens,Central Park
+2,2019-01-01 16:19:41,2019-01-01 16:27:34,1,0.58,48,46,6.50,9.36,Clinton East,Manhattan,City Island
+2,2019-01-01 22:53:16,2019-01-01 23:32:25,1,6.85,18,7,28.50,29.80,Bedford Park,Bronx,Astoria
+2,2019-01-01 03:26:30,2019-01-01 03:34:23,5,1.32,14,4,7.00,8.30,Bay Ridge,Brooklyn,Alphabet City
+2,2019-01-01 00:42:12,2019-01-01 01:04:53,5,6.77,29,12,23.50,29.76,Brighton Beach,Brooklyn,Battery Park
+1,2019-01-01 09:52:47,2019-01-01 10:00:12,1,1.20,7,20,7.00,9.95,Astoria,Queens,Belmont
+2,2019-01-01 03:15:06,2019-01-01 03:16:25,1,0.43,40,29,3.50,4.80,Carroll Gardens,Brooklyn,Brighton Beach
+2,2019-01-01 01:32:46,2019-01-01 01:52:49,1,6.45,14,32,21.50,29.56,Bay Ridge,Brooklyn,Bronxdale
+2,2019-01-01 08:58:48,2019-01-01 09:09:28,1,1.42,32,14,8.50,11.76,Bronxdale,Bronx,Bay Ridge
+2,2019-01-01 17:07:38,2019-01-01 17:32:34,5,9.47,14,28,28.50,29.89,Bay Ridge,Brooklyn,Briarwood/Jamaica Hills
+2,2019-01-01 08:15:17,2019-01-01 08:20:06,1,0.63,7,29,5.00,6.30,Astoria,Queens,Brighton Beach
+2,2019-01-01 00:36:13,2019-01-01 01:10:12,1,7.44,34,29,27.00,28.30,Brooklyn Navy Yard,Brooklyn,Brighton Beach
+2,2019-01-01 22:40:36,2019-01-01 22:47:34,1,1.09,49,31,6.50,9.75,Clinton Hill,Brooklyn,Bronx Park
+1,2019-01-01 00:13:55,2019-01-01 00:31:39,1,1.90,46,20,12.00,16.60,City Island,Bronx,Belmont
+1,2019-01-01 09:45:42,2019-01-01 09:57:14,1,1.40,46,40,9.00,10.30,City Island,Bronx,Carroll Gardens
+1,2019-01-01 17:59:57,2019-01-01 18:02:04,1,0.70,18,18,4.00,5.30,Bedford Park,Bronx,Bedford Park
+1,2019-01-01 23:09:34,2019-01-01 23:18:09,1,2.00,12,41,8.50,11.27,Battery Park,Manhattan,Central Harlem
+1,2019-01-01 12:19:30,2019-01-01 12:22:03,1,0.60,41,12,4.00,6.35,Central Harlem,Manhattan,Battery Park
+1,2019-01-01 03:24:25,2019-01-01 03:30:44,1,1.30,13,38,6.50,9.80,Battery Park City,Manhattan,Cambria Heights
+2,2019-01-01 02:12:30,2019-01-01 02:39:35,4,4.09,46,29,19.00,20.30,City Island,Bronx,Brighton Beach
+2,2019-01-01 03:42:11,2019-01-01 03:56:41,4,1.96,29,40,10.50,14.75,Brighton Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 16:12:20,2019-01-01 16:22:22,1,4.89,42,16,15.00,19.56,Central Harlem North,Manhattan,Bayside
+2,2019-01-01 01:25:02,2019-01-01 01:42:44,1,3.99,16,37,15.00,16.30,Bayside,Queens,Bushwick South
+2,2019-01-01 02:44:34,2019-01-01 03:02:00,1,6.01,37,16,19.00,25.38,Bushwick South,Brooklyn,Bayside
+2,2019-01-01 22:20:32,2019-01-01 22:29:42,2,0.63,20,18,7.00,9.96,Belmont,Bronx,Bedford Park
+2,2019-01-01 17:31:08,2019-01-01 17:47:07,2,1.62,18,34,11.00,12.30,Bedford Park,Bronx,Brooklyn Navy Yard
+2,2019-01-01 07:52:33,2019-01-01 08:09:23,1,3.70,14,36,14.50,17.80,Bay Ridge,Brooklyn,Bushwick North
+1,2019-01-01 01:21:33,2019-01-01 01:25:48,1,0.50,29,29,5.00,8.15,Brighton Beach,Brooklyn,Brighton Beach
+1,2019-01-01 22:32:13,2019-01-01 22:35:55,1,0.50,29,14,4.50,6.95,Brighton Beach,Brooklyn,Bay Ridge
+1,2019-01-01 23:44:48,2019-01-01 23:52:31,1,1.10,14,7,7.00,9.95,Bay Ridge,Brooklyn,Astoria
+2,2019-01-01 02:16:41,2019-01-01 02:18:14,1,0.63,1,38,4.00,5.30,Newark Airport,EWR,Cambria Heights
+2,2019-01-01 00:24:15,2019-01-01 00:49:15,1,3.15,39,50,17.00,18.30,Canarsie,Brooklyn,Clinton West
+2,2019-01-01 08:51:39,2019-01-01 09:16:13,1,3.28,50,34,17.00,21.96,Clinton West,Manhattan,Brooklyn Navy Yard
+1,2019-01-01 03:16:47,2019-01-01 03:18:27,1,0.70,41,13,4.00,6.60,Central Harlem,Manhattan,Battery Park City
+1,2019-01-01 18:49:35,2019-01-01 19:00:24,2,2.40,42,35,10.50,11.80,Central Harlem North,Manhattan,Brownsville
+2,2019-01-01 07:14:13,2019-01-01 07:25:03,1,3.30,13,1,11.50,16.64,Battery Park City,Manhattan,Newark Airport
+2,2019-01-01 00:26:31,2019-01-01 00:34:21,1,2.15,1,37,9.00,13.39,Newark Airport,EWR,Bushwick South
+2,2019-01-01 09:35:50,2019-01-01 09:47:19,1,2.51,37,20,10.50,14.16,Bushwick South,Brooklyn,Belmont
+2,2019-01-01 17:17:08,2019-01-01 18:00:44,3,22.00,32,42,52.00,58.56,Bronxdale,Bronx,Central Harlem North
+1,2019-01-01 22:40:49,2019-01-01 23:01:34,2,3.60,41,24,16.00,17.30,Central Harlem,Manhattan,Bloomingdale
+1,2019-01-01 16:47:14,2019-01-01 17:01:28,1,5.70,32,16,18.00,23.15,Bronxdale,Bronx,Bayside
+2,2019-01-01 03:26:09,2019-01-01 03:32:06,1,0.94,37,29,5.50,8.50,Bushwick South,Brooklyn,Brighton Beach
+2,2019-01-01 13:34:18,2019-01-01 13:38:57,1,0.77,29,40,5.50,8.16,Brighton Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 00:54:48,2019-01-01 00:59:16,1,0.40,43,13,5.00,6.30,Central Park,Manhattan,Battery Park City
+2,2019-01-01 23:00:37,2019-01-01 23:09:15,1,1.04,13,29,7.00,9.96,Battery Park City,Manhattan,Brighton Beach
+1,2019-01-01 09:30:23,2019-01-01 09:42:05,1,2.00,29,31,10.00,12.80,Brighton Beach,Brooklyn,Bronx Park
+1,2019-01-01 22:46:16,2019-01-01 22:53:42,1,1.50,13,49,7.50,10.55,Battery Park City,Manhattan,Clinton Hill
+2,2019-01-01 08:00:42,2019-01-01 08:21:09,5,1.02,20,34,12.50,13.80,Belmont,Bronx,Brooklyn Navy Yard
+2,2019-01-01 08:22:25,2019-01-01 08:32:08,5,1.70,34,11,8.50,9.80,Brooklyn Navy Yard,Brooklyn,Bath Beach
+2,2019-01-01 18:32:55,2019-01-01 18:37:36,5,0.81,11,13,5.50,6.80,Bath Beach,Brooklyn,Battery Park City
+2,2019-01-01 19:43:47,2019-01-01 19:49:54,5,0.94,14,40,6.00,7.30,Bay Ridge,Brooklyn,Carroll Gardens
+2,2019-01-01 00:27:27,2019-01-01 00:51:48,5,6.12,36,19,21.00,22.30,Bushwick North,Brooklyn,Bellerose
+2,2019-01-01 02:10:06,2019-01-01 02:20:06,1,2.39,44,19,10.00,11.30,Charleston/Tottenville,Staten Island,Bellerose
+2,2019-01-01 11:40:26,2019-01-01 11:45:35,1,1.11,36,41,6.00,8.76,Bushwick North,Brooklyn,Central Harlem
+2,2019-01-01 07:57:22,2019-01-01 08:06:44,1,2.35,38,37,10.00,12.80,Cambria Heights,Queens,Bushwick South
+1,2019-01-01 08:36:28,2019-01-01 08:40:49,1,0.70,48,50,5.00,6.30,Clinton East,Manhattan,Clinton West
+1,2019-01-01 01:45:28,2019-01-01 01:59:23,1,3.60,48,41,13.00,18.55,Clinton East,Manhattan,Central Harlem
+2,2019-01-01 03:07:49,2019-01-01 03:16:09,5,0.79,50,48,7.00,8.30,Clinton West,Manhattan,Clinton East
+2,2019-01-01 00:23:40,2019-01-01 00:37:55,5,1.66,48,20,10.00,11.30,Clinton East,Manhattan,Belmont
+2,2019-01-01 22:40:07,2019-01-01 23:05:33,5,2.06,20,48,16.00,21.62,Belmont,Bronx,Clinton East
+2,2019-01-01 07:02:55,2019-01-01 07:21:38,1,3.76,39,37,15.50,21.00,Canarsie,Brooklyn,Bushwick South
+2,2019-01-01 09:34:34,2019-01-01 09:50:26,1,1.88,20,13,11.00,12.30,Belmont,Bronx,Battery Park City
+2,2019-01-01 17:55:22,2019-01-01 18:04:50,1,1.83,48,39,8.50,9.80,Clinton East,Manhattan,Canarsie
+1,2019-01-01 09:10:51,2019-01-01 09:13:57,1,0.80,37,36,4.50,6.80,Bushwick South,Brooklyn,Bushwick North
+1,2019-01-01 16:26:00,2019-01-01 16:36:16,1,1.80,37,33,8.50,11.75,Bushwick South,Brooklyn,Brooklyn Heights
+1,2019-01-01 18:38:33,2019-01-01 18:55:40,1,2.40,33,50,12.50,16.55,Brooklyn Heights,Brooklyn,Clinton West
+1,2019-01-01 17:57:40,2019-01-01 18:06:00,1,2.90,50,24,11.00,14.75,Clinton West,Manhattan,Bloomingdale
+2,2019-01-01 00:21:41,2019-01-01 00:25:36,1,0.64,37,24,4.50,5.80,Bushwick South,Brooklyn,Bloomingdale
+2,2019-01-01 01:39:26,2019-01-01 01:58:56,1,1.89,29,36,12.00,15.96,Brighton Beach,Brooklyn,Bushwick North
+1,2019-01-01 00:11:01,2019-01-01 00:52:17,1,4.80,13,36,26.50,27.80,Battery Park City,Manhattan,Bushwick North
+1,2019-01-01 03:55:01,2019-01-01 04:02:53,1,1.60,36,24,7.50,10.55,Bushwick North,Brooklyn,Bloomingdale
+2,2019-01-01 15:15:53,2019-01-01 15:18:42,2,0.55,41,40,4.00,6.10,Central Harlem,Manhattan,Carroll Gardens
+2,2019-01-01 03:25:45,2019-01-01 03:45:15,2,5.70,12,29,19.50,20.80,Battery Park,Manhattan,Brighton Beach
+2,2019-01-01 01:22:24,2019-01-01 01:32:34,1,1.51,25,29,8.50,11.76,Boerum Hill,Brooklyn,Brighton Beach
+2,2019-01-01 02:42:29,2019-01-01 02:57:05,1,3.28,29,40,12.50,15.80,Brighton Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 12:17:38,2019-01-01 12:25:44,1,1.00,43,39,7.00,11.30,Central Park,Manhattan,Canarsie
+2,2019-01-01 17:32:16,2019-01-01 17:46:04,1,2.08,39,40,10.50,15.34,Canarsie,Brooklyn,Carroll Gardens
+1,2019-01-01 22:11:49,2019-01-01 22:17:32,1,1.00,39,42,6.00,8.76,Canarsie,Brooklyn,Central Harlem North
+1,2019-01-01 00:22:40,2019-01-01 00:28:19,1,1.10,42,39,6.00,8.75,Central Harlem North,Manhattan,Canarsie
+1,2019-01-01 22:32:13,2019-01-01 22:34:59,1,0.90,39,38,4.50,6.95,Canarsie,Brooklyn,Cambria Heights
+1,2019-01-01 07:37:53,2019-01-01 07:48:36,1,2.50,38,42,10.50,14.75,Cambria Heights,Queens,Central Harlem North
+1,2019-01-01 00:50:12,2019-01-01 00:56:49,1,1.10,42,16,6.50,7.80,Central Harlem North,Manhattan,Bayside
+2,2019-01-01 22:45:44,2019-01-01 22:49:49,6,0.85,13,37,5.00,7.88,Battery Park City,Manhattan,Bushwick South
+2,2019-01-01 22:51:47,2019-01-01 22:54:58,6,0.49,36,36,4.00,5.30,Bushwick North,Brooklyn,Bushwick North
+2,2019-01-01 18:19:58,2019-01-01 18:39:00,2,7.09,41,37,22.00,27.03,Central Harlem,Manhattan,Bushwick South
+2,2019-01-01 03:45:28,2019-01-01 03:57:43,3,5.16,9,12,16.00,17.30,Auburndale,Queens,Battery Park
+2,2019-01-01 01:11:05,2019-01-01 01:25:11,6,2.54,38,11,12.00,13.30,Cambria Heights,Queens,Bath Beach
+2,2019-01-01 09:31:01,2019-01-01 09:39:21,6,0.70,37,11,6.50,7.80,Bushwick South,Brooklyn,Bath Beach
+2,2019-01-01 16:40:47,2019-01-01 17:17:27,6,3.50,11,8,22.50,28.56,Bath Beach,Brooklyn,Astoria Park
+2,2019-01-01 08:25:19,2019-01-01 08:38:25,1,1.70,37,49,9.50,10.80,Bushwick South,Brooklyn,Clinton Hill
+2,2019-01-01 07:39:38,2019-01-01 08:02:26,1,3.84,49,29,16.50,21.36,Clinton Hill,Brooklyn,Brighton Beach
+2,2019-01-01 04:09:48,2019-01-01 04:40:46,1,4.35,40,36,21.00,26.76,Carroll Gardens,Brooklyn,Bushwick North
+2,2019-01-01 03:49:14,2019-01-01 03:52:28,1,0.56,43,41,4.00,5.30,Central Park,Manhattan,Central Harlem
+2,2019-01-01 03:54:21,2019-01-01 03:58:24,1,0.82,41,40,5.00,7.56,Central Harlem,Manhattan,Carroll Gardens
+1,2019-01-01 09:46:21,2019-01-01 10:00:51,4,2.00,48,20,10.50,12.98,Clinton East,Manhattan,Belmont
+1,2019-01-01 02:20:12,2019-01-01 02:48:26,2,4.10,36,25,20.00,25.55,Bushwick North,Brooklyn,Boerum Hill
+1,2019-01-01 16:55:43,2019-01-01 17:06:26,2,1.40,37,11,9.00,10.30,Bushwick South,Brooklyn,Bath Beach
+2,2019-01-01 18:08:52,2019-01-01 18:26:11,6,4.17,13,41,16.00,17.30,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 22:31:20,2019-01-01 22:42:36,6,2.54,1,48,10.50,14.16,Newark Airport,EWR,Clinton East
+2,2019-01-01 23:53:38,2019-01-02 00:19:34,6,1.68,50,20,16.00,17.30,Clinton West,Manhattan,Belmont
+1,2019-01-01 00:10:13,2019-01-01 00:20:26,1,1.90,37,39,9.50,13.50,Bushwick South,Brooklyn,Canarsie
+1,2019-01-01 16:27:08,2019-01-01 16:45:26,2,4.20,42,29,15.50,21.80,Central Harlem North,Manhattan,Brighton Beach
+2,2019-01-01 09:46:38,2019-01-01 10:04:24,2,3.91,46,38,16.50,21.36,City Island,Bronx,Cambria Heights
+1,2019-01-01 07:20:22,2019-01-01 07:29:00,2,1.20,41,13,7.50,10.55,Central Harlem,Manhattan,Battery Park City
+1,2019-01-01 00:30:23,2019-01-01 00:59:47,1,2.90,13,13,18.50,23.75,Battery Park City,Manhattan,Battery Park City
+2,2019-01-01 07:25:09,2019-01-01 07:35:19,1,2.24,37,39,9.50,13.50,Bushwick South,Brooklyn,Canarsie
+2,2019-01-01 23:41:04,2019-01-01 23:44:09,1,1.18,39,1,5.00,7.88,Canarsie,Brooklyn,Newark Airport
+2,2019-01-01 13:46:13,2019-01-01 13:52:46,1,0.87,1,38,6.50,9.36,Newark Airport,EWR,Cambria Heights
+1,2019-01-01 20:11:42,2019-01-01 20:33:46,2,5.70,42,29,20.50,21.80,Central Harlem North,Manhattan,Brighton Beach
+2,2019-01-01 18:19:13,2019-01-01 18:31:18,1,2.18,11,40,10.50,14.16,Bath Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 09:35:45,2019-01-01 09:44:15,1,1.92,13,38,8.50,9.80,Battery Park City,Manhattan,Cambria Heights
+2,2019-01-01 17:45:35,2019-01-01 18:07:29,1,5.12,38,40,19.00,24.36,Cambria Heights,Queens,Carroll Gardens
+1,2019-01-01 09:09:14,2019-01-01 09:46:45,1,3.20,48,13,22.50,23.80,Clinton East,Manhattan,Battery Park City
+1,2019-01-01 23:48:02,2019-01-01 23:59:57,1,1.40,13,20,9.00,10.30,Battery Park City,Manhattan,Belmont
+2,2019-01-01 00:23:31,2019-01-01 00:27:12,1,1.08,1,39,5.00,8.30,Newark Airport,EWR,Canarsie
+2,2019-01-01 08:29:00,2019-01-01 08:31:44,1,0.72,39,38,4.50,6.40,Canarsie,Brooklyn,Cambria Heights
+2,2019-01-01 08:32:55,2019-01-01 08:35:19,1,0.76,38,16,4.00,5.30,Cambria Heights,Queens,Bayside
+2,2019-01-01 22:45:29,2019-01-01 23:04:47,1,2.32,42,18,13.50,18.50,Central Harlem North,Manhattan,Bedford Park
+2,2019-01-01 01:07:35,2019-01-01 01:45:58,2,2.85,29,20,22.50,23.80,Brighton Beach,Brooklyn,Belmont
+2,2019-01-01 03:58:47,2019-01-01 04:00:33,2,0.52,20,37,3.50,5.76,Belmont,Bronx,Bushwick South
+1,2019-01-01 03:16:46,2019-01-01 03:39:57,1,4.60,14,43,18.00,22.20,Bay Ridge,Brooklyn,Central Park
+1,2019-01-01 11:43:52,2019-01-01 12:08:34,1,4.50,43,29,19.00,20.30,Central Park,Manhattan,Brighton Beach
+2,2019-01-01 08:09:46,2019-01-01 08:13:15,1,0.92,13,36,5.00,7.88,Battery Park City,Manhattan,Bushwick North
+2,2019-01-01 02:23:22,2019-01-01 02:26:08,1,0.66,37,12,4.50,6.96,Bushwick South,Brooklyn,Battery Park
+2,2019-01-01 23:35:04,2019-01-01 23:56:43,1,7.26,11,16,22.50,33.80,Bath Beach,Brooklyn,Bayside
+2,2019-01-01 18:59:03,2019-01-01 19:26:12,1,6.58,16,14,25.50,29.80,Bayside,Queens,Bay Ridge
+1,2019-01-01 22:19:52,2019-01-01 22:36:08,1,1.80,14,37,11.00,14.75,Bay Ridge,Brooklyn,Bushwick South
+1,2019-01-01 15:38:34,2019-01-01 15:49:55,1,1.10,7,11,8.50,11.75,Astoria,Queens,Bath Beach
+1,2019-01-01 23:56:22,2019-01-02 00:08:12,2,2.00,11,41,9.50,11.88,Bath Beach,Brooklyn,Central Harlem
+2,2019-01-01 03:14:36,2019-01-01 03:24:58,1,2.34,38,49,9.50,12.96,Cambria Heights,Queens,Clinton Hill
+2,2019-01-01 17:16:22,2019-01-01 17:35:24,3,2.50,18,12,13.50,19.24,Bedford Park,Bronx,Battery Park
+2,2019-01-01 01:41:44,2019-01-01 01:49:37,2,1.08,11,41,7.00,9.96,Bath Beach,Brooklyn,Central Harlem
+1,2019-01-01 02:44:03,2019-01-01 02:49:57,2,1.00,49,13,6.00,8.40,Clinton Hill,Brooklyn,Battery Park City
+1,2019-01-01 03:53:01,2019-01-01 04:24:23,4,3.40,13,50,20.00,21.30,Battery Park City,Manhattan,Clinton West
+1,2019-01-01 08:07:12,2019-01-01 08:14:01,2,1.70,42,38,7.50,10.55,Central Harlem North,Manhattan,Cambria Heights
+1,2019-01-01 01:16:13,2019-01-01 01:24:47,3,1.60,39,13,8.50,11.56,Canarsie,Brooklyn,Battery Park City
+1,2019-01-01 01:38:18,2019-01-01 01:49:02,1,1.60,42,11,8.50,9.80,Central Harlem North,Manhattan,Bath Beach
+1,2019-01-01 21:18:47,2019-01-01 21:57:03,2,19.10,32,39,52.00,68.60,Bronxdale,Bronx,Canarsie
+1,2019-01-01 23:59:03,2019-01-02 00:04:53,2,1.10,39,24,6.50,9.75,Canarsie,Brooklyn,Bloomingdale
+1,2019-01-01 01:14:12,2019-01-01 01:27:32,1,2.60,7,37,11.00,14.75,Astoria,Queens,Bushwick South
+1,2019-01-01 22:33:14,2019-01-01 22:48:53,1,0.60,13,11,10.00,11.30,Battery Park City,Manhattan,Bath Beach
+1,2019-01-01 23:37:22,2019-01-01 23:52:49,1,1.70,34,30,11.00,12.30,Brooklyn Navy Yard,Brooklyn,Broad Channel
+1,2019-01-01 18:57:04,2019-01-01 19:30:37,1,8.60,11,4,29.00,37.85,Bath Beach,Brooklyn,Alphabet City
+1,2019-01-01 14:24:49,2019-01-01 14:32:44,2,1.70,29,20,7.50,9.80,Brighton Beach,Brooklyn,Belmont
+1,2019-01-01 06:50:58,2019-01-01 07:16:34,2,6.30,29,41,21.50,27.35,Brighton Beach,Brooklyn,Central Harlem
+2,2019-01-01 18:47:47,2019-01-01 19:01:36,4,1.95,16,24,11.00,15.38,Bayside,Queens,Bloomingdale
+1,2019-01-01 18:38:48,2019-01-01 18:48:41,2,1.20,48,14,8.00,15.90,Clinton East,Manhattan,Bay Ridge
+1,2019-01-01 22:53:18,2019-01-01 23:18:39,1,4.00,14,42,18.50,23.75,Bay Ridge,Brooklyn,Central Harlem North
+2,2019-01-01 05:38:07,2019-01-01 05:53:04,1,2.11,50,18,11.50,12.80,Clinton West,Manhattan,Bedford Park
+1,2019-01-01 01:45:20,2019-01-01 02:09:53,3,3.00,36,41,16.50,27.80,Bushwick North,Brooklyn,Central Harlem
+1,2019-01-01 03:05:48,2019-01-01 03:09:23,1,0.30,18,8,4.00,6.35,Bedford Park,Bronx,Astoria Park
+1,2019-01-01 00:16:19,2019-01-01 00:26:24,3,1.50,18,29,8.50,10.78,Bedford Park,Bronx,Brighton Beach
+1,2019-01-01 00:27:37,2019-01-01 00:39:03,2,1.10,29,48,8.50,9.80,Brighton Beach,Brooklyn,Clinton East
+1,2019-01-01 03:41:50,2019-01-01 03:57:19,4,2.10,48,37,11.50,12.80,Clinton East,Manhattan,Bushwick South
+2,2019-01-01 17:06:10,2019-01-01 17:20:01,5,6.49,25,36,19.50,20.80,Boerum Hill,Brooklyn,Bushwick North
+2,2019-01-01 08:40:48,2019-01-01 09:03:34,5,3.23,50,37,16.50,21.36,Clinton West,Manhattan,Bushwick South
+2,2019-01-01 02:44:08,2019-01-01 02:49:51,5,0.46,50,50,5.50,6.80,Clinton West,Manhattan,Clinton West
+2,2019-01-01 07:50:43,2019-01-01 08:16:05,5,3.89,50,48,18.00,23.16,Clinton West,Manhattan,Clinton East
+2,2019-01-01 23:14:09,2019-01-01 23:29:00,1,4.53,7,37,16.00,17.30,Astoria,Queens,Bushwick South
+2,2019-01-01 23:31:06,2019-01-02 00:13:25,1,8.39,37,16,33.50,45.24,Bushwick South,Brooklyn,Bayside
+1,2019-01-01 05:17:13,2019-01-01 05:18:10,1,0.30,41,41,3.00,5.15,Central Harlem,Manhattan,Central Harlem
+1,2019-01-01 15:19:35,2019-01-01 15:26:17,2,1.10,41,29,6.50,9.80,Central Harlem,Manhattan,Brighton Beach
+1,2019-01-01 01:31:09,2019-01-01 01:44:07,1,2.40,29,34,10.50,14.15,Brighton Beach,Brooklyn,Brooklyn Navy Yard
+1,2019-01-01 07:47:49,2019-01-01 08:35:03,2,8.60,34,28,34.50,40.80,Brooklyn Navy Yard,Brooklyn,Briarwood/Jamaica Hills
+2,2019-01-01 01:22:17,2019-01-01 01:25:20,6,0.59,1,38,4.50,5.80,Newark Airport,EWR,Cambria Heights
+2,2019-01-01 21:29:20,2019-01-01 21:52:12,6,5.99,38,13,21.00,27.88,Cambria Heights,Queens,Battery Park City
+2,2019-01-01 18:55:45,2019-01-01 19:06:43,6,1.19,13,24,8.00,11.16,Battery Park City,Manhattan,Bloomingdale
+1,2019-01-01 18:12:55,2019-01-01 18:25:43,3,2.90,13,40,12.00,15.95,Battery Park City,Manhattan,Carroll Gardens
+1,2019-01-01 00:30:36,2019-01-01 00:37:45,2,1.00,18,46,6.50,9.35,Bedford Park,Bronx,City Island
+1,2019-01-01 09:44:34,2019-01-01 09:56:18,1,1.70,36,11,9.50,11.80,Bushwick North,Brooklyn,Bath Beach
+1,2019-01-01 23:58:32,2019-01-02 00:01:33,1,0.50,11,49,4.00,6.85,Bath Beach,Brooklyn,Clinton Hill
+2,2019-01-01 07:14:27,2019-01-01 07:33:41,1,2.38,45,37,13.00,17.16,Chinatown,Manhattan,Bushwick South
+2,2019-01-01 18:36:25,2019-01-01 19:00:06,1,5.85,37,42,19.50,26.00,Bushwick South,Brooklyn,Central Harlem North
+2,2019-01-01 14:05:16,2019-01-01 14:22:39,1,4.55,32,11,17.00,23.79,Bronxdale,Bronx,Bath Beach
+2,2019-01-01 10:24:24,2019-01-01 10:27:37,1,0.59,39,39,4.50,5.80,Canarsie,Brooklyn,Canarsie
+2,2019-01-01 07:41:55,2019-01-01 07:53:35,1,2.52,15,37,11.00,12.30,Bay Terrace/Fort Totten,Queens,Bushwick South
+2,2019-01-01 07:07:42,2019-01-01 07:13:55,1,1.30,39,43,6.50,10.14,Canarsie,Brooklyn,Central Park
+2,2019-01-01 02:09:58,2019-01-01 02:15:26,2,0.79,41,37,5.00,7.56,Central Harlem,Manhattan,Bushwick South
+2,2019-01-01 00:20:58,2019-01-01 00:28:14,3,1.64,36,38,7.50,10.56,Bushwick North,Brooklyn,Cambria Heights
+2,2019-01-01 09:32:00,2019-01-01 09:37:57,3,1.09,38,39,6.50,9.36,Cambria Heights,Queens,Canarsie
+2,2019-01-01 02:40:57,2019-01-01 03:02:20,3,4.14,39,20,16.50,17.80,Canarsie,Brooklyn,Belmont
+2,2019-01-01 07:30:22,2019-01-01 07:44:21,1,1.26,13,48,9.50,10.80,Battery Park City,Manhattan,Clinton East
+2,2019-01-01 01:45:24,2019-01-01 02:04:21,1,1.90,48,33,12.50,13.80,Clinton East,Manhattan,Brooklyn Heights
+2,2019-01-01 09:12:44,2019-01-01 09:29:59,2,3.09,48,12,13.50,14.80,Clinton East,Manhattan,Battery Park
+1,2019-01-01 00:40:16,2019-01-01 00:49:09,1,1.30,34,20,7.50,10.55,Brooklyn Navy Yard,Brooklyn,Belmont
+1,2019-01-01 23:50:38,2019-01-02 00:06:21,1,3.10,20,25,13.50,17.80,Belmont,Bronx,Boerum Hill
+2,2019-01-01 09:15:55,2019-01-01 09:30:23,3,1.88,11,40,10.50,11.80,Bath Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 07:31:43,2019-01-01 07:36:36,4,1.44,40,13,6.50,7.80,Carroll Gardens,Brooklyn,Battery Park City
+2,2019-01-01 23:39:04,2019-01-01 23:43:02,1,0.73,13,12,5.00,6.30,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 05:47:33,2019-01-01 05:50:27,2,0.80,12,12,4.50,6.96,Battery Park,Manhattan,Battery Park
+2,2019-01-01 22:53:25,2019-01-01 22:58:53,2,1.31,37,33,6.50,7.80,Bushwick South,Brooklyn,Brooklyn Heights
+2,2019-01-01 02:23:04,2019-01-01 02:26:44,4,0.63,25,25,4.50,5.80,Boerum Hill,Brooklyn,Boerum Hill
+2,2019-01-01 00:34:04,2019-01-01 00:45:39,3,1.87,43,11,10.00,11.30,Central Park,Manhattan,Bath Beach
+2,2019-01-01 07:56:55,2019-01-01 08:16:15,3,1.16,11,36,12.00,16.62,Bath Beach,Brooklyn,Bushwick North
+2,2019-01-01 08:26:57,2019-01-01 08:31:13,5,0.70,42,42,5.00,7.56,Central Harlem North,Manhattan,Central Harlem North
+2,2019-01-01 16:33:29,2019-01-01 16:43:26,5,1.91,42,36,9.50,10.80,Central Harlem North,Manhattan,Bushwick North
+2,2019-01-01 02:45:13,2019-01-01 03:32:10,5,16.94,36,39,50.50,71.95,Bushwick North,Brooklyn,Canarsie
+1,2019-01-01 17:24:58,2019-01-01 17:28:55,1,0.90,37,13,5.00,7.30,Bushwick South,Brooklyn,Battery Park City
+1,2019-01-01 01:30:50,2019-01-01 01:51:33,1,4.30,13,44,16.50,17.80,Battery Park City,Manhattan,Charleston/Tottenville
+1,2019-01-01 08:53:55,2019-01-01 09:05:55,1,2.50,44,36,11.00,14.76,Charleston/Tottenville,Staten Island,Bushwick North
+1,2019-01-01 18:12:50,2019-01-01 18:34:29,1,5.00,20,26,18.00,23.15,Belmont,Bronx,Borough Park
+1,2019-01-01 00:43:18,2019-01-01 00:52:37,1,1.90,26,7,8.50,9.80,Borough Park,Brooklyn,Astoria
+1,2019-01-01 22:56:21,2019-01-01 23:05:02,2,1.60,7,29,7.50,8.80,Astoria,Queens,Brighton Beach
+1,2019-01-01 07:11:55,2019-01-01 07:13:48,1,0.20,50,50,3.50,4.80,Clinton West,Manhattan,Clinton West
+1,2019-01-01 00:16:37,2019-01-01 00:39:49,2,4.40,50,48,18.50,23.75,Clinton West,Manhattan,Clinton East
+1,2019-01-01 07:42:02,2019-01-01 07:46:44,2,1.00,48,49,5.50,8.80,Clinton East,Manhattan,Clinton Hill
+1,2019-01-01 01:55:46,2019-01-01 02:06:49,2,1.90,49,7,9.50,12.95,Clinton Hill,Brooklyn,Astoria
+2,2019-01-01 09:35:37,2019-01-01 09:43:09,3,1.14,29,48,6.50,9.36,Brighton Beach,Brooklyn,Clinton East
+2,2019-01-01 08:44:58,2019-01-01 08:58:05,3,2.58,48,37,11.50,15.36,Clinton East,Manhattan,Bushwick South
+2,2019-01-01 22:44:15,2019-01-01 22:49:08,2,0.97,7,33,5.50,8.50,Astoria,Queens,Brooklyn Heights
+2,2019-01-01 07:24:19,2019-01-01 07:52:58,1,9.11,34,23,30.00,37.06,Brooklyn Navy Yard,Brooklyn,Bloomfield/Emerson Hill
+2,2019-01-01 00:26:06,2019-01-01 00:36:12,1,0.59,40,34,7.50,8.80,Carroll Gardens,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 09:32:52,2019-01-01 09:39:40,2,1.30,14,31,7.00,8.30,Bay Ridge,Brooklyn,Bronx Park
+2,2019-01-01 22:43:13,2019-01-01 22:47:59,2,0.81,31,45,5.00,7.88,Bronx Park,Bronx,Chinatown
+2,2019-01-01 01:49:31,2019-01-01 02:02:01,2,1.30,45,14,9.50,12.96,Chinatown,Manhattan,Bay Ridge
+2,2019-01-01 18:13:38,2019-01-01 18:37:14,1,7.55,13,1,24.50,25.80,Battery Park City,Manhattan,Newark Airport
+2,2019-01-01 17:39:36,2019-01-01 17:52:37,1,3.36,1,37,12.50,16.56,Newark Airport,EWR,Bushwick South
+2,2019-01-01 01:56:17,2019-01-01 02:05:08,1,1.71,37,12,8.50,9.80,Bushwick South,Brooklyn,Battery Park
+2,2018-12-31 09:59:07,2018-12-31 10:31:29,1,6.19,13,37,24.00,25.30,Battery Park City,Manhattan,Bushwick South
+2,2019-01-01 08:39:44,2019-01-01 09:05:58,1,4.60,37,39,19.00,21.30,Bushwick South,Brooklyn,Canarsie
+2,2019-01-01 17:45:28,2019-01-01 17:58:37,1,2.33,29,6,11.50,16.00,Brighton Beach,Brooklyn,Arrochar/Fort Wadsworth
+2,2019-01-01 22:26:01,2019-01-01 22:31:11,1,1.43,24,38,6.50,8.80,Bloomingdale,Manhattan,Cambria Heights
+2,2019-01-01 16:37:59,2019-01-01 16:50:15,1,2.21,42,20,10.00,11.30,Central Harlem North,Manhattan,Belmont
+2,2019-01-01 02:56:00,2019-01-01 03:04:33,1,0.91,20,12,7.00,10.38,Belmont,Bronx,Battery Park
+2,2019-01-01 20:24:01,2019-01-01 20:44:38,1,2.18,8,37,14.00,19.89,Astoria Park,Queens,Bushwick South
+2,2019-01-01 18:51:40,2019-01-01 19:01:19,1,1.33,7,18,8.00,11.16,Astoria,Queens,Bedford Park
+2,2019-01-01 16:20:55,2019-01-01 16:48:45,2,5.36,49,12,21.00,26.76,Clinton Hill,Brooklyn,Battery Park
+2,2019-01-01 09:49:53,2019-01-01 10:04:42,2,2.90,12,20,12.50,16.56,Battery Park,Manhattan,Belmont
+2,2019-01-01 07:12:58,2019-01-01 07:20:46,1,2.13,13,41,8.50,12.30,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 15:25:24,2019-01-01 15:33:06,1,2.66,43,42,9.50,10.80,Central Park,Manhattan,Central Harlem North
+2,2019-01-01 01:35:00,2019-01-01 01:45:58,1,2.44,42,1,10.50,14.16,Central Harlem North,Manhattan,Newark Airport
+2,2019-01-01 01:52:49,2019-01-01 02:02:17,1,1.95,38,43,9.00,12.30,Cambria Heights,Queens,Central Park
+2,2019-01-01 16:16:56,2019-01-01 16:44:21,1,9.33,34,47,29.50,30.80,Brooklyn Navy Yard,Brooklyn,Claremont/Bathgate
+2,2019-01-01 13:00:44,2019-01-01 13:17:00,1,1.55,42,16,12.00,13.30,Central Harlem North,Manhattan,Bayside
+2,2019-01-01 03:33:14,2019-01-01 04:13:02,1,8.39,14,37,32.50,40.56,Bay Ridge,Brooklyn,Bushwick South
+2,2019-01-01 05:15:16,2019-01-01 05:46:25,2,3.26,29,50,19.50,20.80,Brighton Beach,Brooklyn,Clinton West
+2,2019-01-01 23:48:49,2019-01-01 23:54:33,2,1.31,48,43,6.50,9.75,Clinton East,Manhattan,Central Park
+2,2019-01-01 05:57:30,2019-01-01 06:22:19,2,3.56,43,37,17.00,20.13,Central Park,Manhattan,Bushwick South
+1,2019-01-01 11:14:52,2019-01-01 11:26:38,2,2.00,43,36,10.00,14.10,Central Park,Manhattan,Bushwick North
+1,2019-01-01 08:36:22,2019-01-01 08:52:44,2,2.50,39,25,12.50,16.55,Canarsie,Brooklyn,Boerum Hill
+1,2019-01-01 00:59:13,2019-01-01 01:17:55,3,6.60,25,27,21.00,22.30,Boerum Hill,Brooklyn,Breezy Point/Fort Tilden/Riis Beach
+1,2019-01-01 01:02:22,2019-01-01 01:08:08,3,0.60,46,18,5.50,6.80,City Island,Bronx,Bedford Park
+1,2019-01-01 03:32:51,2019-01-01 03:47:40,1,2.70,36,31,12.00,14.30,Bushwick North,Brooklyn,Bronx Park
+1,2019-01-01 07:53:17,2019-01-01 08:09:50,1,3.10,11,33,13.00,15.73,Bath Beach,Brooklyn,Brooklyn Heights
+2,2019-01-01 00:24:09,2019-01-01 00:33:17,2,1.37,7,48,8.00,11.16,Astoria,Queens,Clinton East
+2,2019-01-01 21:36:32,2019-01-01 21:43:25,2,1.04,14,29,6.50,7.80,Bay Ridge,Brooklyn,Brighton Beach
+2,2019-01-01 03:47:03,2019-01-01 04:05:29,2,2.64,29,8,13.50,14.80,Brighton Beach,Brooklyn,Astoria Park
+2,2019-01-01 16:11:59,2019-01-01 16:27:49,1,0.79,13,12,10.50,11.80,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 05:45:11,2019-01-01 05:55:32,1,1.31,7,49,8.50,11.76,Astoria,Queens,Clinton Hill
+2,2019-01-01 09:56:29,2019-01-01 10:12:15,1,1.83,49,32,12.00,15.96,Clinton Hill,Brooklyn,Bronxdale
+1,2019-01-01 18:30:25,2019-01-01 18:52:02,2,1.90,40,37,14.00,18.35,Carroll Gardens,Brooklyn,Bushwick South
+1,2019-01-01 17:53:47,2019-01-01 18:04:24,2,4.90,37,13,15.50,20.15,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 02:28:51,2019-01-01 02:40:16,5,0.83,37,14,8.00,9.30,Bushwick South,Brooklyn,Bay Ridge
+2,2019-01-01 02:43:42,2019-01-01 03:05:04,5,1.84,14,18,14.00,16.30,Bay Ridge,Brooklyn,Bedford Park
+2,2019-01-01 16:05:58,2019-01-01 16:26:12,1,9.07,13,6,26.50,27.80,Battery Park City,Manhattan,Arrochar/Fort Wadsworth
+1,2019-01-01 05:11:37,2019-01-01 05:13:48,1,0.50,38,38,4.00,6.36,Cambria Heights,Queens,Cambria Heights
+1,2019-01-01 18:18:32,2019-01-01 18:40:56,2,4.80,39,29,17.50,20.80,Canarsie,Brooklyn,Brighton Beach
+1,2019-01-01 09:44:05,2019-01-01 09:51:05,4,1.10,29,37,6.50,8.80,Brighton Beach,Brooklyn,Bushwick South
+1,2019-01-01 16:55:18,2019-01-01 17:10:52,2,3.20,20,36,13.00,17.15,Belmont,Bronx,Bushwick North
+2,2019-01-01 18:09:59,2019-01-01 18:20:29,6,1.92,11,24,9.00,12.10,Bath Beach,Brooklyn,Bloomingdale
+2,2019-01-01 23:24:03,2019-01-01 23:56:42,6,4.83,7,39,22.00,27.96,Astoria,Queens,Canarsie
+1,2019-01-01 02:29:58,2019-01-01 03:05:21,1,4.00,39,7,22.50,23.80,Canarsie,Brooklyn,Astoria
+2,2019-01-01 18:14:16,2019-01-01 18:19:16,6,0.58,37,34,5.00,6.30,Bushwick South,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 08:23:31,2019-01-01 08:28:40,2,0.11,34,40,60.00,60.30,Brooklyn Navy Yard,Brooklyn,Carroll Gardens
+2,2019-01-01 16:49:31,2019-01-01 17:01:47,5,1.75,14,37,9.50,11.88,Bay Ridge,Brooklyn,Bushwick South
+2,2019-01-01 18:27:44,2019-01-01 18:34:38,2,0.79,14,11,6.00,8.76,Bay Ridge,Brooklyn,Bath Beach
+2,2019-01-01 23:38:12,2019-01-02 00:05:31,2,3.57,11,48,18.50,19.80,Bath Beach,Brooklyn,Clinton East
+1,2019-01-01 03:35:26,2019-01-01 03:41:57,1,0.50,50,46,6.00,9.45,Clinton West,Manhattan,City Island
+1,2019-01-01 07:48:42,2019-01-01 07:55:56,1,1.80,50,39,7.50,10.12,Clinton West,Manhattan,Canarsie
+1,2019-01-01 17:59:40,2019-01-01 18:05:36,2,1.90,42,16,7.50,10.55,Central Harlem North,Manhattan,Bayside
+2,2019-01-01 22:30:30,2019-01-01 22:42:24,1,3.26,13,15,12.50,13.80,Battery Park City,Manhattan,Bay Terrace/Fort Totten
+2,2019-01-01 23:44:05,2019-01-01 23:51:51,1,1.12,15,2,7.00,9.96,Bay Terrace/Fort Totten,Queens,Jamaica Bay
+2,2019-01-01 23:54:06,2019-01-01 23:55:12,1,0.28,2,25,3.00,5.16,Jamaica Bay,Queens,Boerum Hill
+2,2019-01-01 19:57:27,2019-01-01 20:01:10,1,0.93,25,40,5.00,7.56,Boerum Hill,Brooklyn,Carroll Gardens
+2,2019-01-01 17:15:20,2019-01-01 17:32:09,1,2.34,49,12,12.00,13.30,Clinton Hill,Brooklyn,Battery Park
+2,2019-01-01 17:41:20,2019-01-01 17:54:18,1,1.69,11,40,10.00,13.56,Bath Beach,Brooklyn,Carroll Gardens
+1,2019-01-01 22:12:57,2019-01-01 22:23:49,1,0.70,13,11,8.00,9.30,Battery Park City,Manhattan,Bath Beach
+1,2019-01-01 09:26:57,2019-01-01 09:57:29,2,7.50,11,48,27.00,34.06,Bath Beach,Brooklyn,Clinton East
+2,2019-01-01 18:17:35,2019-01-01 18:22:38,2,0.65,43,42,5.00,6.30,Central Park,Manhattan,Central Harlem North
+2,2019-01-01 08:23:25,2019-01-01 08:31:33,2,1.71,42,43,8.00,12.09,Central Harlem North,Manhattan,Central Park
+2,2019-01-01 07:33:24,2019-01-01 07:39:30,3,1.41,38,36,7.00,10.79,Cambria Heights,Queens,Bushwick North
+2,2019-01-01 09:44:08,2019-01-01 09:45:53,2,0.31,36,25,3.50,4.80,Bushwick North,Brooklyn,Boerum Hill
+1,2019-01-01 18:08:35,2019-01-01 18:29:44,1,2.60,49,8,14.00,18.35,Clinton Hill,Brooklyn,Astoria Park
+1,2019-01-01 23:36:32,2019-01-02 00:01:46,1,4.80,49,31,20.50,27.25,Clinton Hill,Brooklyn,Bronx Park
+2,2019-01-01 02:28:04,2019-01-01 02:43:32,1,2.48,50,34,11.50,12.80,Clinton West,Manhattan,Brooklyn Navy Yard
+2,2019-01-01 16:54:52,2019-01-01 17:11:13,1,1.79,20,50,11.00,14.76,Belmont,Bronx,Clinton West
+2,2019-01-01 22:10:43,2019-01-01 22:17:10,5,2.92,20,32,10.00,13.00,Belmont,Bronx,Bronxdale
+2,2019-01-01 22:22:54,2019-01-02 22:17:10,5,2.54,48,20,13.50,18.50,Clinton East,Manhattan,Belmont
+2,2019-01-01 01:56:17,2019-01-01 01:59:45,5,0.82,29,34,5.00,6.30,Brighton Beach,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 01:03:24,2019-01-01 01:15:07,5,2.10,34,37,10.00,13.56,Brooklyn Navy Yard,Brooklyn,Bushwick South
+1,2019-01-01 21:03:50,2019-01-01 21:28:50,1,4.20,36,49,18.50,23.75,Bushwick North,Brooklyn,Clinton Hill
+1,2019-01-01 17:34:11,2019-01-01 17:47:31,1,1.20,49,14,9.50,12.95,Clinton Hill,Brooklyn,Bay Ridge
+1,2019-01-01 07:51:24,2019-01-01 07:56:32,1,0.30,34,37,5.00,7.30,Brooklyn Navy Yard,Brooklyn,Bushwick South
+2,2019-01-01 04:35:22,2019-01-01 04:57:41,1,8.00,37,13,25.50,33.50,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 23:17:16,2019-01-01 23:48:26,2,6.52,36,31,24.00,25.30,Bushwick North,Brooklyn,Bronx Park
+2,2019-01-01 01:52:10,2019-01-01 02:00:44,2,1.37,31,25,7.50,11.00,Bronx Park,Bronx,Boerum Hill
+2,2019-01-01 02:08:03,2019-01-01 02:13:58,2,1.02,14,34,6.00,8.76,Bay Ridge,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 08:17:34,2019-01-01 08:24:13,2,1.00,34,12,6.00,9.12,Brooklyn Navy Yard,Brooklyn,Battery Park
+2,2019-01-01 00:37:12,2019-01-01 00:44:05,2,2.52,12,25,9.00,13.39,Battery Park,Manhattan,Boerum Hill
+2,2019-01-01 08:46:52,2019-01-01 08:54:48,2,2.01,25,39,8.50,11.76,Boerum Hill,Brooklyn,Canarsie
+2,2019-01-01 23:41:41,2019-01-01 23:57:01,3,3.15,34,37,12.50,13.80,Brooklyn Navy Yard,Brooklyn,Bushwick South
+2,2019-01-01 18:30:57,2019-01-01 19:01:26,3,2.65,49,48,19.00,20.30,Clinton Hill,Brooklyn,Clinton East
+1,2019-01-01 08:32:10,2019-01-01 08:38:58,2,0.70,42,42,6.00,7.30,Central Harlem North,Manhattan,Central Harlem North
+2,2019-01-01 22:58:11,2019-01-01 23:00:21,1,0.44,49,13,3.50,4.80,Clinton Hill,Brooklyn,Battery Park City
+1,2019-01-01 18:05:03,2019-01-01 18:16:11,1,1.60,34,7,9.00,12.35,Brooklyn Navy Yard,Brooklyn,Astoria
+1,2019-01-01 01:19:04,2019-01-01 01:25:00,2,1.00,29,24,6.00,8.76,Brighton Beach,Brooklyn,Bloomingdale
+1,2019-01-01 23:29:12,2019-01-01 23:38:18,3,1.40,4,7,7.50,10.55,Alphabet City,Manhattan,Astoria
+1,2019-01-01 22:48:22,2019-01-01 23:05:08,1,1.80,7,48,11.50,13.80,Astoria,Queens,Clinton East
+2,2019-01-01 08:09:20,2019-01-01 08:30:35,3,5.54,43,11,19.50,20.80,Central Park,Manhattan,Bath Beach
+2,2019-01-01 17:31:54,2019-01-01 17:52:19,4,6.40,11,30,21.00,22.30,Bath Beach,Brooklyn,Broad Channel
+2,2019-01-01 18:58:08,2019-01-01 19:40:38,4,6.15,30,40,30.50,38.16,Broad Channel,Queens,Carroll Gardens
+2,2019-01-01 22:15:29,2019-01-01 22:38:16,1,3.46,50,13,16.00,20.76,Clinton West,Manhattan,Battery Park City
+2,2019-01-01 01:44:34,2019-01-01 01:51:34,1,0.58,49,8,6.00,8.30,Clinton Hill,Brooklyn,Astoria Park
+2,2019-01-01 00:52:41,2019-01-01 01:15:58,1,5.72,8,17,20.50,26.16,Astoria Park,Queens,Bedford
+2,2019-01-01 18:25:43,2019-01-01 18:36:07,2,3.62,29,24,12.00,13.30,Brighton Beach,Brooklyn,Bloomingdale
+2,2019-01-01 23:38:28,2019-01-01 23:46:28,3,2.53,24,41,9.00,10.30,Bloomingdale,Manhattan,Central Harlem
+2,2019-01-01 07:48:52,2019-01-01 08:02:17,4,4.91,41,48,16.00,21.62,Central Harlem,Manhattan,Clinton East
+1,2019-01-01 23:18:09,2019-01-01 23:26:25,4,0.50,14,12,6.50,9.35,Bay Ridge,Brooklyn,Battery Park
+1,2019-01-01 03:28:40,2019-01-01 03:34:19,3,1.00,12,29,6.00,8.39,Battery Park,Manhattan,Brighton Beach
+1,2019-01-01 06:40:55,2019-01-01 06:51:36,2,1.80,29,7,9.00,10.30,Brighton Beach,Brooklyn,Astoria
+1,2019-01-01 02:52:56,2019-01-01 03:01:19,2,0.90,7,29,7.00,9.95,Astoria,Queens,Brighton Beach
+2,2019-01-01 11:32:09,2019-01-01 11:36:38,5,0.58,4,29,5.00,6.30,Alphabet City,Manhattan,Brighton Beach
+2,2019-01-01 22:42:17,2019-01-01 22:55:29,5,1.65,29,49,10.00,11.30,Brighton Beach,Brooklyn,Clinton Hill
+2,2019-01-01 09:08:43,2019-01-01 09:14:32,3,1.87,42,39,7.50,8.80,Central Harlem North,Manhattan,Canarsie
+2,2019-01-01 04:18:29,2019-01-01 04:32:27,3,2.44,39,40,11.50,22.80,Canarsie,Brooklyn,Carroll Gardens
+2,2019-01-01 07:41:55,2019-01-01 07:58:43,4,1.00,11,14,11.00,12.30,Bath Beach,Brooklyn,Bay Ridge
+2,2019-01-01 07:59:51,2019-01-01 08:19:13,3,2.32,14,48,14.00,16.30,Bay Ridge,Brooklyn,Clinton East
+1,2019-01-01 01:07:40,2019-01-01 01:20:13,1,1.50,29,49,9.50,11.80,Brighton Beach,Brooklyn,Clinton Hill
+1,2019-01-01 16:21:57,2019-01-01 16:28:08,1,0.80,49,18,6.00,8.75,Clinton Hill,Brooklyn,Bedford Park
+1,2019-01-01 03:33:28,2019-01-01 03:59:42,1,3.50,40,41,18.00,22.20,Carroll Gardens,Brooklyn,Central Harlem
+2,2019-01-01 03:21:09,2019-01-01 03:51:23,3,3.90,43,29,20.00,25.56,Central Park,Manhattan,Brighton Beach
+2,2019-01-01 08:55:01,2019-01-01 09:10:21,3,4.21,29,12,14.50,25.87,Brighton Beach,Brooklyn,Battery Park
+2,2019-01-01 02:43:44,2019-01-01 02:55:37,1,0.56,20,20,8.50,9.80,Belmont,Bronx,Belmont
+2,2019-01-01 09:15:41,2019-01-01 09:43:40,4,5.81,29,7,22.00,27.96,Brighton Beach,Brooklyn,Astoria
+2,2019-01-01 03:58:59,2019-01-01 04:04:03,3,1.04,29,41,5.50,8.16,Brighton Beach,Brooklyn,Central Harlem
+1,2019-01-01 00:17:26,2019-01-01 00:24:16,2,1.30,39,38,7.00,9.13,Canarsie,Brooklyn,Cambria Heights
+1,2019-01-01 18:29:37,2019-01-01 19:01:34,2,9.30,38,6,31.50,32.80,Cambria Heights,Queens,Arrochar/Fort Wadsworth
+1,2019-01-01 17:14:28,2019-01-01 17:18:26,1,1.00,8,49,5.00,7.85,Astoria Park,Queens,Clinton Hill
+1,2019-01-01 07:36:33,2019-01-01 08:06:01,1,7.00,8,24,25.50,32.15,Astoria Park,Queens,Bloomingdale
+2,2019-01-01 18:29:32,2019-01-01 18:43:06,5,5.65,50,16,18.00,23.16,Clinton West,Manhattan,Bayside
+2,2019-01-01 00:46:03,2019-01-01 00:52:12,5,1.18,2,16,6.50,9.36,Jamaica Bay,Queens,Bayside
+2,2019-01-01 02:55:54,2019-01-01 03:09:15,1,4.06,16,43,14.50,15.80,Bayside,Queens,Central Park
+1,2019-01-01 01:19:21,2019-01-01 01:38:47,1,1.40,34,20,12.00,13.30,Brooklyn Navy Yard,Brooklyn,Belmont
+1,2019-01-01 08:41:09,2019-01-01 08:48:35,1,1.00,20,36,6.50,7.80,Belmont,Bronx,Bushwick North
+1,2019-01-01 07:50:52,2019-01-01 08:07:17,1,2.20,40,12,12.00,15.95,Carroll Gardens,Brooklyn,Battery Park
+2,2019-01-01 03:35:48,2019-01-01 04:00:03,1,1.05,11,14,14.50,20.54,Bath Beach,Brooklyn,Bay Ridge
+2,2019-01-01 09:24:52,2019-01-01 09:55:18,5,3.48,7,42,20.00,21.30,Astoria,Queens,Central Harlem North
+2,2019-01-01 16:56:45,2019-01-01 17:07:51,4,1.88,42,36,9.50,12.96,Central Harlem North,Manhattan,Bushwick North
+1,2019-01-01 01:30:04,2019-01-01 01:38:57,1,2.20,11,36,9.00,10.30,Bath Beach,Brooklyn,Bushwick North
+1,2019-01-01 18:43:54,2019-01-01 18:53:57,2,2.20,36,43,9.50,14.30,Bushwick North,Brooklyn,Central Park
+2,2019-01-01 23:45:46,2019-01-01 23:53:33,1,1.32,31,44,7.00,9.30,Bronx Park,Bronx,Charleston/Tottenville
+2,2019-01-01 00:54:28,2019-01-01 01:04:29,6,2.17,44,37,9.00,11.30,Charleston/Tottenville,Staten Island,Bushwick South
+2,2019-01-01 22:12:14,2019-01-01 22:14:19,1,0.31,8,49,3.50,6.00,Astoria Park,Queens,Clinton Hill
+2,2019-01-01 20:27:12,2019-01-01 21:02:19,1,11.84,49,20,37.50,44.56,Clinton Hill,Brooklyn,Belmont
+2,2019-01-01 00:25:27,2019-01-01 00:37:35,2,1.82,50,18,9.50,12.96,Clinton West,Manhattan,Bedford Park
+2,2019-01-01 17:40:41,2019-01-01 17:46:04,2,0.40,18,18,5.00,7.56,Bedford Park,Bronx,Bedford Park
+2,2019-01-01 09:52:15,2019-01-01 10:01:26,2,1.42,40,20,8.00,11.30,Carroll Gardens,Brooklyn,Belmont
+2,2019-01-01 16:21:07,2019-01-01 16:36:26,1,7.01,38,12,21.00,27.88,Cambria Heights,Queens,Battery Park
+2,2019-01-01 08:59:42,2019-01-01 09:01:18,1,0.32,20,20,3.50,6.00,Belmont,Bronx,Belmont
+2,2019-01-01 02:17:37,2019-01-01 02:39:28,2,4.71,49,12,17.50,22.56,Clinton Hill,Brooklyn,Battery Park
+2,2019-01-01 03:42:03,2019-01-01 03:47:04,2,1.19,13,41,6.00,8.76,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 17:15:38,2019-01-01 17:56:53,1,1.92,11,36,23.00,24.30,Bath Beach,Brooklyn,Bushwick North
+2,2019-01-01 02:41:21,2019-01-01 02:59:37,4,3.99,7,29,16.50,17.80,Astoria,Queens,Brighton Beach
+1,2019-01-01 16:46:07,2019-01-01 17:36:52,3,7.00,49,41,34.00,35.30,Clinton Hill,Brooklyn,Central Harlem
+2,2019-01-01 09:04:12,2019-01-01 09:18:18,1,3.64,29,37,13.50,18.50,Brighton Beach,Brooklyn,Bushwick South
+2,2019-01-01 00:24:03,2019-01-01 00:38:55,1,3.18,38,40,12.50,15.30,Cambria Heights,Queens,Carroll Gardens
+2,2019-01-01 22:53:02,2019-01-01 23:09:02,1,2.21,20,42,11.50,13.80,Belmont,Bronx,Central Harlem North
+2,2019-01-01 05:14:58,2019-01-01 05:27:52,1,1.46,46,37,9.50,12.96,City Island,Bronx,Bushwick South
+2,2019-01-01 08:38:47,2019-01-01 09:01:13,1,3.44,14,36,16.00,17.30,Bay Ridge,Brooklyn,Bushwick North
+2,2019-01-01 08:06:12,2019-01-01 08:16:25,1,1.05,18,14,7.50,8.80,Bedford Park,Bronx,Bay Ridge
+2,2019-01-01 22:18:53,2019-01-01 22:26:38,1,1.79,14,37,8.00,9.30,Bay Ridge,Brooklyn,Bushwick South
+2,2019-01-01 03:33:24,2019-01-01 03:42:39,1,1.56,48,29,8.50,12.25,Clinton East,Manhattan,Brighton Beach
+2,2019-01-01 22:47:56,2019-01-01 22:58:37,1,2.23,4,29,10.00,13.30,Alphabet City,Manhattan,Brighton Beach
+1,2019-01-01 07:29:14,2019-01-01 07:55:47,1,3.50,48,29,17.50,19.80,Clinton East,Manhattan,Brighton Beach
+1,2019-01-01 09:58:57,2019-01-01 10:12:22,1,3.20,29,37,13.00,15.30,Brighton Beach,Brooklyn,Bushwick South
+2,2019-01-01 10:01:03,2019-01-01 10:06:35,2,0.90,29,44,5.50,8.16,Brighton Beach,Brooklyn,Charleston/Tottenville
+2,2019-01-01 02:21:05,2019-01-01 02:33:35,1,4.02,29,37,14.50,18.96,Brighton Beach,Brooklyn,Bushwick South
+2,2019-01-01 07:40:54,2019-01-01 07:57:44,2,5.18,11,14,17.50,22.56,Bath Beach,Brooklyn,Bay Ridge
+1,2019-01-01 07:22:02,2019-01-01 07:25:34,1,0.50,12,29,4.50,5.80,Battery Park,Manhattan,Brighton Beach
+1,2019-01-01 00:50:59,2019-01-01 00:58:56,3,0.80,7,14,6.50,9.75,Astoria,Queens,Bay Ridge
+1,2019-01-01 03:58:30,2019-01-01 04:26:25,1,10.50,32,39,32.50,33.80,Bronxdale,Bronx,Canarsie
+2,2019-01-01 18:21:12,2019-01-01 18:35:41,6,6.29,32,26,19.50,20.80,Bronxdale,Bronx,Borough Park
+1,2019-01-01 17:05:33,2019-01-01 17:21:38,4,0.50,48,48,10.50,11.80,Clinton East,Manhattan,Clinton East
+1,2019-01-01 03:23:45,2019-01-01 03:45:50,2,2.70,48,11,15.00,16.30,Clinton East,Manhattan,Bath Beach
+1,2019-01-01 03:48:08,2019-01-01 04:11:15,2,3.80,11,13,17.00,18.30,Bath Beach,Brooklyn,Battery Park City
+2,2019-01-01 01:50:29,2019-01-01 02:21:48,1,6.50,13,29,25.00,26.30,Battery Park City,Manhattan,Brighton Beach
+2,2019-01-01 05:22:52,2019-01-01 05:25:03,1,0.34,1,38,3.50,4.80,Newark Airport,EWR,Cambria Heights
+2,2019-01-01 01:28:03,2019-01-01 01:40:56,1,1.97,38,36,10.00,11.30,Cambria Heights,Queens,Bushwick North
+2,2019-01-01 01:49:33,2019-01-01 01:56:44,1,1.62,39,42,7.00,8.30,Canarsie,Brooklyn,Central Harlem North
+2,2019-01-01 02:24:16,2019-01-01 02:37:37,1,2.57,14,45,11.00,12.30,Bay Ridge,Brooklyn,Chinatown
+2,2019-01-01 20:45:28,2019-01-01 20:52:12,1,1.26,48,29,7.00,10.38,Clinton East,Manhattan,Brighton Beach
+2,2019-01-01 15:53:42,2019-01-01 15:58:54,1,1.00,29,7,5.50,8.16,Brighton Beach,Brooklyn,Astoria
+1,2019-01-01 22:06:07,2019-01-01 22:17:12,1,2.50,31,33,11.50,12.80,Bronx Park,Bronx,Brooklyn Heights
+1,2019-01-01 02:36:02,2019-01-01 02:46:07,1,3.60,38,29,12.50,13.80,Cambria Heights,Queens,Brighton Beach
+1,2019-01-01 22:48:08,2019-01-01 22:54:19,2,0.60,29,29,5.50,6.80,Brighton Beach,Brooklyn,Brighton Beach
+1,2019-01-01 06:55:30,2019-01-01 07:25:01,1,5.50,29,25,22.50,29.75,Brighton Beach,Brooklyn,Boerum Hill
+2,2019-01-01 03:02:05,2019-01-01 03:10:52,1,1.39,44,7,8.00,11.63,Charleston/Tottenville,Staten Island,Astoria
+2,2019-01-01 03:55:46,2019-01-01 04:03:38,1,0.94,14,12,7.00,8.30,Bay Ridge,Brooklyn,Battery Park
+2,2019-01-01 08:29:56,2019-01-01 08:46:53,1,6.48,36,43,21.00,22.30,Bushwick North,Brooklyn,Central Park
+2,2019-01-01 23:14:09,2019-01-01 23:48:25,1,11.82,14,10,37.00,38.30,Bay Ridge,Brooklyn,Baisley Park
+2,2019-01-01 10:39:56,2019-01-01 10:59:28,4,2.31,46,48,13.50,17.76,City Island,Bronx,Clinton East
+1,2019-01-01 17:29:59,2019-01-01 17:35:30,1,0.80,20,11,5.50,6.80,Belmont,Bronx,Bath Beach
+1,2019-01-01 01:47:19,2019-01-01 01:47:42,1,0.00,13,13,2.50,3.80,Battery Park City,Manhattan,Battery Park City
+1,2019-01-01 18:51:10,2019-01-01 18:55:26,1,1.00,12,33,5.00,7.55,Battery Park,Manhattan,Brooklyn Heights
+1,2019-01-01 09:32:54,2019-01-01 09:37:48,1,0.60,11,12,5.00,6.30,Bath Beach,Brooklyn,Battery Park
+1,2019-01-01 16:42:34,2019-01-01 16:47:16,3,0.60,12,41,5.00,6.30,Battery Park,Manhattan,Central Harlem
+1,2019-01-01 16:48:10,2019-01-01 16:58:47,2,1.70,41,42,9.00,12.35,Central Harlem,Manhattan,Central Harlem North
+1,2019-01-01 22:14:48,2019-01-01 22:29:19,1,2.20,40,29,11.00,14.30,Carroll Gardens,Brooklyn,Brighton Beach
+1,2019-01-01 09:44:00,2019-01-01 10:08:35,1,2.70,34,48,16.00,17.30,Brooklyn Navy Yard,Brooklyn,Clinton East
+2,2019-01-01 17:57:34,2019-01-01 18:50:47,5,7.98,10,26,39.50,40.80,Baisley Park,Queens,Borough Park
+2,2019-01-01 02:21:15,2019-01-01 02:40:32,2,3.02,50,7,13.50,16.28,Clinton West,Manhattan,Astoria
+2,2019-01-01 01:52:42,2019-01-01 01:58:48,1,0.68,40,36,5.50,6.80,Carroll Gardens,Brooklyn,Bushwick North
+2,2019-01-01 02:23:14,2019-01-01 02:31:11,2,1.92,36,29,8.00,11.16,Bushwick North,Brooklyn,Brighton Beach
+2,2019-01-01 22:32:43,2019-01-01 22:36:56,2,0.99,29,41,5.00,6.30,Brighton Beach,Brooklyn,Central Harlem
+2,2019-01-01 03:37:56,2019-01-01 03:49:20,2,3.60,41,24,13.00,16.30,Central Harlem,Manhattan,Bloomingdale
+2,2019-01-01 02:53:28,2019-01-01 03:01:16,2,0.92,7,29,6.50,7.80,Astoria,Queens,Brighton Beach
+2,2019-01-01 01:19:29,2019-01-01 01:21:32,1,0.43,13,12,3.50,6.24,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 09:24:35,2019-01-01 09:29:01,1,0.85,40,36,5.50,9.80,Carroll Gardens,Brooklyn,Bushwick North
+2,2019-01-01 20:32:44,2019-01-01 21:07:11,1,15.74,36,15,44.00,45.30,Bushwick North,Brooklyn,Bay Terrace/Fort Totten
+1,2019-01-01 01:03:46,2019-01-01 01:19:54,2,1.60,48,34,11.00,12.30,Clinton East,Manhattan,Brooklyn Navy Yard
+1,2019-01-01 08:37:55,2019-01-01 08:58:16,2,5.20,14,38,19.50,24.95,Bay Ridge,Brooklyn,Cambria Heights
+2,2019-01-01 00:32:58,2019-01-01 00:46:40,5,2.12,7,25,10.50,15.34,Astoria,Queens,Boerum Hill
+2,2019-01-01 18:48:32,2019-01-01 19:30:59,4,9.37,25,42,35.00,36.30,Boerum Hill,Brooklyn,Central Harlem North
+2,2019-01-01 01:28:38,2019-01-01 01:33:27,4,1.31,25,24,6.00,7.30,Boerum Hill,Brooklyn,Bloomingdale
+2,2019-01-01 09:10:16,2019-01-01 09:40:35,3,1.90,20,40,18.50,19.80,Belmont,Bronx,Carroll Gardens
+2,2019-01-01 09:38:11,2019-01-01 09:50:46,1,2.09,43,13,10.00,11.30,Central Park,Manhattan,Battery Park City
+2,2019-01-01 03:55:55,2019-01-01 04:10:19,1,3.81,37,24,14.50,20.54,Bushwick South,Brooklyn,Bloomingdale
+2,2019-01-01 23:15:26,2019-01-01 23:22:16,1,3.23,46,13,10.50,14.75,City Island,Bronx,Battery Park City
+2,2019-01-01 16:29:58,2019-01-01 16:31:36,1,0.30,41,41,3.50,4.80,Central Harlem,Manhattan,Central Harlem
+2,2019-01-01 16:57:45,2019-01-01 17:07:16,1,2.08,26,29,9.50,11.88,Borough Park,Brooklyn,Brighton Beach
+1,2019-01-01 03:52:44,2019-01-01 04:13:23,1,3.30,36,40,15.50,21.80,Bushwick North,Brooklyn,Carroll Gardens
+2,2019-01-01 18:21:43,2019-01-01 18:36:08,1,2.58,36,41,12.00,13.30,Bushwick North,Brooklyn,Central Harlem
+2,2019-01-01 00:39:36,2019-01-01 00:58:51,1,8.58,41,6,25.50,26.80,Central Harlem,Manhattan,Arrochar/Fort Wadsworth
+1,2019-01-01 07:20:30,2019-01-01 07:42:42,1,2.70,48,29,15.50,16.80,Clinton East,Manhattan,Brighton Beach
+1,2019-01-01 23:49:14,2019-01-02 00:10:45,2,3.00,12,14,15.00,16.30,Battery Park,Manhattan,Bay Ridge
+2,2019-01-01 19:42:42,2019-01-01 19:45:17,3,0.55,8,18,4.00,5.30,Astoria Park,Queens,Bedford Park
+2,2019-01-01 03:45:53,2019-01-01 04:20:37,3,5.54,18,36,25.00,34.19,Bedford Park,Bronx,Bushwick North
+1,2019-01-01 16:19:59,2019-01-01 16:37:39,1,1.40,40,7,11.50,14.80,Carroll Gardens,Brooklyn,Astoria
+1,2019-01-01 01:39:48,2019-01-01 01:48:40,1,1.30,7,12,7.50,8.80,Astoria,Queens,Battery Park
+1,2019-01-01 08:59:59,2019-01-01 09:22:30,1,3.10,14,45,15.50,20.15,Bay Ridge,Brooklyn,Chinatown
+2,2019-01-01 01:15:44,2019-01-01 01:31:46,1,3.42,7,40,13.50,18.50,Astoria,Queens,Carroll Gardens
+2,2019-01-01 04:37:30,2019-01-01 04:39:11,1,0.39,40,12,3.50,6.00,Carroll Gardens,Brooklyn,Battery Park
+2,2019-01-01 00:52:39,2019-01-01 00:54:54,1,0.73,41,33,4.00,5.30,Central Harlem,Manhattan,Brooklyn Heights
+1,2019-01-01 23:11:00,2019-01-01 23:39:42,1,3.90,39,7,19.00,24.35,Canarsie,Brooklyn,Astoria
+1,2019-01-01 08:42:04,2019-01-01 09:07:43,1,2.00,7,46,16.00,18.16,Astoria,Queens,City Island
+1,2019-01-01 22:46:57,2019-01-01 22:58:05,2,1.40,42,11,9.00,15.30,Central Harlem North,Manhattan,Bath Beach
+2,2019-01-01 07:12:17,2019-01-01 07:36:13,1,3.66,48,36,17.50,22.56,Clinton East,Manhattan,Bushwick North
+2,2019-01-01 09:38:00,2019-01-01 09:40:39,1,0.62,13,25,4.00,5.30,Battery Park City,Manhattan,Boerum Hill
+2,2019-01-01 23:43:41,2019-01-01 23:59:15,1,3.02,36,16,13.50,14.80,Bushwick North,Brooklyn,Bayside
+2,2019-01-01 01:26:24,2019-01-01 01:28:52,1,0.59,29,40,4.00,6.89,Brighton Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 16:30:50,2019-01-01 16:33:34,1,0.72,41,41,4.50,6.96,Central Harlem,Manhattan,Central Harlem
+2,2019-01-01 23:38:29,2019-01-01 23:42:54,1,0.73,41,40,5.00,7.56,Central Harlem,Manhattan,Carroll Gardens
+2,2019-01-01 03:47:16,2019-01-01 04:03:56,1,2.48,40,48,13.00,16.30,Carroll Gardens,Brooklyn,Clinton East
+2,2019-01-01 09:19:54,2019-01-01 09:26:22,1,0.78,42,42,6.00,8.76,Central Harlem North,Manhattan,Central Harlem North
+2,2019-01-01 22:32:35,2019-01-01 22:49:09,1,2.27,42,1,12.50,13.80,Central Harlem North,Manhattan,Newark Airport
+2,2019-01-01 18:59:27,2019-01-01 19:15:15,1,7.87,43,27,23.00,29.16,Central Park,Manhattan,Breezy Point/Fort Tilden/Riis Beach
+1,2019-01-01 00:14:41,2019-01-01 00:40:38,1,8.30,29,29,27.00,28.30,Brighton Beach,Brooklyn,Brighton Beach
+2,2019-01-01 18:16:26,2019-01-01 18:42:37,2,3.68,50,29,18.00,19.30,Clinton West,Manhattan,Brighton Beach
+2,2019-01-01 07:54:35,2019-01-01 08:18:49,2,6.41,48,25,21.50,29.31,Clinton East,Manhattan,Boerum Hill
+1,2019-01-01 00:11:53,2019-01-01 00:35:42,1,3.50,48,11,17.50,18.80,Clinton East,Manhattan,Bath Beach
+1,2019-01-01 07:38:39,2019-01-01 07:43:55,1,1.30,11,40,6.50,7.80,Bath Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 18:17:44,2019-01-01 18:28:07,1,1.14,32,29,8.00,11.30,Bronxdale,Bronx,Brighton Beach
+2,2019-01-01 02:31:59,2019-01-01 02:48:10,1,5.19,29,13,18.00,22.20,Brighton Beach,Brooklyn,Battery Park City
+2,2019-01-01 09:24:38,2019-01-01 09:45:42,1,3.04,12,8,15.00,16.30,Battery Park,Manhattan,Astoria Park
+2,2019-01-01 16:46:31,2019-01-01 17:05:33,1,2.00,8,7,13.50,17.76,Astoria Park,Queens,Astoria
+1,2019-01-01 08:30:29,2019-01-01 08:40:51,1,1.00,49,8,8.00,9.30,Clinton Hill,Brooklyn,Astoria Park
+1,2019-01-01 23:41:56,2019-01-01 23:49:58,1,1.30,8,46,7.50,8.80,Astoria Park,Queens,City Island
+1,2019-01-01 20:51:16,2019-01-01 21:02:42,1,1.00,46,49,8.50,9.80,City Island,Bronx,Clinton Hill
+2,2019-01-01 08:27:48,2019-01-01 08:45:37,1,1.95,34,12,12.00,15.96,Brooklyn Navy Yard,Brooklyn,Battery Park
+2,2019-01-01 23:52:30,2019-01-01 23:58:37,1,0.93,11,29,6.00,7.30,Bath Beach,Brooklyn,Brighton Beach
+1,2019-01-01 19:30:57,2019-01-01 19:43:34,1,1.40,48,18,9.50,10.80,Clinton East,Manhattan,Bedford Park
+1,2019-01-01 16:44:35,2019-01-01 17:00:56,1,2.20,18,11,12.00,13.30,Bedford Park,Bronx,Bath Beach
+2,2019-01-01 16:08:34,2019-01-01 16:23:04,1,3.26,13,48,12.50,13.80,Battery Park City,Manhattan,Clinton East
+2,2019-01-01 17:24:09,2019-01-01 17:27:01,1,0.36,48,50,4.00,6.89,Clinton East,Manhattan,Clinton West
+2,2019-01-01 17:30:04,2019-01-01 18:05:19,1,7.90,50,48,28.50,34.80,Clinton West,Manhattan,Clinton East
+2,2019-01-01 16:28:33,2019-01-01 16:34:43,6,0.86,44,14,6.00,8.76,Charleston/Tottenville,Staten Island,Bay Ridge
+2,2019-01-01 09:36:36,2019-01-01 09:55:16,6,4.98,14,49,18.00,23.16,Bay Ridge,Brooklyn,Clinton Hill
+2,2019-01-01 23:12:42,2019-01-01 23:20:21,5,1.32,29,37,7.50,8.80,Brighton Beach,Brooklyn,Bushwick South
+2,2019-01-01 00:33:37,2019-01-01 00:45:46,5,2.08,11,40,10.00,13.56,Bath Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 23:50:28,2019-01-01 23:52:41,5,0.58,41,41,4.00,6.36,Central Harlem,Manhattan,Central Harlem
+1,2019-01-01 08:58:07,2019-01-01 09:04:18,1,0.60,48,48,5.50,6.80,Clinton East,Manhattan,Clinton East
+2,2019-01-01 03:10:26,2019-01-01 03:35:33,1,2.78,48,14,16.50,17.80,Clinton East,Manhattan,Bay Ridge
+2,2019-01-01 17:58:15,2019-01-01 18:28:40,1,3.74,29,50,20.50,21.80,Brighton Beach,Brooklyn,Clinton West
+1,2019-01-01 22:35:04,2019-01-01 22:39:39,3,0.70,11,29,5.00,6.30,Bath Beach,Brooklyn,Brighton Beach
+1,2019-01-01 16:42:25,2019-01-01 17:02:21,3,4.20,29,1,16.50,17.80,Brighton Beach,Brooklyn,Newark Airport
+2,2019-01-01 23:12:17,2019-01-01 23:20:30,1,1.73,18,31,8.00,11.16,Bedford Park,Bronx,Bronx Park
+2,2019-01-01 14:28:39,2019-01-01 15:04:26,1,8.43,31,13,31.00,37.30,Bronx Park,Bronx,Battery Park City
+1,2019-01-01 09:36:19,2019-01-01 09:41:55,1,0.90,29,7,5.50,7.80,Brighton Beach,Brooklyn,Astoria
+1,2019-01-01 08:44:18,2019-01-01 08:49:46,1,0.90,7,20,5.50,6.80,Astoria,Queens,Belmont
+2,2019-01-01 00:11:06,2019-01-01 00:17:38,1,1.55,38,42,7.00,10.79,Cambria Heights,Queens,Central Harlem North
+2,2019-01-01 08:25:14,2019-01-01 08:32:30,1,0.77,42,43,6.00,7.30,Central Harlem North,Manhattan,Central Park
+2,2019-01-01 08:34:14,2019-01-01 08:42:06,1,0.92,43,43,6.50,9.20,Central Park,Manhattan,Central Park
+2,2019-01-01 03:43:46,2019-01-01 03:45:38,1,0.25,43,43,3.50,4.80,Central Park,Manhattan,Central Park
+2,2019-01-01 02:48:40,2019-01-01 03:03:39,1,2.33,50,36,11.50,15.36,Clinton West,Manhattan,Bushwick North
+2,2019-01-01 00:06:36,2019-01-01 00:38:00,1,17.09,32,36,47.50,58.56,Bronxdale,Bronx,Bushwick North
+2,2019-01-01 01:42:02,2019-01-01 01:52:32,1,2.03,36,37,9.00,10.30,Bushwick North,Brooklyn,Bushwick South
+2,2018-12-31 03:59:46,2018-12-31 04:08:54,2,1.06,11,42,7.50,8.80,Bath Beach,Brooklyn,Central Harlem North
+2,2019-01-01 23:11:08,2019-01-01 23:16:03,1,1.49,39,1,6.50,9.36,Canarsie,Brooklyn,Newark Airport
+2,2019-01-01 03:25:20,2019-01-01 03:33:44,1,0.96,43,43,7.00,9.00,Central Park,Manhattan,Central Park
+2,2019-01-01 17:39:34,2019-01-01 17:55:36,1,2.63,43,29,12.50,16.56,Central Park,Manhattan,Brighton Beach
+2,2019-01-01 02:57:40,2019-01-01 03:02:34,1,0.77,29,41,5.00,7.56,Brighton Beach,Brooklyn,Central Harlem
+1,2019-01-01 02:28:26,2019-01-01 03:01:10,1,7.80,46,17,27.50,34.55,City Island,Bronx,Bedford
+2,2019-01-01 00:49:04,2019-01-01 01:16:09,1,2.90,13,46,17.50,22.56,Battery Park City,Manhattan,City Island
+2,2019-01-01 00:19:03,2019-01-01 00:23:44,5,0.90,33,41,5.50,8.16,Brooklyn Heights,Brooklyn,Central Harlem
+2,2019-01-01 01:25:02,2019-01-01 01:27:35,5,0.87,40,13,4.50,5.80,Carroll Gardens,Brooklyn,Battery Park City
+2,2019-01-01 22:33:14,2019-01-01 22:45:06,5,1.85,37,39,10.00,14.69,Bushwick South,Brooklyn,Canarsie
+2,2019-01-01 02:50:29,2019-01-01 03:13:06,5,4.21,39,34,18.00,23.16,Canarsie,Brooklyn,Brooklyn Navy Yard
+1,2019-01-01 17:16:21,2019-01-01 17:30:10,1,2.70,14,36,11.50,15.36,Bay Ridge,Brooklyn,Bushwick North
+1,2019-01-01 18:31:13,2019-01-01 18:37:17,1,1.00,36,40,6.50,9.75,Bushwick North,Brooklyn,Carroll Gardens
+1,2019-01-01 07:41:55,2019-01-01 07:44:29,2,0.70,12,40,4.50,5.80,Battery Park,Manhattan,Carroll Gardens
+1,2019-01-01 10:47:27,2019-01-01 10:50:18,1,0.40,41,41,4.00,5.30,Central Harlem,Manhattan,Central Harlem
+1,2019-01-01 08:55:38,2019-01-01 09:13:03,1,5.10,29,23,18.00,23.15,Brighton Beach,Brooklyn,Bloomfield/Emerson Hill
+2,2019-01-01 04:12:24,2019-01-01 04:30:04,5,0.99,14,12,10.00,11.30,Bay Ridge,Brooklyn,Battery Park
+2,2019-01-01 07:37:27,2019-01-01 07:45:44,5,0.96,7,13,7.00,9.30,Astoria,Queens,Battery Park City
+2,2019-01-01 23:10:43,2019-01-01 23:18:34,1,0.75,14,13,6.50,7.80,Bay Ridge,Brooklyn,Battery Park City
+2,2019-01-01 23:20:44,2019-01-01 23:37:25,1,5.32,13,30,17.50,18.80,Battery Park City,Manhattan,Broad Channel
+2,2019-01-01 20:52:30,2019-01-01 21:24:49,1,5.11,48,42,22.50,28.56,Clinton East,Manhattan,Central Harlem North
+1,2019-01-01 08:25:15,2019-01-01 08:28:06,4,0.60,40,13,4.00,5.30,Carroll Gardens,Brooklyn,Battery Park City
+1,2019-01-01 07:29:39,2019-01-01 07:33:42,2,0.60,13,40,5.00,7.55,Battery Park City,Manhattan,Carroll Gardens
+1,2019-01-01 22:38:19,2019-01-01 22:45:29,2,1.50,13,29,7.50,8.80,Battery Park City,Manhattan,Brighton Beach
+1,2019-01-01 22:49:05,2019-01-01 22:55:36,2,1.20,41,33,6.50,7.80,Central Harlem,Manhattan,Brooklyn Heights
+2,2019-01-01 08:43:04,2019-01-01 09:07:07,1,4.35,36,11,18.50,19.80,Bushwick North,Brooklyn,Bath Beach
+2,2019-01-01 16:07:30,2019-01-01 16:16:55,2,1.72,39,40,8.50,9.80,Canarsie,Brooklyn,Carroll Gardens
+2,2019-01-01 16:18:11,2019-01-01 16:19:56,2,0.17,40,40,3.00,4.30,Carroll Gardens,Brooklyn,Carroll Gardens
+2,2019-01-01 23:25:12,2019-01-01 23:29:23,2,0.60,41,13,5.00,6.30,Central Harlem,Manhattan,Battery Park City
+2,2019-01-01 01:46:02,2019-01-01 02:07:04,2,8.15,13,6,25.50,32.16,Battery Park City,Manhattan,Arrochar/Fort Wadsworth
+2,2018-12-31 18:58:16,2018-12-31 19:11:37,5,1.35,12,14,10.00,13.56,Battery Park,Manhattan,Bay Ridge
+2,2019-01-01 22:41:44,2019-01-01 23:03:33,5,5.67,11,37,20.50,21.80,Bath Beach,Brooklyn,Bushwick South
+2,2019-01-01 06:47:01,2019-01-01 07:40:36,1,10.63,29,46,41.00,42.30,Brighton Beach,Brooklyn,City Island
+1,2019-01-01 02:08:29,2019-01-01 02:14:17,2,1.00,1,1,6.00,7.30,Newark Airport,EWR,Newark Airport
+1,2019-01-01 23:18:21,2019-01-01 23:32:31,3,2.70,38,11,12.00,13.30,Cambria Heights,Queens,Bath Beach
+1,2019-01-01 03:34:44,2019-01-01 03:49:59,2,0.70,11,14,10.00,11.30,Bath Beach,Brooklyn,Bay Ridge
+1,2019-01-01 00:53:04,2019-01-01 01:14:54,1,3.30,20,12,16.50,21.80,Belmont,Bronx,Battery Park
+2,2019-01-01 16:54:22,2019-01-01 17:08:56,1,2.18,50,41,11.00,14.30,Clinton West,Manhattan,Central Harlem
+2,2019-01-01 02:13:00,2019-01-01 02:41:33,1,2.12,14,50,17.50,18.80,Bay Ridge,Brooklyn,Clinton West
+2,2019-01-01 01:43:29,2019-01-01 02:08:05,1,3.81,50,7,18.00,19.30,Clinton West,Manhattan,Astoria
+1,2019-01-01 17:22:51,2019-01-01 17:37:46,1,1.10,40,7,10.00,13.55,Carroll Gardens,Brooklyn,Astoria
+1,2019-01-01 22:41:30,2019-01-01 22:47:00,1,0.40,7,13,5.00,6.30,Astoria,Queens,Battery Park City
+1,2019-01-01 08:58:08,2019-01-01 09:30:20,1,5.10,18,12,22.00,29.10,Bedford Park,Bronx,Battery Park
+2,2019-01-01 22:11:15,2019-01-01 22:19:28,1,1.03,29,7,7.00,8.30,Brighton Beach,Brooklyn,Astoria
+2,2019-01-01 07:09:27,2019-01-01 07:14:55,1,1.75,37,12,7.00,8.30,Bushwick South,Brooklyn,Battery Park
+2,2019-01-01 02:18:16,2019-01-01 02:23:16,1,0.96,12,36,5.50,9.00,Battery Park,Manhattan,Bushwick North
+2,2019-01-01 01:25:39,2019-01-01 01:34:44,1,1.78,36,1,8.50,12.74,Bushwick North,Brooklyn,Newark Airport
+2,2019-01-01 07:40:49,2019-01-01 07:46:44,1,0.93,38,43,6.50,7.80,Cambria Heights,Queens,Central Park
+2,2019-01-01 03:48:30,2019-01-01 04:22:50,1,5.01,43,14,23.00,29.16,Central Park,Manhattan,Bay Ridge
+2,2019-01-01 23:05:05,2019-01-01 23:11:47,1,1.92,18,25,7.50,8.80,Bedford Park,Bronx,Boerum Hill
+2,2019-01-01 07:30:02,2019-01-01 07:36:50,1,0.99,24,25,6.50,7.80,Bloomingdale,Manhattan,Boerum Hill
+2,2019-01-01 23:50:25,2019-01-02 00:01:58,1,3.65,42,43,13.00,14.30,Central Harlem North,Manhattan,Central Park
+2,2019-01-01 02:12:16,2019-01-01 02:21:47,3,1.69,18,31,8.50,9.80,Bedford Park,Bronx,Bronx Park
+2,2019-01-01 12:33:06,2019-01-01 12:40:16,2,0.80,49,14,6.00,8.30,Clinton Hill,Brooklyn,Bay Ridge
+2,2019-01-01 03:41:18,2019-01-01 03:47:56,2,1.14,14,8,6.50,7.80,Bay Ridge,Brooklyn,Astoria Park
+2,2019-01-01 08:51:23,2019-01-01 09:11:56,2,3.03,8,32,15.00,19.30,Astoria Park,Queens,Bronxdale
+2,2019-01-01 08:26:30,2019-01-01 08:54:15,1,11.96,38,13,35.50,36.80,Cambria Heights,Queens,Battery Park City
+2,2019-01-01 01:54:16,2019-01-01 02:02:10,2,0.77,11,29,6.50,7.80,Bath Beach,Brooklyn,Brighton Beach
+2,2019-01-01 18:18:51,2019-01-01 18:45:12,1,3.27,11,29,17.50,22.56,Bath Beach,Brooklyn,Brighton Beach
+2,2019-01-01 03:52:03,2019-01-01 04:12:04,1,4.77,47,30,17.00,20.59,Claremont/Bathgate,Bronx,Broad Channel
+2,2019-01-01 09:35:48,2019-01-01 09:59:49,1,4.34,20,6,18.50,23.76,Belmont,Bronx,Arrochar/Fort Wadsworth
+2,2019-01-01 07:43:13,2019-01-01 08:05:55,2,8.47,32,22,26.50,27.80,Bronxdale,Bronx,Bensonhurst West
+2,2019-01-01 03:44:37,2019-01-01 04:22:50,1,7.74,7,16,31.00,32.30,Astoria,Queens,Bayside
+2,2019-01-01 02:54:01,2019-01-01 02:59:50,3,1.01,14,33,6.00,8.76,Bay Ridge,Brooklyn,Brooklyn Heights
+2,2019-01-01 16:25:08,2019-01-01 16:31:03,5,0.75,13,29,5.50,8.16,Battery Park City,Manhattan,Brighton Beach
+2,2019-01-01 02:33:21,2019-01-01 02:36:36,5,0.62,29,29,4.00,6.30,Brighton Beach,Brooklyn,Brighton Beach
+2,2019-01-01 16:41:14,2019-01-01 16:44:56,5,0.66,29,37,4.50,5.80,Brighton Beach,Brooklyn,Bushwick South
+2,2019-01-01 02:46:25,2019-01-01 02:48:43,5,0.27,20,20,3.50,6.00,Belmont,Bronx,Belmont
+2,2019-01-01 00:52:08,2019-01-01 01:02:48,5,2.21,20,42,9.50,12.96,Belmont,Bronx,Central Harlem North
+2,2019-01-01 02:41:01,2019-01-01 03:16:45,1,24.74,32,28,65.50,66.80,Bronxdale,Bronx,Briarwood/Jamaica Hills
+2,2019-01-01 02:20:53,2019-01-01 02:23:19,1,0.38,48,50,4.00,6.89,Clinton East,Manhattan,Clinton West
+2,2019-01-01 23:24:44,2019-01-01 23:48:42,1,7.07,50,9,23.50,24.80,Clinton West,Manhattan,Auburndale
+1,2019-01-01 23:01:19,2019-01-01 23:06:50,1,1.00,37,42,6.00,7.30,Bushwick South,Brooklyn,Central Harlem North
+1,2019-01-01 23:09:47,2019-01-01 23:19:09,2,1.10,42,13,7.50,10.55,Central Harlem North,Manhattan,Battery Park City
+1,2019-01-01 00:32:31,2019-01-01 00:38:12,2,0.50,11,12,5.50,6.80,Bath Beach,Brooklyn,Battery Park
+1,2019-01-01 20:48:56,2019-01-01 21:26:54,4,2.40,11,48,22.00,28.30,Bath Beach,Brooklyn,Clinton East
+2,2019-01-01 06:27:38,2019-01-01 06:41:38,2,0.92,14,20,9.50,10.80,Bay Ridge,Brooklyn,Belmont
+2,2019-01-01 00:51:10,2019-01-01 01:02:15,2,0.85,7,20,8.00,11.16,Astoria,Queens,Belmont
+2,2019-01-01 16:24:06,2019-01-01 16:36:18,2,2.93,31,46,12.00,13.30,Bronx Park,Bronx,City Island
+2,2019-01-01 13:15:57,2019-01-01 13:23:39,1,1.40,49,44,7.00,10.38,Clinton Hill,Brooklyn,Charleston/Tottenville
+2,2019-01-01 03:25:59,2019-01-01 03:33:27,1,1.47,44,40,7.00,18.30,Charleston/Tottenville,Staten Island,Carroll Gardens
+2,2019-01-01 01:34:51,2019-01-01 01:48:36,1,1.11,40,37,9.50,12.96,Carroll Gardens,Brooklyn,Bushwick South
+2,2019-01-01 03:50:20,2019-01-01 04:00:05,1,0.83,37,14,7.50,9.80,Bushwick South,Brooklyn,Bay Ridge
+2,2019-01-01 17:14:53,2019-01-01 17:29:07,1,2.29,11,48,11.50,14.72,Bath Beach,Brooklyn,Clinton East
+2,2019-01-01 07:31:05,2019-01-01 07:49:04,1,3.38,48,11,14.00,15.30,Clinton East,Manhattan,Bath Beach
+1,2019-01-01 16:20:46,2019-01-01 16:36:08,1,5.30,48,16,18.00,22.20,Clinton East,Manhattan,Bayside
+1,2019-01-01 03:39:12,2019-01-01 03:46:42,1,1.40,24,41,7.50,9.00,Bloomingdale,Manhattan,Central Harlem
+1,2019-01-01 22:48:45,2019-01-01 22:52:22,1,0.40,42,16,4.50,5.80,Central Harlem North,Manhattan,Bayside
+1,2019-01-01 16:18:46,2019-01-01 16:24:53,1,0.70,29,13,5.50,6.80,Brighton Beach,Brooklyn,Battery Park City
+1,2019-01-01 23:44:37,2019-01-01 23:55:33,1,0.90,34,29,8.00,9.30,Brooklyn Navy Yard,Brooklyn,Brighton Beach
+1,2019-01-01 16:56:56,2019-01-01 17:02:52,1,1.60,29,33,7.00,9.13,Brighton Beach,Brooklyn,Brooklyn Heights
+2,2018-12-31 22:55:10,2018-12-31 23:20:47,2,5.09,29,36,19.50,24.96,Brighton Beach,Brooklyn,Bushwick North
+2,2019-01-01 19:25:29,2019-01-01 20:28:24,2,14.46,36,36,50.50,51.80,Bushwick North,Brooklyn,Bushwick North
+2,2019-01-01 23:12:03,2019-01-01 23:28:16,2,3.62,18,48,14.50,18.17,Bedford Park,Bronx,Clinton East
+2,2019-01-01 10:33:29,2019-01-01 10:59:46,2,4.32,48,7,19.50,24.96,Clinton East,Manhattan,Astoria
+2,2019-01-01 17:03:43,2019-01-01 17:21:06,3,10.90,31,50,30.00,31.30,Bronx Park,Bronx,Clinton West
+2,2019-01-01 17:37:45,2019-01-01 17:46:35,3,4.09,39,40,13.00,19.11,Canarsie,Brooklyn,Carroll Gardens
+2,2019-01-01 11:28:40,2019-01-01 11:36:30,1,1.52,39,36,7.50,9.68,Canarsie,Brooklyn,Bushwick North
+2,2019-01-01 01:14:42,2019-01-01 01:30:46,1,5.90,31,29,19.00,20.30,Bronx Park,Bronx,Brighton Beach
+2,2019-01-01 12:33:34,2019-01-01 12:55:39,1,3.25,29,39,16.00,17.30,Brighton Beach,Brooklyn,Canarsie
+2,2019-01-01 00:58:07,2019-01-01 01:09:02,1,1.56,39,13,9.00,12.30,Canarsie,Brooklyn,Battery Park City
+2,2019-01-01 02:12:41,2019-01-01 02:28:12,1,1.82,11,34,11.00,17.30,Bath Beach,Brooklyn,Brooklyn Navy Yard
+2,2019-01-01 18:31:58,2019-01-01 18:58:57,2,6.70,7,23,23.00,24.30,Astoria,Queens,Bloomfield/Emerson Hill
+2,2019-01-01 01:13:21,2019-01-01 01:31:18,1,4.49,11,42,16.00,20.60,Bath Beach,Brooklyn,Central Harlem North
+2,2019-01-01 23:41:52,2019-01-01 23:50:11,1,1.92,43,36,8.50,12.25,Central Park,Manhattan,Bushwick North
+2,2019-01-01 09:53:37,2019-01-01 10:11:51,1,3.85,36,13,15.00,16.30,Bushwick North,Brooklyn,Battery Park City
+2,2019-01-01 18:00:37,2019-01-01 18:07:04,5,1.54,37,13,6.50,7.80,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 17:14:04,2019-01-01 17:39:20,5,9.47,37,47,29.00,32.30,Bushwick South,Brooklyn,Claremont/Bathgate
+2,2019-01-01 16:14:35,2019-01-01 16:34:09,1,2.10,29,14,13.00,17.16,Brighton Beach,Brooklyn,Bay Ridge
+2,2019-01-01 07:37:24,2019-01-01 07:54:57,1,3.24,20,32,15.00,19.56,Belmont,Bronx,Bronxdale
+2,2019-01-01 03:55:34,2019-01-01 04:02:29,1,1.30,32,48,7.00,8.30,Bronxdale,Bronx,Clinton East
+2,2019-01-01 11:24:31,2019-01-01 11:45:13,5,8.46,7,31,25.50,32.56,Astoria,Queens,Bronx Park
+2,2019-01-01 07:57:06,2019-01-01 08:10:14,5,3.49,9,49,13.00,14.30,Auburndale,Queens,Clinton Hill
+2,2019-01-01 18:14:56,2019-01-01 18:24:32,1,1.14,7,20,7.50,11.44,Astoria,Queens,Belmont
+2,2019-01-01 00:39:44,2019-01-01 00:47:16,1,1.35,37,13,7.50,10.30,Bushwick South,Brooklyn,Battery Park City
+2,2019-01-01 16:52:28,2019-01-01 17:01:41,1,1.24,36,12,8.00,10.30,Bushwick North,Brooklyn,Battery Park
+2,2019-01-01 09:07:15,2019-01-01 09:13:34,1,0.88,14,44,6.00,9.12,Bay Ridge,Brooklyn,Charleston/Tottenville
+2,2019-01-01 22:17:38,2019-01-01 22:39:27,1,8.54,14,29,26.50,27.80,Bay Ridge,Brooklyn,Brighton Beach
+1,2019-01-01 18:17:13,2019-01-01 18:36:20,1,2.90,42,24,15.00,16.30,Central Harlem North,Manhattan,Bloomingdale
+1,2019-01-01 07:38:29,2019-01-01 07:58:45,1,7.60,41,20,23.50,27.44,Central Harlem,Manhattan,Belmont
+2,2019-01-01 18:31:47,2019-01-01 18:56:46,1,2.62,18,42,16.00,20.76,Bedford Park,Bronx,Central Harlem North
+2,2019-01-01 23:25:11,2019-01-01 23:34:53,4,1.45,29,45,8.50,9.80,Brighton Beach,Brooklyn,Chinatown
+2,2019-01-01 23:39:27,2019-01-01 23:57:48,2,2.40,45,14,13.00,14.30,Chinatown,Manhattan,Bay Ridge
+2,2019-01-01 01:00:24,2019-01-01 01:17:49,2,2.51,14,31,13.00,15.30,Bay Ridge,Brooklyn,Bronx Park
+1,2019-01-01 00:03:40,2019-01-01 00:28:46,1,2.90,41,36,17.00,21.95,Central Harlem,Manhattan,Bushwick North
+1,2019-01-01 10:30:25,2019-01-01 10:31:23,1,0.20,36,40,3.00,5.55,Bushwick North,Brooklyn,Carroll Gardens
+1,2019-01-01 07:34:56,2019-01-01 07:36:53,2,0.30,34,7,3.50,5.75,Brooklyn Navy Yard,Brooklyn,Astoria
+2,2019-01-01 23:26:43,2019-01-01 23:55:15,1,1.95,42,14,17.00,18.30,Central Harlem North,Manhattan,Bay Ridge
+2,2019-01-01 16:55:59,2019-01-01 17:01:52,1,0.62,14,20,5.50,8.16,Bay Ridge,Brooklyn,Belmont
+2,2019-01-01 00:08:16,2019-01-01 00:16:34,1,1.53,11,41,8.00,11.30,Bath Beach,Brooklyn,Central Harlem
+2,2019-01-01 03:22:23,2019-01-01 03:51:01,1,3.43,43,18,19.00,20.30,Central Park,Manhattan,Bedford Park
+2,2019-01-01 17:52:25,2019-01-01 18:16:44,1,3.99,18,39,18.50,21.80,Bedford Park,Bronx,Canarsie
+2,2019-01-01 23:17:32,2019-01-01 23:28:30,1,1.38,10,18,8.50,9.80,Baisley Park,Queens,Bedford Park
+2,2019-01-01 10:31:04,2019-01-01 10:32:20,1,0.18,18,18,3.00,4.30,Bedford Park,Bronx,Bedford Park
+2,2019-01-01 00:17:03,2019-01-01 00:19:10,2,0.48,41,37,3.50,4.80,Central Harlem,Manhattan,Bushwick South
+2,2019-01-01 02:21:29,2019-01-01 02:47:10,1,11.34,37,18,33.00,34.30,Bushwick South,Brooklyn,Bedford Park
+2,2019-01-01 08:24:22,2019-01-01 09:25:13,1,13.47,48,39,50.00,51.30,Clinton East,Manhattan,Canarsie
+2,2018-12-31 23:53:59,2019-01-01 00:17:27,1,8.46,48,4,26.50,34.75,Clinton East,Manhattan,Alphabet City
+2,2019-01-01 23:22:55,2019-01-01 23:27:42,1,0.81,29,4,5.00,6.30,Brighton Beach,Brooklyn,Alphabet City
+2,2019-01-01 18:28:58,2019-01-01 18:40:33,1,4.45,4,33,15.00,19.56,Alphabet City,Manhattan,Brooklyn Heights
+2,2019-01-01 14:41:23,2019-01-01 14:55:40,1,2.78,33,31,12.50,16.56,Brooklyn Heights,Brooklyn,Bronx Park
+2,2019-01-01 06:24:53,2019-01-01 06:33:45,1,1.06,44,29,7.50,8.80,Charleston/Tottenville,Staten Island,Brighton Beach
+2,2019-01-01 18:38:48,2019-01-01 18:45:05,1,1.02,29,48,6.00,7.30,Brighton Beach,Brooklyn,Clinton East
+2,2019-01-01 16:46:26,2019-01-01 16:57:57,1,2.91,48,36,11.00,14.76,Clinton East,Manhattan,Bushwick North
+2,2019-01-01 16:16:37,2019-01-01 16:35:34,1,1.87,11,29,13.00,17.16,Bath Beach,Brooklyn,Brighton Beach
+2,2019-01-01 14:38:08,2019-01-01 14:58:45,4,2.49,29,50,14.00,18.36,Brighton Beach,Brooklyn,Clinton West
+2,2019-01-01 01:00:51,2019-01-01 01:17:21,1,0.61,30,18,10.50,11.80,Broad Channel,Queens,Bedford Park
+1,2019-01-01 16:12:11,2019-01-01 16:17:03,1,0.70,14,34,5.00,7.30,Bay Ridge,Brooklyn,Brooklyn Navy Yard
+1,2019-01-01 01:34:47,2019-01-01 01:46:10,1,1.70,18,44,9.00,10.30,Bedford Park,Bronx,Charleston/Tottenville
+1,2019-01-01 23:47:23,2019-01-02 00:23:45,4,6.10,44,38,26.50,33.35,Charleston/Tottenville,Staten Island,Cambria Heights
+2,2019-01-01 02:51:30,2019-01-01 02:57:19,1,2.17,29,13,8.00,9.30,Brighton Beach,Brooklyn,Battery Park City
+2,2018-12-31 02:58:00,2018-12-31 03:24:50,6,13.83,32,48,38.00,47.16,Bronxdale,Bronx,Clinton East
+4,2019-01-01 02:26:43,2019-01-01 02:30:33,1,0.86,39,38,5.00,6.30,Canarsie,Brooklyn,Cambria Heights
+4,2019-01-01 02:32:45,2019-01-01 02:46:40,1,2.21,38,12,11.50,13.80,Cambria Heights,Queens,Battery Park
+4,2019-01-01 23:49:17,2019-01-01 23:54:28,1,1.97,12,29,8.00,9.30,Battery Park,Manhattan,Brighton Beach
+4,2019-01-01 04:56:20,2019-01-01 05:17:10,1,4.11,29,38,17.00,23.79,Brighton Beach,Brooklyn,Cambria Heights
+2,2019-01-01 19:17:34,2019-01-01 19:26:17,1,1.65,42,12,8.00,11.62,Central Harlem North,Manhattan,Battery Park
+2,2019-01-01 03:28:17,2019-01-01 03:35:28,1,1.37,12,7,7.00,9.96,Battery Park,Manhattan,Astoria
+2,2019-01-01 12:47:20,2019-01-01 12:55:41,1,0.91,40,8,7.00,9.30,Carroll Gardens,Brooklyn,Astoria Park
+2,2019-01-01 17:57:07,2019-01-01 18:11:52,1,1.81,8,8,8.50,9.80,Astoria Park,Queens,Astoria Park
+1,2019-01-01 22:33:38,2019-01-01 22:39:33,1,1.10,20,29,6.00,8.30,Belmont,Bronx,Brighton Beach
+2,2019-01-01 01:23:55,2019-01-01 01:32:52,1,0.99,5,5,7.00,9.96,Arden Heights,Staten Island,Arden Heights
+2,2019-01-01 22:36:42,2019-01-01 23:02:48,2,7.72,5,13,26.00,32.76,Arden Heights,Staten Island,Battery Park City
+1,2019-01-01 16:38:01,2019-01-01 17:00:21,1,3.40,14,46,16.50,17.80,Bay Ridge,Brooklyn,City Island
+2,2019-01-01 23:19:48,2019-01-01 23:24:10,1,1.01,11,41,5.50,7.48,Bath Beach,Brooklyn,Central Harlem
+2,2019-01-01 16:27:33,2019-01-01 16:41:01,1,2.61,37,38,12.00,15.80,Bushwick South,Brooklyn,Cambria Heights
+2,2019-01-01 00:44:49,2019-01-01 00:56:58,1,2.38,43,41,11.00,14.76,Central Park,Manhattan,Central Harlem
+1,2019-01-01 08:12:21,2019-01-01 08:20:58,1,1.60,31,40,8.00,10.30,Bronx Park,Bronx,Carroll Gardens
+1,2019-01-01 17:30:42,2019-01-01 17:36:10,1,0.80,31,44,5.50,8.16,Bronx Park,Bronx,Charleston/Tottenville
+1,2019-01-01 18:38:27,2019-01-01 18:50:27,1,1.50,44,37,9.50,12.95,Charleston/Tottenville,Staten Island,Bushwick South
+1,2019-01-01 16:52:05,2019-01-01 17:22:47,1,5.10,37,29,25.50,26.80,Bushwick South,Brooklyn,Brighton Beach
+2,2019-01-01 23:12:10,2019-01-01 23:41:58,6,5.55,31,42,22.00,25.63,Bronx Park,Bronx,Central Harlem North
+2,2019-01-01 17:42:31,2019-01-01 17:49:16,6,1.39,42,38,7.00,8.30,Central Harlem North,Manhattan,Cambria Heights
+2,2019-01-01 22:02:05,2019-01-01 22:15:30,1,0.56,12,11,9.00,12.36,Battery Park,Manhattan,Bath Beach
+2,2019-01-01 18:27:35,2019-01-01 18:41:27,1,1.96,14,41,10.50,12.80,Bay Ridge,Brooklyn,Central Harlem
+2,2019-01-01 21:46:52,2019-01-01 22:08:39,1,6.73,12,6,23.00,37.58,Battery Park,Manhattan,Arrochar/Fort Wadsworth
+1,2019-01-01 00:05:29,2019-01-01 00:12:02,1,1.00,29,11,6.50,9.35,Brighton Beach,Brooklyn,Bath Beach
+1,2019-01-01 00:30:51,2019-01-01 00:46:18,1,5.20,7,13,17.50,18.80,Astoria,Queens,Battery Park City
+1,2019-01-01 00:47:57,2019-01-01 01:05:38,1,7.60,36,9,23.50,29.75,Bushwick North,Brooklyn,Auburndale
+2,2019-01-01 20:25:10,2019-01-01 20:59:35,1,10.02,8,2,33.00,41.16,Astoria Park,Queens,Jamaica Bay
+2,2019-01-01 04:16:06,2019-01-01 04:22:24,1,0.47,46,8,5.50,6.80,City Island,Bronx,Astoria Park
+2,2019-01-01 02:24:34,2019-01-01 02:52:05,1,2.49,8,40,17.50,22.56,Astoria Park,Queens,Carroll Gardens
+2,2019-01-01 02:04:43,2019-01-01 02:21:29,1,9.27,11,13,27.00,33.30,Bath Beach,Brooklyn,Battery Park City
+2,2019-01-01 16:23:28,2019-01-01 16:31:56,1,1.70,13,38,8.00,11.16,Battery Park City,Manhattan,Cambria Heights
+2,2019-01-01 07:32:49,2019-01-01 07:41:57,1,4.10,38,44,13.50,14.80,Cambria Heights,Queens,Charleston/Tottenville
+2,2019-01-01 16:47:34,2019-01-01 16:57:39,1,1.81,16,41,9.00,10.30,Bayside,Queens,Central Harlem
+2,2019-01-01 09:25:27,2019-01-01 09:38:33,1,3.86,7,13,14.00,18.36,Astoria,Queens,Battery Park City
+2,2019-01-01 03:45:00,2019-01-01 03:58:40,1,4.29,41,26,15.00,16.30,Central Harlem,Manhattan,Borough Park
+2,2019-01-01 03:05:34,2019-01-01 03:25:06,1,6.89,41,19,22.00,23.30,Central Harlem,Manhattan,Bellerose
+2,2019-01-01 17:40:27,2019-01-01 17:44:20,1,0.78,24,43,5.00,7.30,Bloomingdale,Manhattan,Central Park
+1,2019-01-01 05:52:27,2019-01-01 05:59:46,1,2.30,13,41,8.50,11.75,Battery Park City,Manhattan,Central Harlem
+1,2019-01-01 00:07:13,2019-01-01 00:15:22,1,1.50,34,44,7.50,10.55,Brooklyn Navy Yard,Brooklyn,Charleston/Tottenville
+1,2019-01-01 09:22:18,2019-01-01 09:26:59,1,0.50,44,11,5.00,7.55,Charleston/Tottenville,Staten Island,Bath Beach
+1,2019-01-01 18:34:17,2019-01-01 19:06:06,1,8.90,14,39,29.50,36.95,Bay Ridge,Brooklyn,Canarsie
+2,2019-01-01 22:31:32,2019-01-01 22:46:06,3,1.58,34,46,10.50,11.80,Brooklyn Navy Yard,Brooklyn,City Island
+2,2019-01-01 08:48:57,2019-01-01 09:31:59,3,7.28,46,24,30.00,48.19,City Island,Bronx,Bloomingdale
+2,2019-01-01 16:56:44,2019-01-01 17:18:09,1,5.21,29,12,19.00,22.30,Brighton Beach,Brooklyn,Battery Park
+2,2019-01-01 00:06:47,2019-01-01 00:16:36,1,1.56,18,46,8.50,10.80,Bedford Park,Bronx,City Island
+2,2019-01-01 00:28:55,2019-01-01 00:40:00,1,1.64,50,46,9.00,12.36,Clinton West,Manhattan,City Island
+2,2019-01-01 02:49:43,2019-01-01 02:58:07,1,1.22,18,8,7.50,10.56,Bedford Park,Bronx,Astoria Park
+1,2019-01-01 17:26:44,2019-01-01 17:33:39,1,1.10,13,8,6.50,8.80,Battery Park City,Manhattan,Astoria Park
+1,2019-01-01 08:34:40,2019-01-01 08:57:07,1,1.90,8,20,14.50,18.96,Astoria Park,Queens,Belmont
+1,2019-01-01 08:59:27,2019-01-01 09:22:23,1,1.00,20,33,14.50,15.80,Belmont,Bronx,Brooklyn Heights
+2,2019-01-01 00:18:31,2019-01-01 00:48:56,1,7.65,36,48,26.50,33.56,Bushwick North,Brooklyn,Clinton East
+2,2019-01-01 08:16:05,2019-01-01 08:25:18,1,1.61,41,1,8.50,11.76,Central Harlem,Manhattan,Newark Airport
+2,2019-01-01 02:42:44,2019-01-01 03:41:39,1,25.92,48,22,75.00,82.06,Clinton East,Manhattan,Bensonhurst West
+2,2019-01-01 00:07:27,2019-01-01 00:15:58,1,2.88,40,7,10.50,11.80,Carroll Gardens,Brooklyn,Astoria
+2,2019-01-01 02:19:43,2019-01-01 02:41:10,1,3.64,7,41,16.00,20.76,Astoria,Queens,Central Harlem
+2,2019-01-01 15:44:50,2019-01-01 15:46:13,1,0.50,36,36,3.50,4.80,Bushwick North,Brooklyn,Bushwick North
+2,2019-01-01 02:48:23,2019-01-01 02:49:03,1,0.04,36,25,2.50,3.80,Bushwick North,Brooklyn,Boerum Hill
+2,2019-01-01 01:51:17,2019-01-01 01:53:27,1,0.91,25,24,4.50,5.80,Boerum Hill,Brooklyn,Bloomingdale
+2,2019-01-01 09:03:07,2019-01-01 09:09:19,2,0.92,29,40,6.00,8.38,Brighton Beach,Brooklyn,Carroll Gardens
+2,2019-01-01 09:20:26,2019-01-01 09:38:06,2,2.50,34,40,13.00,15.88,Brooklyn Navy Yard,Brooklyn,Carroll Gardens
+2,2019-01-01 18:41:01,2019-01-01 18:45:56,1,1.35,41,12,6.00,7.30,Central Harlem,Manhattan,Battery Park
+2,2019-01-01 22:47:12,2019-01-01 22:48:53,2,0.31,12,12,3.50,4.80,Battery Park,Manhattan,Battery Park
+2,2019-01-01 01:51:25,2019-01-01 01:55:47,2,1.24,40,13,6.00,8.76,Carroll Gardens,Brooklyn,Battery Park City
+2,2019-01-01 02:25:13,2019-01-01 02:52:33,5,7.83,14,42,27.00,33.96,Bay Ridge,Brooklyn,Central Harlem North
+2,2018-12-31 23:59:36,2019-01-01 00:16:24,1,3.77,48,13,15.00,18.30,Clinton East,Manhattan,Battery Park City
+2,2019-01-01 18:19:16,2019-01-01 18:21:56,1,0.79,13,41,4.50,6.96,Battery Park City,Manhattan,Central Harlem
+2,2019-01-01 16:32:21,2019-01-01 16:41:17,1,2.22,33,41,9.00,13.30,Brooklyn Heights,Brooklyn,Central Harlem
+2,2019-01-01 18:47:54,2019-01-01 18:55:56,1,1.01,29,13,7.00,9.96,Brighton Beach,Brooklyn,Battery Park City
+2,2019-01-01 23:58:37,2019-01-02 00:41:01,1,8.11,13,31,31.00,40.38,Battery Park City,Manhattan,Bronx Park
+2,2019-01-01 17:07:35,2019-01-01 17:38:29,1,3.86,14,48,20.50,26.16,Bay Ridge,Brooklyn,Clinton East
+2,2019-01-01 01:47:22,2019-01-01 01:58:01,1,1.88,50,12,9.00,12.36,Clinton West,Manhattan,Battery Park
+2,2019-01-01 09:20:31,2019-01-01 09:25:05,2,0.64,31,13,5.00,6.30,Bronx Park,Bronx,Battery Park City
+2,2019-01-01 22:27:35,2019-01-01 22:39:45,2,2.64,13,29,11.00,12.30,Battery Park City,Manhattan,Brighton Beach
+2,2019-01-01 20:53:58,2019-01-01 20:59:27,2,0.72,14,44,5.00,7.56,Bay Ridge,Brooklyn,Charleston/Tottenville
+1,2019-01-01 01:43:34,2019-01-01 02:08:33,1,4.10,27,39,18.00,19.30,Breezy Point/Fort Tilden/Riis Beach,Queens,Canarsie
+2,2019-01-01 22:26:34,2019-01-01 22:33:21,2,1.20,43,39,7.00,9.96,Central Park,Manhattan,Canarsie
+2,2019-01-01 02:35:18,2019-01-01 02:38:30,2,0.64,39,38,4.50,5.80,Canarsie,Brooklyn,Cambria Heights
+2,2019-01-01 09:42:28,2019-01-01 09:53:55,2,1.80,38,36,9.50,10.80,Cambria Heights,Queens,Bushwick North
+2,2019-01-01 22:26:07,2019-01-01 22:30:12,1,1.01,37,37,5.50,8.16,Bushwick South,Brooklyn,Bushwick South
+2,2019-01-01 02:31:54,2019-01-01 02:36:40,1,0.80,37,41,5.50,6.80,Bushwick South,Brooklyn,Central Harlem
+2,2019-01-01 18:48:12,2019-01-01 19:04:27,1,6.77,37,37,21.00,24.30,Bushwick South,Brooklyn,Bushwick South
+2,2019-01-01 02:02:06,2019-01-01 02:41:05,2,4.17,14,37,24.50,30.96,Bay Ridge,Brooklyn,Bushwick South
+2,2019-01-01 02:42:11,2019-01-01 02:45:00,2,0.64,37,36,4.00,5.83,Bushwick South,Brooklyn,Bushwick North
+2,2019-01-01 18:48:07,2019-01-01 18:53:34,2,0.97,36,36,6.00,8.76,Bushwick North,Brooklyn,Bushwick North
+1,2019-01-01 04:15:27,2019-01-01 04:55:18,1,12.00,8,32,39.50,48.14,Astoria Park,Queens,Bronxdale
+1,2019-01-01 08:21:09,2019-01-01 08:42:16,1,2.10,8,34,14.50,18.95,Astoria Park,Queens,Brooklyn Navy Yard
+1,2019-01-01 16:54:31,2019-01-01 17:15:11,1,3.80,13,36,16.00,20.75,Battery Park City,Manhattan,Bushwick North
+2,2019-01-01 02:13:55,2019-01-01 02:33:49,3,3.84,18,39,17.00,21.96,Bedford Park,Bronx,Canarsie
+2,2019-01-01 02:36:19,2019-01-01 02:43:57,2,1.52,39,42,8.00,10.30,Canarsie,Brooklyn,Central Harlem North
+2,2019-01-01 00:46:46,2019-01-01 00:55:28,4,1.61,42,39,8.50,12.25,Central Harlem North,Manhattan,Canarsie
+2,2019-01-01 01:58:18,2019-01-01 02:07:41,4,1.34,39,1,8.00,9.30,Canarsie,Brooklyn,Newark Airport
+2,2019-01-01 22:23:46,2019-01-01 22:28:42,5,1.05,18,18,5.50,7.80,Bedford Park,Bronx,Bedford Park
+2,2019-01-01 03:50:30,2019-01-01 04:02:41,5,1.30,40,37,9.00,11.30,Carroll Gardens,Brooklyn,Bushwick South
+2,2019-01-01 03:23:02,2019-01-01 03:49:03,2,3.76,14,33,18.00,19.30,Bay Ridge,Brooklyn,Brooklyn Heights
+1,2019-01-01 13:12:14,2019-01-01 13:22:23,2,2.70,46,31,10.50,14.15,City Island,Bronx,Bronx Park
+1,2019-01-01 08:28:31,2019-01-01 08:36:50,1,0.90,14,18,7.50,10.55,Bay Ridge,Brooklyn,Bedford Park
+1,2019-01-01 22:48:20,2019-01-01 23:04:39,2,1.80,34,48,11.50,15.35,Brooklyn Navy Yard,Brooklyn,Clinton East
+2,2019-01-01 06:20:13,2019-01-01 06:28:45,1,1.29,46,40,7.50,8.80,City Island,Bronx,Carroll Gardens
+2,2019-01-01 09:33:06,2019-01-01 09:54:39,1,2.32,40,29,14.50,18.96,Carroll Gardens,Brooklyn,Brighton Beach
+2,2019-01-01 03:22:44,2019-01-01 03:39:53,5,3.48,14,45,14.50,18.96,Bay Ridge,Brooklyn,Chinatown
+2,2019-01-01 00:53:26,2019-01-01 01:00:11,5,0.81,11,29,6.00,9.12,Bath Beach,Brooklyn,Brighton Beach
+2,2019-01-01 16:13:38,2019-01-01 16:22:46,1,1.20,14,37,8.00,9.30,Bay Ridge,Brooklyn,Bushwick South
+2,2019-01-01 02:23:38,2019-01-01 02:34:08,1,1.80,37,48,9.00,10.30,Bushwick South,Brooklyn,Clinton East
+2,2019-01-01 02:35:47,2019-01-01 02:53:15,1,3.38,48,8,14.00,18.36,Clinton East,Manhattan,Astoria Park
+2,2019-01-01 23:54:47,2019-01-02 00:25:30,1,5.74,8,36,24.00,25.30,Astoria Park,Queens,Bushwick North
+1,2019-01-01 09:11:15,2019-01-01 09:22:15,1,3.90,41,29,13.00,15.80,Central Harlem,Manhattan,Brighton Beach
+1,2019-01-01 15:27:46,2019-01-01 15:41:53,2,4.00,7,25,13.50,14.80,Astoria,Queens,Boerum Hill
+1,2019-01-01 22:43:53,2019-01-01 22:51:46,2,1.40,25,1,7.50,8.80,Boerum Hill,Brooklyn,Newark Airport
+1,2019-01-01 03:58:59,2019-01-01 04:06:52,2,1.40,43,42,7.50,10.55,Central Park,Manhattan,Central Harlem North
+1,2019-01-01 02:16:00,2019-01-01 02:32:21,1,2.70,39,12,13.00,14.30,Canarsie,Brooklyn,Battery Park
+1,2019-01-01 02:41:53,2019-01-01 02:49:07,1,1.00,14,7,6.50,7.80,Bay Ridge,Brooklyn,Astoria
+1,2019-01-01 09:50:19,2019-01-01 10:11:37,1,5.50,7,43,20.50,26.15,Astoria,Queens,Central Park
+2,2019-01-01 22:12:29,2019-01-01 22:18:00,2,0.93,31,13,5.50,8.16,Bronx Park,Bronx,Battery Park City
+2,2019-01-01 18:37:15,2019-01-01 19:03:48,2,4.50,40,36,19.50,24.96,Carroll Gardens,Brooklyn,Bushwick North
+2,2019-01-01 16:19:58,2019-01-01 16:43:40,1,3.59,18,41,17.50,22.56,Bedford Park,Bronx,Central Harlem
+2,2019-01-01 01:44:29,2019-01-01 01:58:35,1,3.14,41,34,13.50,17.76,Central Harlem,Manhattan,Brooklyn Navy Yard
+2,2019-01-01 22:31:00,2019-01-01 22:42:58,1,3.85,37,25,13.00,16.30,Bushwick South,Brooklyn,Boerum Hill
+2,2019-01-01 02:46:08,2019-01-01 03:10:07,1,8.63,36,31,27.50,32.80,Bushwick North,Brooklyn,Bronx Park
+1,2019-01-01 17:15:33,2019-01-01 17:32:42,1,1.00,49,34,11.00,12.30,Clinton Hill,Brooklyn,Brooklyn Navy Yard
+1,2019-01-01 22:35:50,2019-01-01 22:44:21,2,1.20,34,29,7.50,10.55,Brooklyn Navy Yard,Brooklyn,Brighton Beach
+1,2019-01-01 01:47:00,2019-01-01 01:53:27,1,1.50,29,20,7.00,9.80,Brighton Beach,Brooklyn,Belmont
+1,2019-01-01 09:06:04,2019-01-01 09:06:09,1,6.80,43,43,2.50,3.80,Central Park,Manhattan,Central Park
+1,2019-01-01 06:31:32,2019-01-01 06:32:21,2,0.10,42,42,3.00,4.30,Central Harlem North,Manhattan,Central Harlem North
+1,2019-01-01 00:44:16,2019-01-01 00:57:35,2,2.30,39,41,11.00,12.30,Canarsie,Brooklyn,Central Harlem
+2,2019-01-01 00:13:15,2019-01-01 00:35:30,1,2.70,14,44,15.50,16.80,Bay Ridge,Brooklyn,Charleston/Tottenville
+2,2019-01-01 17:41:48,2019-01-01 18:01:57,1,3.02,44,33,14.50,20.54,Charleston/Tottenville,Staten Island,Brooklyn Heights
+2,2019-01-01 16:13:08,2019-01-01 16:28:02,2,3.33,38,18,13.50,14.80,Cambria Heights,Queens,Bedford Park
+2,2019-01-01 14:29:23,2019-01-01 14:41:10,2,1.72,18,29,9.00,12.36,Bedford Park,Bronx,Brighton Beach
+2,2019-01-01 09:45:18,2019-01-01 09:49:49,2,0.94,29,7,5.50,7.96,Brighton Beach,Brooklyn,Astoria
+2,2019-01-01 01:53:00,2019-01-01 02:09:46,2,4.28,29,13,15.00,19.56,Brighton Beach,Brooklyn,Battery Park City
+2,2019-01-01 23:21:34,2019-01-01 23:33:00,1,1.36,13,20,9.00,12.36,Battery Park City,Manhattan,Belmont
+2,2019-01-01 16:34:12,2019-01-01 16:43:13,1,1.60,20,29,8.00,11.16,Belmont,Bronx,Brighton Beach
+2,2019-01-01 00:44:49,2019-01-01 01:02:10,1,5.14,29,7,17.50,22.56,Brighton Beach,Brooklyn,Astoria
+2,2019-01-01 23:26:16,2019-01-01 23:40:54,1,2.15,43,41,10.50,11.80,Central Park,Manhattan,Central Harlem
+2,2019-01-01 02:43:19,2019-01-01 02:49:33,1,1.48,41,25,7.00,10.30,Central Harlem,Manhattan,Boerum Hill
+2,2019-01-01 17:22:49,2019-01-01 17:57:20,3,3.54,48,48,22.50,28.56,Clinton East,Manhattan,Clinton East
+2,2019-01-01 02:30:29,2019-01-01 02:42:54,1,1.64,18,7,9.50,12.96,Bedford Park,Bronx,Astoria
+2,2019-01-01 07:47:01,2019-01-02 07:42:54,2,2.27,20,37,10.50,12.98,Belmont,Bronx,Bushwick South
+2,2019-01-01 17:41:03,2019-01-01 17:47:22,1,1.34,25,31,6.50,9.36,Boerum Hill,Brooklyn,Bronx Park
+2,2019-01-01 17:49:03,2019-01-01 18:01:50,1,2.85,31,18,12.00,15.96,Bronx Park,Bronx,Bedford Park
+2,2019-01-01 23:42:37,2019-01-02 00:24:46,1,16.58,38,39,49.00,50.30,Cambria Heights,Queens,Canarsie
+2,2019-01-01 21:37:21,2019-01-01 22:00:22,1,7.41,48,2,24.00,30.36,Clinton East,Manhattan,Jamaica Bay
+1,2019-01-01 03:33:34,2019-01-01 03:46:09,1,1.00,48,46,9.00,12.35,Clinton East,Manhattan,City Island
+1,2019-01-01 16:14:39,2019-01-01 16:39:34,1,15.60,32,37,43.00,55.35,Bronxdale,Bronx,Bushwick South
+1,2019-01-01 23:21:42,2019-01-01 23:24:15,1,0.50,29,13,4.00,6.85,Brighton Beach,Brooklyn,Battery Park City
+1,2019-01-01 22:59:27,2019-01-01 23:12:00,1,2.30,18,20,10.50,11.80,Bedford Park,Bronx,Belmont
+2,2019-01-01 02:28:42,2019-01-01 02:47:11,1,2.59,36,4,13.50,15.80,Bushwick North,Brooklyn,Alphabet City
+2,2019-01-01 03:50:17,2019-01-01 04:10:21,1,2.81,29,11,14.50,15.80,Brighton Beach,Brooklyn,Bath Beach
+2,2019-01-01 00:22:48,2019-01-01 00:44:35,1,4.08,5,25,17.00,21.96,Arden Heights,Staten Island,Boerum Hill
+1,2019-01-01 02:26:59,2019-01-01 02:41:24,2,1.20,40,14,10.00,12.30,Carroll Gardens,Brooklyn,Bay Ridge
+1,2019-01-01 02:45:57,2019-01-01 02:55:28,1,0.80,34,40,7.50,11.02,Brooklyn Navy Yard,Brooklyn,Carroll Gardens
+1,2019-01-01 21:56:54,2019-01-01 22:12:52,1,1.80,40,29,11.50,15.35,Carroll Gardens,Brooklyn,Brighton Beach
+2,2019-01-01 08:17:17,2019-01-01 08:49:59,5,11.42,40,23,35.00,42.06,Carroll Gardens,Brooklyn,Bloomfield/Emerson Hill
+1,2019-01-01 17:06:16,2019-01-01 17:24:01,1,2.50,49,48,13.00,17.15,Clinton Hill,Brooklyn,Clinton East
+1,2019-01-01 12:30:00,2019-01-01 12:34:25,1,0.90,48,43,5.50,8.15,Clinton East,Manhattan,Central Park
+1,2019-01-01 23:38:03,2019-01-01 23:41:25,1,0.70,43,38,4.50,5.80,Central Park,Manhattan,Cambria Heights
+1,2019-01-01 20:48:52,2019-01-01 20:52:58,1,0.60,39,43,5.00,6.30,Canarsie,Brooklyn,Central Park
+1,2019-01-01 00:54:57,2019-01-01 01:02:14,1,1.00,43,39,7.00,8.30,Central Park,Manhattan,Canarsie
+1,2019-01-01 10:19:31,2019-01-01 10:35:53,1,1.30,18,14,11.00,14.75,Bedford Park,Bronx,Bay Ridge
+1,2019-01-01 17:42:45,2019-01-01 18:03:33,1,4.70,37,38,17.50,24.40,Bushwick South,Brooklyn,Cambria Heights
+2,2019-01-01 01:32:30,2019-01-01 01:39:35,1,0.39,48,48,5.50,11.80,Clinton East,Manhattan,Clinton East
+2,2019-01-01 08:41:59,2019-01-01 08:51:02,1,1.59,48,42,8.00,9.30,Clinton East,Manhattan,Central Harlem North
+2,2019-01-01 08:52:10,2019-01-01 09:15:55,1,2.60,42,36,15.50,20.16,Central Harlem North,Manhattan,Bushwick North
+1,2019-01-01 16:35:54,2019-01-01 16:54:36,1,1.30,11,12,12.50,13.80,Bath Beach,Brooklyn,Battery Park
+1,2019-01-01 08:45:29,2019-01-01 09:07:06,3,3.10,29,37,15.00,19.55,Brighton Beach,Brooklyn,Bushwick South
+2,2019-01-01 18:16:35,2019-01-01 18:20:16,2,0.42,37,37,4.50,5.80,Bushwick South,Brooklyn,Bushwick South
+2,2019-01-01 00:22:56,2019-01-01 00:35:47,2,3.43,43,42,12.50,17.94,Central Park,Manhattan,Central Harlem North
+2,2019-01-01 22:46:44,2019-01-01 22:58:19,2,2.40,43,39,10.50,14.16,Central Park,Manhattan,Canarsie
+2,2018-12-31 02:57:30,2018-12-31 03:00:55,1,0.58,44,14,4.50,6.96,Charleston/Tottenville,Staten Island,Bay Ridge
+2,2019-01-01 23:02:46,2019-01-01 23:11:54,1,2.36,13,38,9.50,14.04,Battery Park City,Manhattan,Cambria Heights
+2,2019-01-01 02:13:09,2019-01-01 02:19:38,1,1.00,38,13,6.50,9.36,Cambria Heights,Queens,Battery Park City
+2,2019-01-01 22:20:54,2019-01-01 22:29:17,1,4.09,13,4,13.00,15.30,Battery Park City,Manhattan,Alphabet City
+2,2019-01-01 02:40:26,2019-01-01 03:09:43,1,4.05,29,13,19.50,24.96,Brighton Beach,Brooklyn,Battery Park City
+2,2019-01-01 03:14:42,2019-01-01 03:23:10,1,1.97,43,12,8.50,12.25,Central Park,Manhattan,Battery Park
+2,2019-01-01 09:27:43,2019-01-01 09:38:25,1,2.28,13,12,9.00,11.10,Battery Park City,Manhattan,Battery Park
+2,2019-01-01 02:42:04,2019-01-01 02:57:46,1,0.96,12,14,10.50,11.80,Battery Park,Manhattan,Bay Ridge
+2,2019-01-01 18:31:03,2019-01-01 18:46:14,4,1.70,29,40,11.00,14.76,Brighton Beach,Brooklyn,Carroll Gardens
